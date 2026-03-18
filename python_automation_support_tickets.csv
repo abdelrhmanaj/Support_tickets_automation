@@ -1,0 +1,1617 @@
+ticket_id,created_at,customer_id,customer_city,channel,priority,issue_type,assigned_agent,status,first_response_mins,resolution_hours,csat_score,reopened_flag,resolved_at,sla_target_hours,sla_met_flag
+70800,2024-11-19 23:51:00,2290,  Tanta ,Portal,  High ,Billing,ALI,  Open ,652.0,,,0,,24.0,
+70459,2025-02-26 17:35:00,2433,Suez,  Portal ,low,  REFUND ,Omar,  resolved ,388.0,28.0,4.0,0,2025-02-27 21:35:00,72.0,1.0
+70161,2024-11-07 18:12:00,2417,SUEZ,Email,Critical,refund,Heba,OPEN,613.0,,5.0,0,,8.0,
+70724,2024-11-20 07:54:00,2596,Mansoura,Email,Medium,Complaint,Heba,  Pending ,686.0,112.0,4.0,1,,48.0,0.0
+70792,2024-09-22 17:58:00,2508,Giza,Phone,  Low ,Account,NADA,Resolved,320.0,35.0,,0,2024-09-24 04:58:00,72.0,1.0
+70611,2024-11-10 05:53:00,2295,ZAGAZIG,Email,Medium,REFUND,Farah,Resolved,228.0,51.0,1.0,0,2024-11-12 08:53:00,48.0,0.0
+70869,2025-01-02 16:03:00,2177,Suez,Email,Medium,Refund,Mina,Resolved,468.0,19.0,1.0,0,2025-01-03 11:03:00,48.0,1.0
+71284,2024-11-10 22:16:00,2306,tanta,Portal,Medium,delivery,mina,  RESOLVED ,480.0,12.0,,0,2024-11-11 10:16:00,48.0,1.0
+70925,2024-12-07 02:06:00,2527,zagazig,Phone,Low,account,  YOUSSEF ,Pending,274.0,73.0,3.0,0,,72.0,0.0
+71093,2024-10-28 20:43:00,2211,  Suez ,EMAIL,High,Delivery,farah,Resolved,307.0,29.0,4.0,0,2024-10-30 01:43:00,24.0,0.0
+70793,2024-09-15 12:13:00,2031,  ALEXANDRIA ,phone,medium,Refund,Mina,Resolved,437.0,68.0,4.0,0,2024-09-18 08:13:00,48.0,0.0
+70075,2024-11-07 07:41:00,2188,  Giza ,Email,High,  COMPLAINT ,mina,Resolved,415.0,120.0,5.0,0,2024-11-12 07:41:00,24.0,0.0
+70314,2025-02-10 05:42:00,2129,ZAGAZIG,CHAT,  Low ,  TECHNICAL ,Youssef,Pending,37.0,157.0,2.0,0,,72.0,0.0
+70678,2024-11-29 04:23:00,2059,  Suez ,Chat,Low,Complaint,Sara,resolved,451.0,95.0,5.0,0,2024-12-03 03:23:00,72.0,0.0
+71443,2024-11-18 15:20:00,2130,ismailia,PORTAL,Medium,Delivery,Youssef,CLOSED,85.0,64.0,4.0,0,2024-11-21 07:20:00,48.0,0.0
+71526,2025-02-13 09:03:00,2293,giza,Chat,Critical,Account,Heba,Resolved,374.0,107.0,,0,2025-02-17 20:03:00,8.0,0.0
+70829,2025-01-22 14:39:00,2585,Cairo,Chat,LOW,Billing,Omar,open,232.0,40.0,,0,,72.0,0.0
+70696,2025-02-18 12:34:00,2033,Mansoura,PHONE,Critical,  Technical ,  Mina ,Closed,353.0,102.0,5.0,0,2025-02-22 18:34:00,8.0,0.0
+70832,2025-02-20 13:48:00,2478,Tanta,  Phone ,Medium,Account,sara,resolved,607.0,120.0,5.0,0,2025-02-25 13:48:00,48.0,0.0
+71457,2025-01-15 12:09:00,2275,,  Chat ,Medium,  Account ,Ali,  Resolved ,373.0,71.0,3.0,0,2025-01-18 11:09:00,48.0,0.0
+70375,2025-02-02 06:55:00,2500,suez,Phone,LOW,BILLING,FARAH,Open,128.0,158.0,4.0,0,,72.0,0.0
+70511,2024-12-16 20:32:00,2139,,  CHAT ,High,Refund,NADA,PENDING,385.0,,4.0,0,,24.0,
+71005,2024-10-10 01:47:00,2205,Mansoura,  Portal ,  Critical ,Account,Omar,Resolved,129.0,105.0,4.0,0,2024-10-14 10:47:00,8.0,0.0
+71144,2024-09-29 19:08:00,2565,alexandria,Chat,  High ,Billing,OMAR,Resolved,174.0,129.0,2.0,0,2024-10-05 04:08:00,24.0,0.0
+70318,2025-02-10 09:20:00,2186,Ismailia,Portal,High,Account,Omar,open,12.0,114.0,5.0,0,,24.0,0.0
+70938,2024-12-29 14:33:00,2569,,CHAT,Critical,Account,Heba,Closed,625.0,113.0,4.0,0,2025-01-03 07:33:00,8.0,0.0
+71405,2024-10-21 00:42:00,2554,Ismailia,Portal,High,Complaint,Youssef,Resolved,167.0,57.0,1.0,0,2024-10-23 09:42:00,24.0,0.0
+70630,2025-01-28 23:35:00,2581,Ismailia,EMAIL,Low,technical,Omar,Resolved,719.0,34.0,5.0,0,2025-01-30 09:35:00,72.0,1.0
+71176,2024-11-15 17:43:00,2538,  Zagazig ,Email,High,Delivery,Farah,Resolved,565.0,146.0,5.0,1,2024-11-21 19:43:00,24.0,0.0
+70542,2024-10-03 17:30:00,2060,Zagazig,CHAT,Low,Refund,Ali,Resolved,141.0,10.0,,0,2024-10-04 03:30:00,72.0,1.0
+70673,2024-09-09 04:45:00,2233,Giza,Chat,High,delivery,mina,resolved,668.0,27.0,4.0,0,2024-09-10 07:45:00,24.0,0.0
+71208,2025-01-05 14:29:00,2121,Suez,email,  Low ,Complaint,Nada,Resolved,478.0,107.0,3.0,0,2025-01-10 01:29:00,72.0,0.0
+70282,2024-12-23 00:25:00,2261,Giza,Chat,medium,Billing,youssef,Resolved,183.0,46.0,4.0,0,2024-12-24 22:25:00,48.0,1.0
+70136,2024-11-16 19:27:00,2537,Giza,EMAIL,Medium,Delivery,  Mina ,Resolved,376.0,48.0,,0,2024-11-18 19:27:00,48.0,1.0
+71153,2025-02-13 15:26:00,2306,Cairo,Phone,  High ,  Billing ,Mina,  Open ,620.0,158.0,,0,,24.0,0.0
+70229,2025-02-28 19:03:00,2529,Cairo,Phone,Medium,Technical,Sara,  Resolved ,571.0,84.0,4.0,0,2025-03-04 07:03:00,48.0,0.0
+70645,2024-09-21 00:22:00,2531,  ismailia ,Portal,Medium,Refund,Youssef,RESOLVED,285.0,92.0,3.0,0,2024-09-24 20:22:00,48.0,0.0
+70491,2024-10-06 10:37:00,2325,Tanta,Chat,Medium,technical,  Omar ,  CLOSED ,57.0,103.0,4.0,0,2024-10-10 17:37:00,48.0,0.0
+70660,2024-09-15 14:53:00,2368,Mansoura,Phone,LOW,Technical,Heba,Open,488.0,106.0,4.0,0,,72.0,0.0
+71516,2024-12-03 20:50:00,2576,Cairo,Portal,medium,Technical,Sara,Pending,595.0,76.0,,0,,48.0,0.0
+70784,2024-09-15 00:52:00,2319,SUEZ,chat,  Medium ,Refund,Ali,Closed,627.0,94.0,4.0,1,2024-09-18 22:52:00,48.0,0.0
+70324,2024-12-11 21:17:00,2459,Zagazig,Portal,MEDIUM,delivery,Farah,Resolved,7.0,7.0,,1,2024-12-12 04:17:00,48.0,1.0
+70650,2024-11-28 03:06:00,2497,tanta,phone,Medium,Technical,Mina,Pending,159.0,,5.0,0,,48.0,
+71178,2024-09-20 20:04:00,2270,Tanta,chat,  medium ,  Delivery ,Nada,Closed,317.0,143.0,4.0,0,2024-09-26 19:04:00,48.0,0.0
+70928,2024-12-10 06:21:00,2131,Mansoura,Chat,Low,refund,  Nada ,Open,434.0,,4.0,0,,72.0,
+70082,2024-12-08 12:40:00,2544,ALEXANDRIA,Phone,Medium,Refund,Sara,RESOLVED,49.0,8.0,5.0,0,2024-12-08 20:40:00,48.0,1.0
+70332,2024-11-04 06:12:00,2546,Mansoura,Email,Medium,Complaint,  Nada ,Resolved,296.0,7.0,5.0,0,2024-11-04 13:12:00,48.0,1.0
+70260,2025-02-14 07:47:00,2451,Mansoura,Phone,Low,Account,Sara,Open,394.0,127.0,4.0,1,,72.0,0.0
+70799,2024-11-13 18:05:00,2297,Alexandria,CHAT,critical,  Refund ,SARA,Closed,131.0,129.0,4.0,0,2024-11-19 03:05:00,8.0,0.0
+70830,2024-12-19 20:52:00,2031,Zagazig,Email,  Medium ,Billing,Nada,resolved,188.0,113.0,3.0,0,2024-12-24 13:52:00,48.0,0.0
+70635,2025-01-23 07:08:00,2444,Cairo,Chat,Medium,complaint,Mina,  Open ,163.0,164.0,2.0,0,,48.0,0.0
+70181,2024-11-19 22:52:00,2258,Zagazig,Email,Medium,Delivery,  Youssef ,Closed,150.0,157.0,3.0,0,2024-11-26 11:52:00,48.0,0.0
+71437,2024-10-30 12:45:00,2238,Giza,Chat,Medium,  Technical ,MINA,Resolved,64.0,132.0,4.0,0,2024-11-05 00:45:00,48.0,0.0
+70266,2025-01-20 16:52:00,2577,Giza,Chat,Low,Account,HEBA,Resolved,237.0,154.0,5.0,0,2025-01-27 02:52:00,72.0,0.0
+70003,2024-10-17 04:20:00,2556,Ismailia,Chat,  Medium ,Technical,mina,Resolved,440.0,16.0,5.0,0,2024-10-17 20:20:00,48.0,1.0
+70777,2024-12-08 09:11:00,2153,Tanta,  EMAIL ,  Critical ,  BILLING ,Mina,PENDING,239.0,,4.0,0,,8.0,
+70852,2024-12-10 17:17:00,2139,ISMAILIA,portal,Medium,COMPLAINT,Sara,Resolved,495.0,147.0,,0,2024-12-16 20:17:00,48.0,0.0
+70640,2024-09-10 04:31:00,2343,,Chat,Medium,Refund,  Ali ,RESOLVED,42.0,69.0,,0,2024-09-13 01:31:00,48.0,0.0
+71125,2024-11-09 20:09:00,2464,Cairo,Chat,Medium,  Complaint ,Heba,Resolved,145.0,30.0,3.0,1,2024-11-11 02:09:00,48.0,1.0
+71314,2025-02-25 09:33:00,2112,  Giza ,Portal,medium,Technical,  Omar ,Resolved,427.0,143.0,2.0,0,2025-03-03 08:33:00,48.0,0.0
+70427,2024-10-30 22:43:00,2252,  Suez ,Chat,Medium,Technical,  Heba ,Closed,515.0,153.0,,1,2024-11-06 07:43:00,48.0,0.0
+70823,2024-09-22 09:23:00,2162,CAIRO,Email,  Low ,Technical,Heba,Resolved,274.0,45.0,1.0,0,2024-09-24 06:23:00,72.0,1.0
+71058,2024-10-24 22:16:00,2596,Cairo,portal,Low,Delivery,Farah,Pending,289.0,,5.0,0,,72.0,
+70969,2024-10-01 01:12:00,2214,Alexandria,  Email ,Low,  Account ,Ali,Open,229.0,,4.0,0,,72.0,
+71163,2024-09-15 11:10:00,2383,Tanta,Portal,High,Account,Sara,Open,259.0,25.0,5.0,0,,24.0,0.0
+71573,2025-02-11 04:59:00,2335,Mansoura,Email,Medium,Delivery,Heba,open,37.0,,3.0,0,,48.0,
+70336,2025-01-24 17:52:00,2189,MANSOURA,Chat,Low,Technical,  Mina ,Closed,193.0,161.0,5.0,0,2025-01-31 10:52:00,72.0,0.0
+71579,2024-10-22 19:28:00,2104,ISMAILIA,PHONE,Low,Refund,Nada,Resolved,174.0,152.0,,0,2024-10-29 03:28:00,72.0,0.0
+71067,2024-11-23 13:51:00,2005,  Tanta ,Email,Medium,Delivery,Youssef,Resolved,564.0,30.0,,0,2024-11-24 19:51:00,48.0,1.0
+71255,2024-09-13 03:26:00,2476,Cairo,Portal,  medium ,Technical,Nada,Resolved,258.0,114.0,4.0,0,2024-09-17 21:26:00,48.0,0.0
+70258,2024-09-13 06:20:00,2121,ISMAILIA,Email,Low,  COMPLAINT ,  nada ,open,100.0,,4.0,0,,72.0,
+70763,2024-09-30 15:47:00,2454,Mansoura,Email,  Low ,Technical,FARAH,Resolved,81.0,112.0,,0,2024-10-05 07:47:00,72.0,0.0
+70757,2025-02-12 12:30:00,2115,  Suez ,  Phone ,Medium,BILLING,Farah,  Resolved ,513.0,29.0,,0,2025-02-13 17:30:00,48.0,1.0
+71317,2024-09-09 02:18:00,2256,suez,Portal,Medium,Account,Mina,RESOLVED,660.0,52.0,4.0,0,2024-09-11 06:18:00,48.0,0.0
+70078,2024-10-30 15:36:00,2402,Alexandria,  Email ,Medium,Account,Ali,Resolved,294.0,10.0,,0,2024-10-31 01:36:00,48.0,1.0
+70713,2024-10-27 07:23:00,2264,Ismailia,  Chat ,Critical,Delivery,Farah,Resolved,293.0,157.0,5.0,0,2024-11-02 20:23:00,8.0,0.0
+70310,2024-12-03 02:09:00,2141,giza,Portal,LOW,refund,Ali,RESOLVED,366.0,35.0,4.0,0,2024-12-04 13:09:00,72.0,1.0
+70921,2024-11-16 00:05:00,2405,Cairo,chat,  low ,Complaint,  Mina ,Pending,692.0,8.0,4.0,0,,72.0,0.0
+70259,2025-02-18 02:30:00,2322,  SUEZ ,  chat ,High,complaint,Farah,CLOSED,700.0,65.0,4.0,0,2025-02-20 19:30:00,24.0,0.0
+70040,2024-10-19 10:48:00,2506,Zagazig,  Chat ,MEDIUM,Account,Ali,RESOLVED,638.0,154.0,5.0,0,2024-10-25 20:48:00,48.0,0.0
+70248,2024-10-23 07:19:00,2489,Alexandria,Phone,Low,TECHNICAL,  Mina ,  Closed ,114.0,162.0,4.0,1,2024-10-30 01:19:00,72.0,0.0
+71369,2024-09-25 08:34:00,2005,TANTA,Email,CRITICAL,Account,,RESOLVED,713.0,111.0,3.0,0,2024-09-29 23:34:00,8.0,0.0
+70861,2025-02-06 22:23:00,2375,  Tanta ,Email,LOW,Complaint,Heba,Closed,174.0,46.0,,0,2025-02-08 20:23:00,72.0,1.0
+70668,2024-11-23 18:11:00,2148,Cairo,PORTAL,  Medium ,Delivery,heba,Open,699.0,,5.0,0,,48.0,
+70902,2024-10-02 05:15:00,2268,Mansoura,PORTAL,Medium,Delivery,  Nada ,  Resolved ,427.0,8.0,3.0,0,2024-10-02 13:15:00,48.0,1.0
+71484,2024-12-16 05:40:00,2556,Alexandria,EMAIL,Critical,Delivery,Farah,Resolved,603.0,8.0,4.0,0,2024-12-16 13:40:00,8.0,1.0
+70327,2025-02-16 22:10:00,2501,Suez,Chat,MEDIUM,Billing,ali,Resolved,96.0,1.0,4.0,0,2025-02-16 23:10:00,48.0,1.0
+70545,2024-09-09 14:04:00,2454,suez,  Phone ,MEDIUM,delivery,Youssef,  Resolved ,155.0,2.0,5.0,0,2024-09-09 16:04:00,48.0,1.0
+70798,2024-12-29 13:16:00,2553,cairo,Portal,  Medium ,  Delivery ,Nada,resolved,138.0,49.0,5.0,0,2024-12-31 14:16:00,48.0,0.0
+71103,2024-12-29 17:28:00,2402,Cairo,Phone,High,Complaint,Sara,Resolved,487.0,22.0,4.0,0,2024-12-30 15:28:00,24.0,1.0
+70760,2024-09-09 00:00:00,2527,Mansoura,Email,Low,Complaint,ali,PENDING,108.0,64.0,4.0,0,,72.0,0.0
+70479,2024-12-26 10:22:00,2058,Alexandria,Chat,Critical,Delivery,Heba,  Pending ,301.0,,5.0,0,,8.0,
+71029,2024-10-16 04:45:00,2212,Tanta,Phone,LOW,Refund,  Mina ,Resolved,624.0,32.0,5.0,0,2024-10-17 12:45:00,72.0,1.0
+70615,2024-11-02 13:30:00,2081,suez,Phone,High,technical,Heba,RESOLVED,330.0,68.0,4.0,0,2024-11-05 09:30:00,24.0,0.0
+71231,2024-12-03 17:30:00,2550,Mansoura,Chat,  Medium ,Delivery,Sara,Resolved,629.0,72.0,3.0,0,2024-12-06 17:30:00,48.0,0.0
+70941,2024-11-05 10:36:00,2383,Ismailia,Chat,Low,Billing,  Omar ,Resolved,562.0,140.0,4.0,0,2024-11-11 06:36:00,72.0,0.0
+70846,2024-10-28 18:39:00,2223,  Tanta ,Portal,Critical,Refund,omar,closed,275.0,10.0,5.0,0,2024-10-29 04:39:00,8.0,0.0
+70481,2024-10-07 13:23:00,2506,Mansoura,chat,  Low ,  BILLING ,Heba,Open,70.0,60.0,,0,,72.0,0.0
+71099,2025-01-23 18:15:00,2562,Giza,CHAT,Medium,Technical,Ali,Resolved,570.0,71.0,4.0,1,2025-01-26 17:15:00,48.0,0.0
+70590,2025-02-03 20:51:00,2434,Tanta,  Email ,Low,Complaint,Nada,Closed,291.0,160.0,,0,2025-02-10 12:51:00,72.0,0.0
+70864,2024-12-07 21:13:00,2088,  Alexandria ,CHAT,Low,  Technical ,  SARA ,PENDING,65.0,,2.0,0,,72.0,
+71175,2024-12-13 18:04:00,2155,Alexandria,Phone,Medium,  Complaint ,Youssef,closed,444.0,164.0,,0,2024-12-20 14:04:00,48.0,0.0
+71164,2024-09-02 14:17:00,2181,Giza,  Email ,Low,  complaint ,HEBA,Resolved,192.0,109.0,5.0,0,2024-09-07 03:17:00,72.0,0.0
+71520,2024-10-11 06:20:00,2538,Ismailia,Phone,HIGH,Account,Nada,Resolved,542.0,101.0,5.0,0,2024-10-15 11:20:00,24.0,0.0
+71427,2025-01-12 22:51:00,2149,  Alexandria ,Portal,Medium,Billing,Ali,resolved,359.0,6.0,5.0,0,2025-01-13 04:51:00,48.0,1.0
+71240,2025-01-02 21:45:00,2017,Mansoura,  Phone ,Medium,  Refund ,MINA,Closed,577.0,29.0,5.0,0,2025-01-04 02:45:00,48.0,1.0
+70108,2024-09-25 18:53:00,2372,Alexandria,Portal,High,Billing,Omar,resolved,284.0,130.0,3.0,0,2024-10-01 04:53:00,24.0,0.0
+70434,2024-12-20 15:33:00,2540,Mansoura,Portal,High,  refund ,Ali,Resolved,151.0,75.0,3.0,1,2024-12-23 18:33:00,24.0,0.0
+71203,2024-12-22 17:44:00,2039,Mansoura,Phone,Medium,Complaint,Farah,Closed,545.0,157.0,2.0,0,2024-12-29 06:44:00,48.0,0.0
+71535,2024-11-22 16:09:00,2554,SUEZ,Chat,  MEDIUM ,delivery,NADA,Resolved,522.0,18.0,4.0,0,2024-11-23 10:09:00,48.0,1.0
+71183,2024-09-10 00:27:00,2367,cairo,Email,Low,Account,Omar,Closed,92.0,147.0,5.0,0,2024-09-16 03:27:00,72.0,0.0
+71105,2025-01-18 07:06:00,2051,  Cairo ,Email,High,Complaint,  Omar ,Pending,342.0,128.0,,0,,24.0,0.0
+70553,2024-11-05 16:56:00,2160,Ismailia,Email,Medium,Refund,  Ali ,Resolved,689.0,167.0,5.0,0,2024-11-12 15:56:00,48.0,0.0
+71221,2024-09-24 12:10:00,2525,  Suez ,Chat,low,Complaint,  farah ,Resolved,318.0,90.0,2.0,1,2024-09-28 06:10:00,72.0,0.0
+70223,2024-12-18 17:01:00,2303,Alexandria,Chat,Medium,Complaint,MINA,Closed,42.0,80.0,5.0,0,2024-12-22 01:01:00,48.0,0.0
+70123,2025-01-03 05:47:00,2161,MANSOURA,Chat,LOW,Billing,Youssef,Resolved,518.0,91.0,,0,2025-01-07 00:47:00,72.0,0.0
+70751,2024-11-11 04:19:00,2518,Mansoura,Portal,  low ,Account,Nada,  Open ,10.0,,,0,,72.0,
+70305,2024-09-08 14:37:00,2167,Alexandria,Chat,Low,technical,Ali,Resolved,295.0,62.0,3.0,0,2024-09-11 04:37:00,72.0,1.0
+70700,2024-12-29 12:51:00,2147,Suez,  Email ,  Medium ,  Billing ,Ali,Resolved,546.0,91.0,,0,2025-01-02 07:51:00,48.0,0.0
+71368,2025-01-29 06:19:00,2329,Tanta,phone,  Low ,Billing,  Nada ,Open,323.0,,3.0,0,,72.0,
+70514,2024-09-21 19:08:00,2222,Mansoura,Phone,high,REFUND,HEBA,Resolved,257.0,17.0,3.0,0,2024-09-22 12:08:00,24.0,1.0
+70448,2024-12-14 08:37:00,2456,SUEZ,Chat,Critical,Account,omar,CLOSED,439.0,22.0,5.0,0,2024-12-15 06:37:00,8.0,0.0
+70518,2024-11-04 05:53:00,2057,suez,email,CRITICAL,TECHNICAL,SARA,  resolved ,514.0,113.0,,1,2024-11-08 22:53:00,8.0,0.0
+71546,2024-10-14 20:16:00,2085,Mansoura,portal,  Medium ,refund,Omar,Closed,712.0,163.0,3.0,0,2024-10-21 15:16:00,48.0,0.0
+71252,2024-11-23 00:27:00,2542,Ismailia,phone,  Medium ,Technical,Nada,Resolved,556.0,87.0,3.0,0,2024-11-26 15:27:00,48.0,0.0
+71401,2024-12-08 00:44:00,2196,Ismailia,Email,  MEDIUM ,Refund,Youssef,Resolved,377.0,73.0,3.0,0,2024-12-11 01:44:00,48.0,0.0
+71458,2024-12-12 00:01:00,2489,Tanta,  Chat ,Medium,Complaint,sara,Open,67.0,,3.0,0,,48.0,
+71477,2024-11-04 15:09:00,2107,Alexandria,PHONE,High,Account,Ali,Resolved,293.0,107.0,3.0,0,2024-11-09 02:09:00,24.0,0.0
+70060,2025-02-10 19:20:00,2344,MANSOURA,  Email ,Medium,  Delivery ,SARA,  OPEN ,615.0,,,0,,48.0,
+70762,2024-09-21 04:58:00,2104,  Tanta ,Portal,critical,Billing,Nada,Open,600.0,51.0,,0,,8.0,0.0
+70119,2025-02-18 18:04:00,2323,Giza,email,High,  Account ,Nada,  Closed ,197.0,143.0,1.0,0,2025-02-24 17:04:00,24.0,0.0
+70143,2024-11-20 16:41:00,2066,Cairo,chat,Critical,Billing,Omar,Closed,413.0,128.0,4.0,0,2024-11-26 00:41:00,8.0,0.0
+71381,2024-12-27 14:46:00,2279,  Suez ,  phone ,  Low ,Billing,  Omar ,Closed,699.0,103.0,4.0,0,2024-12-31 21:46:00,72.0,0.0
+70167,2025-02-27 09:32:00,2511,CAIRO,chat,Low,delivery,Nada,Closed,471.0,133.0,2.0,0,2025-03-04 22:32:00,72.0,0.0
+71119,2025-02-28 06:55:00,2288,MANSOURA,chat,Medium,Complaint,  Ali ,Resolved,655.0,74.0,,1,2025-03-03 08:55:00,48.0,0.0
+71195,2024-10-31 19:28:00,2541,zagazig,PORTAL,Low,  TECHNICAL ,Nada,Resolved,400.0,165.0,,1,2024-11-07 16:28:00,72.0,0.0
+71318,2024-12-04 05:33:00,2370,MANSOURA,chat,High,Technical,Mina,Resolved,504.0,85.0,4.0,1,2024-12-07 18:33:00,24.0,0.0
+71217,2025-02-20 12:37:00,2226,cairo,Chat,medium,Billing,Omar,Closed,609.0,95.0,,1,2025-02-24 11:37:00,48.0,0.0
+70256,2024-12-22 14:56:00,2360,  Giza ,Chat,critical,  Billing ,  Youssef ,Resolved,576.0,12.0,2.0,0,2024-12-23 02:56:00,8.0,0.0
+70776,2024-12-27 02:05:00,2073,Zagazig,Portal,Medium,Refund,Ali,Resolved,593.0,29.0,4.0,0,2024-12-28 07:05:00,48.0,1.0
+71074,2024-11-10 04:48:00,2219,Ismailia,Email,Low,Billing,Nada,  Resolved ,583.0,12.0,,1,2024-11-10 16:48:00,72.0,1.0
+71344,2024-10-11 06:24:00,2102,MANSOURA,PHONE,Medium,Refund,Youssef,pending,79.0,,4.0,0,,48.0,
+70302,2024-09-01 07:11:00,2039,Ismailia,Chat,Medium,Refund,Farah,Resolved,547.0,103.0,2.0,0,2024-09-05 14:11:00,48.0,0.0
+71282,2024-12-27 20:58:00,2365,  zagazig ,Chat,Medium,Refund,,RESOLVED,668.0,117.0,5.0,0,2025-01-01 17:58:00,48.0,0.0
+71135,2024-12-18 02:42:00,2249,,chat,Low,Delivery,farah,  Resolved ,532.0,55.0,5.0,0,2024-12-20 09:42:00,72.0,1.0
+70069,2024-09-05 20:04:00,2484,  cairo ,email,  Low ,Billing,Heba,Resolved,311.0,84.0,5.0,0,2024-09-09 08:04:00,72.0,0.0
+70135,2024-11-05 05:04:00,2118,Ismailia,  Chat ,low,Delivery,heba,Closed,158.0,89.0,,0,2024-11-08 22:04:00,72.0,0.0
+70006,2024-10-21 18:49:00,2425,Mansoura,chat,High,Technical,Ali,  Open ,362.0,8.0,3.0,0,,24.0,0.0
+71052,2025-02-03 13:17:00,2370,Ismailia,Email,  Medium ,Delivery,Omar,OPEN,340.0,45.0,,0,,48.0,0.0
+70769,2025-01-09 04:26:00,2573,Tanta,Phone,High,Account,Nada,  Resolved ,37.0,91.0,,0,2025-01-12 23:26:00,24.0,0.0
+70237,2024-11-09 00:29:00,2200,Giza,  email ,Medium,Technical,HEBA,Resolved,623.0,32.0,5.0,0,2024-11-10 08:29:00,48.0,1.0
+70543,2024-12-09 11:41:00,2479,ZAGAZIG,Email,high,Delivery,YOUSSEF,Closed,644.0,55.0,4.0,0,2024-12-11 18:41:00,24.0,0.0
+71591,2025-01-07 09:33:00,2274,ismailia,EMAIL,MEDIUM,Account,Farah,Open,606.0,,4.0,0,,48.0,
+71367,2024-12-25 05:04:00,2295,Ismailia,chat,Low,REFUND,  Farah ,Pending,532.0,,3.0,0,,72.0,
+70099,2024-12-23 11:29:00,2394,mansoura,Chat,low,Technical,Ali,  Open ,9.0,,2.0,0,,72.0,
+70688,2024-10-08 08:56:00,2031,TANTA,Portal,Medium,Billing,Sara,  Resolved ,516.0,108.0,3.0,0,2024-10-12 20:56:00,48.0,0.0
+70230,2024-09-19 16:05:00,2283,Mansoura,Chat,Low,Account,Omar,Resolved,338.0,8.0,4.0,0,2024-09-20 00:05:00,72.0,1.0
+70872,2024-09-22 21:26:00,2002,Tanta,Email,Medium,Technical,Sara,  RESOLVED ,540.0,61.0,1.0,1,2024-09-25 10:26:00,48.0,0.0
+71190,2024-11-22 02:40:00,2014,Cairo,Email,Low,  Account ,,resolved,611.0,37.0,5.0,0,2024-11-23 15:40:00,72.0,1.0
+70132,2024-09-12 16:04:00,2178,  zagazig ,CHAT,Low,Account,Sara,Resolved,343.0,19.0,4.0,0,2024-09-13 11:04:00,72.0,1.0
+70764,2024-11-29 19:26:00,2168,Tanta,  Chat ,HIGH,Account,  Sara ,Open,544.0,,4.0,0,,24.0,
+71061,2025-01-27 06:15:00,2229,Mansoura,email,medium,  Delivery ,Omar,Open,350.0,,4.0,0,,48.0,
+70924,2024-09-20 07:41:00,2325,Suez,Chat,Medium,Account,Nada,Resolved,696.0,59.0,2.0,0,2024-09-22 18:41:00,48.0,0.0
+70290,2024-11-16 00:31:00,2270,Tanta,Portal,High,Delivery,Farah,Closed,316.0,64.0,,0,2024-11-18 16:31:00,24.0,0.0
+70054,2024-10-25 11:00:00,2437,Tanta,portal,Low,  Refund ,  Farah ,CLOSED,246.0,3.0,2.0,0,2024-10-25 14:00:00,72.0,1.0
+71157,2025-02-15 04:35:00,2516,Mansoura,Email,critical,DELIVERY,farah,Closed,263.0,23.0,5.0,0,2025-02-16 03:35:00,8.0,0.0
+70923,2025-02-20 06:28:00,2367,Ismailia,Chat,Medium,Account,Farah,Open,180.0,135.0,4.0,0,,48.0,0.0
+70873,2025-01-14 10:40:00,2501,Mansoura,PORTAL,Critical,Billing,Ali,  pending ,180.0,13.0,5.0,0,,8.0,0.0
+70590,2025-02-03 20:51:00,2434,Tanta,  Email ,Low,Complaint,Nada,Closed,291.0,160.0,,0,2025-02-10 12:51:00,72.0,0.0
+70871,2024-12-05 14:43:00,2508,  Alexandria ,Phone,Medium,ACCOUNT,ALI,OPEN,387.0,,4.0,1,,48.0,
+70515,2024-11-25 15:01:00,2164,Cairo,Email,low,Technical,Youssef,RESOLVED,-5.0,153.0,5.0,0,2024-12-02 00:01:00,72.0,0.0
+70758,2025-02-05 03:15:00,2559,Mansoura,Chat,Medium,DELIVERY,Mina,RESOLVED,556.0,98.0,4.0,0,2025-02-09 05:15:00,48.0,0.0
+70472,2025-02-27 15:11:00,2062,Giza,Chat,Low,Complaint,Nada,Open,430.0,133.0,,0,,72.0,0.0
+70749,2024-10-16 13:41:00,2106,  ISMAILIA ,Phone,Low,Refund,Farah,Resolved,178.0,80.0,1.0,0,2024-10-19 21:41:00,72.0,0.0
+70972,2024-10-01 00:34:00,2237,  zagazig ,Phone,Medium,  Delivery ,  FARAH ,Resolved,47.0,73.0,4.0,0,2024-10-04 01:34:00,48.0,0.0
+70880,2024-12-16 22:39:00,2280,  Zagazig ,  Chat ,  High ,Delivery,ALI,Resolved,677.0,43.0,3.0,0,2024-12-18 17:39:00,24.0,0.0
+71205,2024-12-05 06:57:00,2457,Mansoura,Chat,low,Refund,Nada,Pending,50.0,,4.0,0,,72.0,
+71128,2024-11-13 04:53:00,2305,Cairo,Email,Medium,billing,  Nada ,Pending,636.0,,,1,,48.0,
+70296,2025-02-25 10:51:00,2155,tanta,Email,critical,refund,Farah,RESOLVED,285.0,35.0,5.0,0,2025-02-26 21:51:00,8.0,0.0
+70227,2024-12-22 21:14:00,2211,Ismailia,Phone,HIGH,  Delivery ,ali,Resolved,636.0,147.0,,0,2024-12-29 00:14:00,24.0,0.0
+71323,2024-09-26 07:20:00,2147,Mansoura,Portal,High,Delivery,ali,  PENDING ,13.0,103.0,,0,,24.0,0.0
+70249,2024-10-05 03:11:00,2487,,Chat,Medium,Refund,Ali,Resolved,616.0,59.0,4.0,0,2024-10-07 14:11:00,48.0,0.0
+70186,2024-09-24 01:46:00,2307,Alexandria,EMAIL,Low,Technical,Omar,resolved,234.0,5.0,4.0,0,2024-09-24 06:46:00,72.0,1.0
+71551,2024-09-08 01:00:00,2443,Mansoura,  Phone ,Medium,  DELIVERY ,  mina ,resolved,315.0,73.0,5.0,1,2024-09-11 02:00:00,48.0,0.0
+71277,2024-10-03 16:43:00,2315,  suez ,  Portal ,Low,TECHNICAL,Heba,OPEN,473.0,82.0,5.0,0,,72.0,0.0
+70486,2024-11-12 15:43:00,2490,  Alexandria ,Chat,Medium,Complaint,sara,Resolved,457.0,89.0,,0,2024-11-16 08:43:00,48.0,0.0
+71269,2024-10-07 11:17:00,2291,Ismailia,phone,High,Refund,  Nada ,  Resolved ,186.0,48.0,5.0,0,2024-10-09 11:17:00,24.0,0.0
+71366,2024-12-30 04:45:00,2010,  Cairo ,Phone,Medium,  billing ,farah,Resolved,162.0,123.0,,0,2025-01-04 07:45:00,48.0,0.0
+70494,2024-10-28 01:01:00,2428,Giza,Chat,  HIGH ,Account,  Nada ,Open,353.0,,5.0,0,,24.0,
+70304,2024-11-01 01:50:00,2008,Mansoura,Chat,Medium,Billing,MINA,resolved,27.0,48.0,4.0,0,2024-11-03 01:50:00,48.0,1.0
+71290,2024-09-27 09:51:00,2586,suez,  portal ,LOW,TECHNICAL,  Sara ,Open,339.0,71.0,1.0,0,,72.0,0.0
+70347,2024-09-12 09:48:00,2334,Alexandria,CHAT,  Low ,Billing,Sara,Resolved,261.0,82.0,4.0,0,2024-09-15 19:48:00,72.0,0.0
+70801,2025-02-01 08:49:00,2250,Suez,  Chat ,Medium,Complaint,Ali,Resolved,-5.0,109.0,5.0,0,2025-02-05 21:49:00,48.0,0.0
+71550,2024-11-24 03:43:00,2347,Giza,  Portal ,Low,Delivery,Farah,Resolved,277.0,147.0,5.0,0,2024-11-30 06:43:00,72.0,0.0
+70682,2024-10-16 22:47:00,2590,Ismailia,  Chat ,Medium,Account,  Farah ,Resolved,8.0,160.0,4.0,0,2024-10-23 14:47:00,48.0,0.0
+71116,2025-01-22 00:47:00,2587,  ZAGAZIG ,Chat,LOW,Account,Omar,Closed,586.0,118.0,,0,2025-01-26 22:47:00,72.0,0.0
+70395,2025-01-27 18:14:00,2310,Ismailia,email,Medium,  TECHNICAL ,Ali,pending,473.0,,4.0,0,,48.0,
+70684,2024-11-10 22:42:00,2257,,Portal,Low,Technical,Mina,  Closed ,28.0,136.0,,0,2024-11-16 14:42:00,72.0,0.0
+70234,2024-11-20 13:15:00,2361,zagazig,Chat,High,  Technical ,,Closed,476.0,51.0,,0,2024-11-22 16:15:00,24.0,0.0
+71513,2025-01-14 12:09:00,2007,Suez,Chat,low,Delivery,Youssef,Resolved,145.0,119.0,5.0,0,2025-01-19 11:09:00,72.0,0.0
+70064,2024-09-25 01:25:00,2082,Giza,Phone,  LOW ,Refund,Heba,CLOSED,18.0,152.0,5.0,0,2024-10-01 09:25:00,72.0,0.0
+70834,2024-12-16 14:17:00,2515,Tanta,Phone,MEDIUM,Refund,  Mina ,Resolved,391.0,88.0,5.0,0,2024-12-20 06:17:00,48.0,0.0
+71355,2024-10-04 15:15:00,2096,,Email,CRITICAL,Complaint,  Omar ,Closed,337.0,164.0,3.0,0,2024-10-11 11:15:00,8.0,0.0
+70438,2024-11-26 23:04:00,2185,Cairo,PHONE,Medium,Refund,farah,Closed,279.0,97.0,3.0,0,2024-12-01 00:04:00,48.0,0.0
+71451,2025-01-18 12:54:00,2459,Ismailia,Portal,medium,Account,SARA,Closed,413.0,45.0,3.0,0,2025-01-20 09:54:00,48.0,1.0
+71301,2025-01-29 16:14:00,2309,Alexandria,  Email ,Low,  TECHNICAL ,Farah,RESOLVED,298.0,13.0,2.0,0,2025-01-30 05:14:00,72.0,1.0
+71001,2024-10-25 12:50:00,2125,Cairo,Chat,Low,Delivery,Omar,Closed,489.0,121.0,4.0,0,2024-10-30 13:50:00,72.0,0.0
+70098,2025-01-21 04:53:00,2168,Ismailia,Chat,High,  account ,farah,Pending,102.0,,3.0,0,,24.0,
+70110,2024-09-24 23:07:00,2557,Cairo,Email,Low,Delivery,Omar,resolved,626.0,6.0,3.0,0,2024-09-25 05:07:00,72.0,1.0
+70056,2024-09-15 04:29:00,2082,Cairo,Portal,Low,Account,  Youssef ,Closed,464.0,121.0,3.0,0,2024-09-20 05:29:00,72.0,0.0
+71270,2024-10-15 06:08:00,2370,Cairo,Phone,Critical,refund,  Sara ,Open,89.0,,2.0,0,,8.0,
+70936,2024-12-05 22:46:00,2201,Giza,Chat,low,refund,Ali,Open,515.0,,4.0,0,,72.0,
+70619,2024-10-14 08:56:00,2286,  Zagazig ,Chat,High,Billing,Youssef,closed,643.0,164.0,5.0,0,2024-10-21 04:56:00,24.0,0.0
+71485,2025-01-30 15:30:00,2421,tanta,Portal,Medium,Billing,Ali,Resolved,431.0,99.0,4.0,0,2025-02-03 18:30:00,48.0,0.0
+71291,2024-10-16 04:24:00,2557,SUEZ,Chat,  medium ,billing,Ali,RESOLVED,389.0,11.0,3.0,0,2024-10-16 15:24:00,48.0,1.0
+70513,2024-09-03 02:31:00,2097,  Cairo ,phone,High,Billing,Farah,  Closed ,384.0,58.0,,0,2024-09-05 12:31:00,24.0,0.0
+71536,2024-11-06 06:56:00,2507,Ismailia,  Chat ,  Medium ,Technical,Farah,Closed,618.0,43.0,5.0,0,2024-11-08 01:56:00,48.0,1.0
+70120,2024-12-21 17:57:00,2001,Tanta,  Chat ,Medium,Complaint,Ali,Closed,21.0,77.0,4.0,0,2024-12-24 22:57:00,48.0,0.0
+71456,2024-09-20 00:45:00,2222,TANTA,Chat,  High ,billing,Sara,  Closed ,31.0,124.0,4.0,0,2024-09-25 04:45:00,24.0,0.0
+70517,2024-09-09 23:25:00,2268,Cairo,Email,Medium,Technical,Heba,Resolved,509.0,8.0,,0,2024-09-10 07:25:00,48.0,1.0
+71472,2024-12-17 21:24:00,2372,Tanta,Chat,Medium,Billing,Nada,  Resolved ,339.0,132.0,2.0,0,2024-12-23 09:24:00,48.0,0.0
+70959,2024-11-22 03:32:00,2273,Ismailia,EMAIL,  High ,account,Farah,RESOLVED,313.0,75.0,4.0,0,2024-11-25 06:32:00,24.0,0.0
+70272,2025-02-06 23:47:00,2131,Zagazig,Portal,Low,Technical,Omar,Pending,342.0,,,0,,72.0,
+70835,2024-09-03 04:52:00,2136,tanta,PORTAL,Critical,  Technical ,HEBA,  Resolved ,170.0,156.0,4.0,0,2024-09-09 16:52:00,8.0,0.0
+71541,2025-02-18 22:28:00,2286,  SUEZ ,Email,HIGH,TECHNICAL,  Nada ,  Closed ,198.0,153.0,4.0,0,2025-02-25 07:28:00,24.0,0.0
+70555,2025-01-11 06:34:00,2494,ZAGAZIG,portal,  Medium ,Account,Youssef,Pending,151.0,,5.0,0,,48.0,
+70333,2024-10-07 23:14:00,2506,  Giza ,  Chat ,Low,Account,Farah,Pending,503.0,151.0,,0,,72.0,0.0
+71286,2024-11-05 18:00:00,2173,Suez,  portal ,Medium,Billing,Mina,Resolved,465.0,143.0,3.0,1,2024-11-11 17:00:00,48.0,0.0
+70602,2025-02-18 07:33:00,2423,Ismailia,PORTAL,  Low ,account,Farah,closed,556.0,108.0,4.0,0,2025-02-22 19:33:00,72.0,0.0
+71590,2025-01-18 04:46:00,2212,  Cairo ,  Phone ,low,Refund,Sara,resolved,52.0,142.0,3.0,0,2025-01-24 02:46:00,72.0,0.0
+70217,2024-09-05 22:24:00,2098,Alexandria,Chat,Low,Technical,Sara,  Resolved ,44.0,18.0,4.0,0,2024-09-06 16:24:00,72.0,1.0
+71356,2024-09-24 09:31:00,2339,Tanta,CHAT,Medium,REFUND,  Sara ,Resolved,380.0,56.0,,0,2024-09-26 17:31:00,48.0,0.0
+71308,2025-01-26 16:46:00,2431,Zagazig,Phone,High,Account,Nada,Resolved,579.0,54.0,2.0,0,2025-01-28 22:46:00,24.0,0.0
+70577,2024-11-02 08:29:00,2296,Cairo,chat,Critical,Account,Mina,Resolved,117.0,16.0,2.0,0,2024-11-03 00:29:00,8.0,0.0
+70115,2025-01-10 15:24:00,2100,Mansoura,CHAT,Low,Technical,mina,closed,445.0,34.0,5.0,0,2025-01-12 01:24:00,72.0,1.0
+71491,2024-09-08 00:28:00,2558,Tanta,chat,Low,Account,Youssef,Resolved,643.0,38.0,5.0,0,2024-09-09 14:28:00,72.0,1.0
+70888,2024-11-22 09:52:00,2159,Ismailia,Chat,LOW,Complaint,Nada,Open,685.0,29.0,5.0,0,,72.0,0.0
+71370,2025-01-23 17:42:00,2001,ALEXANDRIA,chat,Medium,Refund,Farah,Resolved,531.0,137.0,5.0,0,2025-01-29 10:42:00,48.0,0.0
+71184,2024-09-10 20:02:00,2038,  Tanta ,  Email ,Medium,Refund,Heba,Closed,279.0,60.0,,0,2024-09-13 08:02:00,48.0,0.0
+70446,2024-12-30 00:42:00,2268,Mansoura,Phone,  High ,Delivery,  heba ,Open,181.0,,,0,,24.0,
+70007,2025-02-04 21:01:00,2510,  Cairo ,phone,  Critical ,Account,  Farah ,Resolved,515.0,104.0,1.0,0,2025-02-09 05:01:00,8.0,0.0
+71046,2025-02-27 20:39:00,2353,  zagazig ,Email,  High ,Account,Youssef,open,271.0,,1.0,0,,24.0,
+71206,2025-01-18 19:53:00,2336,Ismailia,Portal,medium,  Technical ,ali,Resolved,204.0,21.0,4.0,0,2025-01-19 16:53:00,48.0,1.0
+71533,2024-10-10 12:44:00,2253,Tanta,Portal,Low,billing,Mina,Open,531.0,,4.0,0,,72.0,
+70825,2024-10-14 14:42:00,2324,SUEZ,Email,  High ,delivery,Sara,Open,648.0,,,0,,24.0,
+70074,2024-09-27 19:44:00,2150,Cairo,Chat,  Low ,account,ALI,Resolved,162.0,22.0,,0,2024-09-28 17:44:00,72.0,1.0
+71562,2024-11-28 19:40:00,2331,Mansoura,Portal,Medium,Account,Farah,Open,57.0,156.0,,0,,48.0,0.0
+70423,2025-02-18 10:30:00,2410,,Portal,low,  Account ,Farah,Resolved,671.0,72.0,5.0,0,2025-02-21 10:30:00,72.0,1.0
+70571,2025-01-02 13:41:00,2167,Ismailia,Chat,Medium,Billing,sara,PENDING,29.0,31.0,5.0,0,,48.0,0.0
+70805,2024-12-22 09:34:00,2287,Tanta,  Phone ,High,Billing,Youssef,  Resolved ,207.0,95.0,3.0,0,2024-12-26 08:34:00,24.0,0.0
+71107,2024-12-15 19:33:00,2281,  Giza ,Portal,MEDIUM,  delivery ,Mina,Resolved,558.0,14.0,4.0,0,2024-12-16 09:33:00,48.0,1.0
+70821,2025-01-15 20:28:00,2349,Zagazig,Portal,Medium,Refund,Ali,Resolved,153.0,4.0,4.0,0,2025-01-16 00:28:00,48.0,1.0
+71497,2024-10-28 00:11:00,2097,Zagazig,Chat,Low,  Technical ,Youssef,RESOLVED,399.0,54.0,4.0,0,2024-10-30 06:11:00,72.0,1.0
+70785,2024-10-18 13:38:00,2096,alexandria,Email,low,BILLING,Farah,Closed,528.0,75.0,3.0,0,2024-10-21 16:38:00,72.0,0.0
+70533,2024-11-05 01:43:00,2439,Alexandria,Email,Medium,Billing,Farah,  Open ,585.0,126.0,4.0,0,,48.0,0.0
+70508,2025-01-13 19:25:00,2072,Tanta,EMAIL,low,ACCOUNT,Heba,Resolved,719.0,59.0,4.0,0,2025-01-16 06:25:00,72.0,1.0
+71276,2025-02-15 21:27:00,2339,Alexandria,PHONE,Medium,Account,  Sara ,Open,665.0,,5.0,0,,48.0,
+70381,2025-02-14 15:20:00,2450,Zagazig,Phone,Critical,Refund,Ali,Closed,108.0,120.0,5.0,0,2025-02-19 15:20:00,8.0,0.0
+70081,2024-11-16 23:07:00,2450,Mansoura,PORTAL,Medium,Account,Farah,resolved,562.0,78.0,4.0,1,2024-11-20 05:07:00,48.0,0.0
+70995,2024-09-29 02:25:00,2069,  Tanta ,Phone,  High ,Complaint,Heba,resolved,113.0,19.0,3.0,0,2024-09-29 21:25:00,24.0,1.0
+70717,2025-01-12 17:38:00,2576,  Cairo ,  email ,Low,complaint,  Youssef ,Resolved,568.0,52.0,4.0,0,2025-01-14 21:38:00,72.0,1.0
+70925,2024-12-07 02:06:00,2527,zagazig,Phone,Low,account,  YOUSSEF ,Pending,274.0,73.0,3.0,0,,72.0,0.0
+70583,2024-10-07 20:52:00,2336,Alexandria,Phone,Critical,Refund,Youssef,Resolved,686.0,6.0,,1,2024-10-08 02:52:00,8.0,1.0
+70505,2024-12-16 08:42:00,2001,Alexandria,Chat,Low,Delivery,Ali,Resolved,235.0,102.0,1.0,1,2024-12-20 14:42:00,72.0,0.0
+71121,2024-10-07 19:33:00,2337,Cairo,Phone,low,Refund,omar,Open,227.0,,5.0,0,,72.0,
+71507,2025-02-26 16:16:00,2428,Alexandria,CHAT,  Medium ,complaint,MINA,Closed,184.0,137.0,5.0,0,2025-03-04 09:16:00,48.0,0.0
+70706,2024-10-20 15:06:00,2026,Zagazig,Chat,  High ,  Complaint ,Ali,open,699.0,166.0,,0,,24.0,0.0
+70756,2024-10-18 18:00:00,2471,  Cairo ,  Portal ,LOW,ACCOUNT,omar,  Open ,412.0,,4.0,0,,72.0,
+70149,2024-11-14 17:44:00,2403,Mansoura,CHAT,Medium,Delivery,heba,Resolved,247.0,48.0,5.0,0,2024-11-16 17:44:00,48.0,1.0
+71146,2024-10-08 21:08:00,2084,Giza,Chat,Medium,Complaint,nada,  Closed ,651.0,85.0,4.0,0,2024-10-12 10:08:00,48.0,0.0
+70020,2025-02-14 04:37:00,2017,Zagazig,Email,Low,  Technical ,  Nada ,Pending,167.0,,,0,,72.0,
+70541,2024-12-21 18:14:00,2442,  Giza ,Email,Medium,Account,Heba,Resolved,133.0,38.0,4.0,0,2024-12-23 08:14:00,48.0,1.0
+70022,2025-02-04 11:13:00,2167,  Mansoura ,  Portal ,low,Delivery,Omar,Resolved,638.0,64.0,3.0,0,2025-02-07 03:13:00,72.0,1.0
+71414,2024-11-14 12:15:00,2425,Cairo,Phone,Medium,Complaint,Mina,RESOLVED,500.0,23.0,,0,2024-11-15 11:15:00,48.0,1.0
+70539,2024-11-08 12:54:00,2370,Suez,Chat,Low,Account,Youssef,Open,462.0,,4.0,0,,72.0,
+70931,2024-11-21 18:07:00,2080,Suez,Portal,Low,Refund,Ali,  RESOLVED ,449.0,122.0,5.0,0,2024-11-26 20:07:00,72.0,0.0
+70487,2025-01-02 17:31:00,2518,Zagazig,Email,Medium,Account,MINA,Open,641.0,20.0,5.0,0,,48.0,0.0
+70656,2025-02-19 19:35:00,2290,ALEXANDRIA,Portal,Low,Delivery,Youssef,Resolved,280.0,124.0,3.0,1,2025-02-24 23:35:00,72.0,0.0
+71122,2024-12-13 05:31:00,2058,MANSOURA,Portal,Low,  account ,youssef,resolved,137.0,110.0,,0,2024-12-17 19:31:00,72.0,0.0
+70588,2024-11-21 14:22:00,2557,Tanta,Email,Medium,Complaint,Omar,open,305.0,,4.0,0,,48.0,
+70789,2024-09-13 04:37:00,2047,Zagazig,Chat,  Medium ,Complaint,  Nada ,pending,232.0,,,1,,48.0,
+71035,2024-12-11 00:58:00,2099,Tanta,Email,High,Complaint,Mina,Closed,472.0,52.0,1.0,0,2024-12-13 04:58:00,24.0,0.0
+70672,2024-09-11 04:05:00,2046,Suez,email,low,Delivery,Omar,Pending,690.0,123.0,3.0,0,,72.0,0.0
+70999,2024-12-21 14:41:00,2404,Tanta,Email,  Medium ,Technical,  Farah ,open,682.0,,5.0,1,,48.0,
+70642,2024-12-15 07:44:00,2459,Cairo,Email,LOW,Delivery,  Ali ,Pending,76.0,99.0,5.0,0,,72.0,0.0
+70944,2024-09-29 11:14:00,2515,Suez,Chat,Medium,Account,Omar,resolved,202.0,40.0,,0,2024-10-01 03:14:00,48.0,1.0
+70819,2024-10-21 23:48:00,2362,Giza,Chat,medium,complaint,  MINA ,Resolved,370.0,40.0,5.0,0,2024-10-23 15:48:00,48.0,1.0
+71415,2024-12-01 17:20:00,2050,Suez,PHONE,Low,COMPLAINT,nada,Resolved,449.0,159.0,4.0,1,2024-12-08 08:20:00,72.0,0.0
+71019,2024-09-13 01:39:00,2153,  Ismailia ,Email,Critical,Refund,Ali,Closed,601.0,150.0,4.0,0,2024-09-19 07:39:00,8.0,0.0
+71315,2024-11-05 18:14:00,2262,Mansoura,Chat,MEDIUM,Technical,Mina,Pending,497.0,,5.0,0,,48.0,
+71124,2024-12-12 20:46:00,2382,  Cairo ,Portal,Medium,Refund,Omar,Resolved,152.0,45.0,4.0,0,2024-12-14 17:46:00,48.0,1.0
+70352,2024-10-31 19:56:00,2201,ismailia,Chat,Low,DELIVERY,  Ali ,Open,267.0,72.0,4.0,0,,72.0,0.0
+71426,2024-10-21 23:05:00,2055,Zagazig,Phone,Medium,Account,  Mina ,  Resolved ,623.0,65.0,,1,2024-10-24 16:05:00,48.0,0.0
+71012,2024-10-20 21:58:00,2245,zagazig,Phone,Low,Refund,FARAH,Pending,211.0,,4.0,0,,72.0,
+71421,2024-12-09 20:14:00,2208,Tanta,Chat,High,  Technical ,HEBA,Resolved,693.0,89.0,3.0,0,2024-12-13 13:14:00,24.0,0.0
+71298,2024-12-08 06:58:00,2590,Tanta,email,Low,Refund,Nada,Resolved,448.0,87.0,3.0,0,2024-12-11 21:58:00,72.0,0.0
+70761,2024-09-05 13:58:00,2595,Giza,Chat,Medium,Account,Nada,resolved,700.0,29.0,5.0,0,2024-09-06 18:58:00,48.0,1.0
+70061,2024-11-01 19:16:00,2245,giza,Chat,Low,Complaint,Sara,Resolved,223.0,85.0,5.0,0,2024-11-05 08:16:00,72.0,0.0
+70353,2024-09-15 08:06:00,2322,  Mansoura ,Chat,  High ,Complaint,FARAH,Open,316.0,,5.0,0,,24.0,
+70316,2024-11-14 00:18:00,2097,  Mansoura ,Chat,Medium,Delivery,Heba,  Closed ,-5.0,53.0,4.0,0,2024-11-16 05:18:00,48.0,0.0
+70690,2025-02-24 20:58:00,2502,Suez,Portal,Low,ACCOUNT,Omar,closed,149.0,85.0,5.0,0,2025-02-28 09:58:00,72.0,0.0
+70552,2024-11-14 09:58:00,2050,Mansoura,EMAIL,medium,  Complaint ,Mina,PENDING,304.0,,4.0,0,,48.0,
+71598,2025-02-01 11:31:00,2564,cairo,Chat,Low,Account,  Nada ,Resolved,25.0,128.0,5.0,0,2025-02-06 19:31:00,72.0,0.0
+70984,2025-02-16 08:55:00,2358,Suez,Portal,Medium,Billing,Youssef,Resolved,189.0,77.0,,0,2025-02-19 13:55:00,48.0,0.0
+70058,2025-01-31 00:57:00,2487,Cairo,Phone,Low,  Account ,nada,Resolved,251.0,78.0,4.0,0,2025-02-03 06:57:00,72.0,0.0
+70741,2024-12-05 13:12:00,2016,Zagazig,Email,Low,Complaint,Nada,Pending,176.0,,4.0,0,,72.0,
+70432,2024-11-22 14:49:00,2462,Alexandria,phone,Low,Account,HEBA,Resolved,339.0,160.0,5.0,0,2024-11-29 06:49:00,72.0,0.0
+70133,2024-09-23 03:31:00,2281,  Zagazig ,Email,Medium,Complaint,Farah,Resolved,373.0,122.0,4.0,0,2024-09-28 05:31:00,48.0,0.0
+71569,2024-10-09 15:12:00,2283,cairo,  Chat ,Low,Complaint,Youssef,Resolved,294.0,165.0,5.0,0,2024-10-16 12:12:00,72.0,0.0
+70822,2024-12-08 12:34:00,2312,Mansoura,Chat,critical,ACCOUNT,Farah,  resolved ,326.0,37.0,4.0,0,2024-12-10 01:34:00,8.0,0.0
+71147,2025-01-21 14:34:00,2259,Mansoura,PHONE,Medium,  Refund ,heba,Pending,17.0,29.0,5.0,0,,48.0,0.0
+71021,2024-11-11 02:45:00,2461,Ismailia,  Chat ,  Low ,Complaint,  Farah ,Resolved,341.0,158.0,4.0,0,2024-11-17 16:45:00,72.0,0.0
+70197,2024-09-21 17:59:00,2442,Giza,EMAIL,  Low ,Billing,SARA,  Pending ,663.0,145.0,5.0,0,,72.0,0.0
+71082,2024-11-14 17:02:00,2071,Giza,Email,Critical,Refund,  Mina ,  Resolved ,490.0,38.0,3.0,0,2024-11-16 07:02:00,8.0,0.0
+70507,2025-02-06 15:44:00,2058,Mansoura,Email,  Medium ,Account,YOUSSEF,RESOLVED,298.0,166.0,4.0,0,2025-02-13 13:44:00,48.0,0.0
+71486,2024-10-27 18:49:00,2569,tanta,Chat,Low,Refund,Omar,Closed,437.0,131.0,4.0,0,2024-11-02 05:49:00,72.0,0.0
+71409,2025-01-10 05:34:00,2543,Alexandria,EMAIL,  high ,ACCOUNT,  Mina ,  Resolved ,21.0,166.0,1.0,0,2025-01-17 03:34:00,24.0,0.0
+70950,2024-10-24 23:59:00,2039,Suez,  CHAT ,Medium,  Technical ,Nada,OPEN,374.0,,4.0,0,,48.0,
+70338,2025-02-24 15:22:00,2197,  Suez ,  Portal ,  Critical ,Refund,Farah,Pending,535.0,,5.0,1,,8.0,
+70109,2024-09-23 07:46:00,2448,Ismailia,Email,Low,  delivery ,  mina ,Open,119.0,,5.0,0,,72.0,
+71041,2024-12-09 14:10:00,2525,tanta,  Portal ,Low,Billing,Omar,Resolved,110.0,91.0,4.0,0,2024-12-13 09:10:00,72.0,0.0
+71386,2025-01-02 15:12:00,2232,ALEXANDRIA,Email,LOW,Account,Ali,Open,694.0,,4.0,1,,72.0,
+71377,2025-01-20 22:06:00,2516,Suez,  Phone ,LOW,  Complaint ,Sara,  Open ,48.0,120.0,5.0,1,,72.0,0.0
+70073,2025-01-17 16:14:00,2192,  Cairo ,Email,Low,Refund,  Heba ,closed,11.0,74.0,3.0,0,2025-01-20 18:14:00,72.0,0.0
+71460,2024-09-26 13:40:00,2419,tanta,phone,Medium,Account,Farah,Resolved,63.0,119.0,5.0,0,2024-10-01 12:40:00,48.0,0.0
+71429,2024-12-26 08:27:00,2337,Alexandria,PHONE,Low,Refund,Heba,Resolved,178.0,88.0,5.0,0,2024-12-30 00:27:00,72.0,0.0
+71584,2024-12-22 18:51:00,2422,Alexandria,Portal,Low,Delivery,Nada,Resolved,144.0,138.0,5.0,0,2024-12-28 12:51:00,72.0,0.0
+70692,2024-12-11 00:18:00,2458,alexandria,  Email ,Low,Billing,Sara,Resolved,603.0,63.0,4.0,0,2024-12-13 15:18:00,72.0,1.0
+71322,2025-02-19 08:00:00,2077,giza,Portal,Critical,Account,Nada,Resolved,135.0,116.0,4.0,1,2025-02-24 04:00:00,8.0,0.0
+70994,2025-01-11 14:22:00,2371,  Cairo ,Chat,HIGH,billing,youssef,Open,117.0,82.0,4.0,0,,24.0,0.0
+71382,2024-10-27 12:35:00,2288,Alexandria,Email,High,Delivery,Omar,  Resolved ,284.0,137.0,5.0,0,2024-11-02 05:35:00,24.0,0.0
+70346,2025-02-26 22:52:00,2079,Tanta,Email,Medium,Billing,  Heba ,  Resolved ,341.0,137.0,,0,2025-03-04 15:52:00,48.0,0.0
+71588,2025-01-23 12:16:00,2356,Cairo,Portal,LOW,  Delivery ,Nada,Open,394.0,149.0,5.0,1,,72.0,0.0
+71412,2024-12-09 22:37:00,2367,Mansoura,Portal,Critical,refund,ALI,Resolved,577.0,28.0,4.0,0,2024-12-11 02:37:00,8.0,0.0
+70895,2025-01-10 17:07:00,2420,Cairo,Chat,  Medium ,Complaint,Farah,Open,107.0,57.0,,0,,48.0,0.0
+71372,2024-12-25 11:22:00,2587,Tanta,Email,Medium,Complaint,Heba,Closed,453.0,72.0,,1,2024-12-28 11:22:00,48.0,0.0
+70575,2024-11-29 16:38:00,2008,Tanta,Portal,  High ,Billing,youssef,Resolved,591.0,167.0,5.0,0,2024-12-06 15:38:00,24.0,0.0
+70391,2024-10-11 14:32:00,2257,cairo,Phone,  Medium ,Complaint,Nada,resolved,155.0,149.0,5.0,0,2024-10-17 19:32:00,48.0,0.0
+70765,2024-12-07 02:20:00,2130,ISMAILIA,Email,Low,Delivery,Mina,Resolved,239.0,121.0,4.0,0,2024-12-12 03:20:00,72.0,0.0
+70212,2025-02-24 19:55:00,2486,GIZA,Chat,Medium,account,Ali,CLOSED,448.0,142.0,5.0,0,2025-03-02 17:55:00,48.0,0.0
+71453,2024-11-03 21:03:00,2271,Tanta,Phone,HIGH,  Technical ,Sara,Closed,645.0,95.0,5.0,0,2024-11-07 20:03:00,24.0,0.0
+71285,2024-12-07 18:42:00,2536,  Alexandria ,CHAT,MEDIUM,Refund,OMAR,  resolved ,40.0,13.0,4.0,0,2024-12-08 07:42:00,48.0,1.0
+70218,2024-12-02 22:00:00,2291,,Email,Low,Technical,heba,Resolved,277.0,159.0,4.0,0,2024-12-09 13:00:00,72.0,0.0
+70334,2024-10-13 12:52:00,2401,  Zagazig ,Phone,Low,Refund,Youssef,resolved,385.0,24.0,2.0,0,2024-10-14 12:52:00,72.0,1.0
+70011,2024-09-27 15:26:00,2029,  Alexandria ,Chat,LOW,COMPLAINT,Nada,Pending,467.0,,,1,,72.0,
+70171,2024-09-20 08:42:00,2323,Suez,PORTAL,high,Complaint,Youssef,Resolved,129.0,108.0,,0,2024-09-24 20:42:00,24.0,0.0
+70405,2024-09-05 08:32:00,2323,Mansoura,PHONE,Critical,Complaint,Mina,Resolved,9.0,129.0,4.0,0,2024-09-10 17:32:00,8.0,0.0
+71482,2024-12-09 08:20:00,2467,cairo,phone,Medium,refund,Farah,  Resolved ,412.0,134.0,4.0,0,2024-12-14 22:20:00,48.0,0.0
+70232,2024-10-31 06:13:00,2418,cairo,Email,Medium,DELIVERY,heba,Resolved,159.0,101.0,,0,2024-11-04 11:13:00,48.0,0.0
+71407,2025-01-10 03:55:00,2340,Alexandria,Portal,  Medium ,  Billing ,Farah,Resolved,148.0,128.0,1.0,0,2025-01-15 11:55:00,48.0,0.0
+70808,2025-02-24 19:45:00,2188,Alexandria,CHAT,Low,Delivery,Nada,  Open ,594.0,69.0,5.0,0,,72.0,0.0
+71313,2024-09-24 00:53:00,2019,MANSOURA,  portal ,Medium,Delivery,Ali,PENDING,603.0,77.0,3.0,0,,48.0,0.0
+71096,2024-09-05 16:02:00,2429,Cairo,Chat,Medium,Complaint,Nada,Resolved,222.0,68.0,4.0,0,2024-09-08 12:02:00,48.0,0.0
+70357,2024-10-21 14:47:00,2214,Tanta,Phone,Medium,Billing,Farah,Closed,554.0,93.0,,0,2024-10-25 11:47:00,48.0,0.0
+71243,2024-09-13 04:40:00,2037,Cairo,Chat,LOW,Billing,Nada,Open,695.0,,4.0,0,,72.0,
+71326,2024-10-12 06:45:00,2076,SUEZ,Portal,high,Billing,Heba,  Closed ,693.0,136.0,,0,2024-10-17 22:45:00,24.0,0.0
+71329,2024-12-09 07:15:00,2391,  CAIRO ,Email,High,Delivery,Farah,Resolved,352.0,55.0,,0,2024-12-11 14:15:00,24.0,0.0
+70344,2024-09-28 09:56:00,2076,Ismailia,Chat,Low,Technical,  youssef ,Resolved,526.0,56.0,5.0,0,2024-09-30 17:56:00,72.0,1.0
+70955,2024-10-16 04:39:00,2597,Mansoura,Chat,Medium,Complaint,omar,Resolved,544.0,164.0,4.0,0,2024-10-23 00:39:00,48.0,0.0
+70457,2024-12-21 04:15:00,2083,  Suez ,Email,Medium,Technical,Farah,Open,675.0,,4.0,0,,48.0,
+70146,2025-01-07 20:26:00,2034,Cairo,  Portal ,Medium,billing,HEBA,PENDING,102.0,117.0,,0,,48.0,0.0
+71043,2024-12-26 11:20:00,2295,Tanta,chat,High,complaint,Ali,Resolved,264.0,156.0,4.0,0,2025-01-01 23:20:00,24.0,0.0
+70774,2024-11-01 15:40:00,2002,  mansoura ,Portal,Medium,complaint,  Mina ,Resolved,246.0,112.0,2.0,0,2024-11-06 07:40:00,48.0,0.0
+71245,2025-02-26 06:40:00,2295,Giza,  Email ,High,TECHNICAL,Omar,Resolved,451.0,11.0,4.0,0,2025-02-26 17:40:00,24.0,1.0
+71166,2024-09-17 10:46:00,2345,ISMAILIA,Email,Medium,DELIVERY,Mina,Resolved,535.0,135.0,3.0,0,2024-09-23 01:46:00,48.0,0.0
+71136,2024-09-11 19:56:00,2072,  ALEXANDRIA ,Chat,medium,Delivery,Farah,Open,415.0,109.0,,0,,48.0,0.0
+70200,2024-11-06 08:26:00,2186,  mansoura ,Chat,  Critical ,  Technical ,Omar,Resolved,685.0,108.0,3.0,0,2024-11-10 20:26:00,8.0,0.0
+70089,2024-10-18 05:24:00,2079,mansoura,Email,  Low ,Refund,Heba,  Closed ,701.0,25.0,,1,2024-10-19 06:24:00,72.0,1.0
+70450,2024-10-07 11:14:00,2314,Giza,Chat,High,technical,FARAH,open,441.0,,5.0,0,,24.0,
+70664,2024-12-06 04:32:00,2277,Zagazig,Chat,medium,Complaint,Youssef,Open,680.0,11.0,,1,,48.0,0.0
+71471,2024-10-23 21:19:00,2472,  ismailia ,Email,High,Account,  Youssef ,Resolved,407.0,165.0,,0,2024-10-30 18:19:00,24.0,0.0
+70614,2025-02-05 03:22:00,2263,Zagazig,PHONE,HIGH,Account,SARA,OPEN,388.0,9.0,5.0,0,,24.0,0.0
+70612,2024-10-04 22:53:00,2453,MANSOURA,Phone,  Low ,TECHNICAL,  Ali ,Resolved,708.0,78.0,5.0,0,2024-10-08 04:53:00,72.0,0.0
+71441,2024-11-21 07:03:00,2157,mansoura,Email,  High ,  Refund ,Youssef,Closed,199.0,5.0,4.0,0,2024-11-21 12:03:00,24.0,1.0
+70325,2025-02-05 23:30:00,2535,Ismailia,Portal,Low,Technical,Mina,Pending,573.0,,4.0,0,,72.0,
+70899,2024-11-05 11:09:00,2165,  Ismailia ,  Email ,Critical,technical,Sara,Closed,665.0,68.0,,1,2024-11-08 07:09:00,8.0,0.0
+71353,2024-10-31 20:59:00,2335,alexandria,Phone,Low,Technical,HEBA,Closed,446.0,139.0,3.0,0,2024-11-06 15:59:00,72.0,0.0
+70039,2024-09-14 14:04:00,2235,Mansoura,Email,low,Technical,farah,Resolved,344.0,16.0,3.0,0,2024-09-15 06:04:00,72.0,1.0
+70954,2024-09-03 04:14:00,2464,Zagazig,  phone ,Low,Technical,  ali ,Open,307.0,,4.0,0,,72.0,
+70151,2024-12-07 22:07:00,2160,Mansoura,  Chat ,Medium,REFUND,Omar,Resolved,286.0,65.0,5.0,0,2024-12-10 15:07:00,48.0,0.0
+70220,2025-01-29 22:20:00,2456,Ismailia,Portal,low,Account,Farah,CLOSED,466.0,116.0,1.0,0,2025-02-03 18:20:00,72.0,0.0
+70419,2024-10-20 12:33:00,2563,Tanta,Phone,Medium,DELIVERY,Ali,  Pending ,569.0,55.0,5.0,0,,48.0,0.0
+70345,2024-10-27 21:24:00,2483,ismailia,  Email ,Low,Refund,Nada,Open,259.0,,4.0,0,,72.0,
+70065,2024-10-24 03:31:00,2248,Tanta,Email,Low,complaint,mina,Open,370.0,45.0,,0,,72.0,0.0
+70268,2024-11-05 09:13:00,2403,ISMAILIA,Email,MEDIUM,COMPLAINT,Heba,Closed,592.0,145.0,,0,2024-11-11 10:13:00,48.0,0.0
+70238,2025-01-30 12:29:00,2590,SUEZ,  Chat ,Medium,Complaint,Farah,Open,290.0,,5.0,0,,48.0,
+70622,2024-12-26 19:59:00,2538,TANTA,Chat,  Medium ,Technical,Nada,resolved,88.0,40.0,4.0,0,2024-12-28 11:59:00,48.0,1.0
+71197,2024-11-03 11:40:00,2141,  ZAGAZIG ,Chat,Low,Refund,,Resolved,31.0,18.0,,0,2024-11-04 05:40:00,72.0,1.0
+70182,2024-09-15 21:04:00,2135,Cairo,Email,Critical,Refund,mina,RESOLVED,108.0,76.0,1.0,1,2024-09-19 01:04:00,8.0,0.0
+70368,2024-12-07 19:08:00,2059,  Zagazig ,chat,Low,  Complaint ,  Youssef ,Resolved,615.0,109.0,5.0,0,2024-12-12 08:08:00,72.0,0.0
+70454,2025-01-04 20:08:00,2519,Tanta,Phone,medium,DELIVERY,  FARAH ,Pending,528.0,,4.0,0,,48.0,
+70322,2024-12-04 13:37:00,2255,  Cairo ,  Chat ,Medium,Delivery,Sara,Pending,714.0,136.0,4.0,0,,48.0,0.0
+70046,2024-12-22 13:56:00,2372,  Mansoura ,Phone,Low,delivery,Heba,  Resolved ,426.0,38.0,5.0,0,2024-12-24 03:56:00,72.0,1.0
+71304,2024-11-13 09:02:00,2345,Suez,  CHAT ,Low,ACCOUNT,MINA,Closed,618.0,77.0,4.0,0,2024-11-16 14:02:00,72.0,0.0
+71419,2024-12-23 21:23:00,2003,ALEXANDRIA,phone,medium,account,Mina,Open,453.0,88.0,2.0,0,,48.0,0.0
+70580,2024-10-25 18:17:00,2185,Alexandria,Chat,LOW,Delivery,Sara,Closed,41.0,109.0,,0,2024-10-30 07:17:00,72.0,0.0
+70814,2024-10-04 05:21:00,2012,Cairo,  Chat ,Low,Complaint,SARA,Resolved,499.0,78.0,4.0,0,2024-10-07 11:21:00,72.0,0.0
+71496,2025-01-30 20:20:00,2458,Alexandria,email,Low,Technical,Omar,resolved,94.0,122.0,3.0,0,2025-02-04 22:20:00,72.0,0.0
+70532,2024-12-19 13:40:00,2185,giza,Phone,  Medium ,Account,,  Pending ,196.0,157.0,5.0,0,,48.0,0.0
+70455,2024-09-16 18:18:00,2087,  Mansoura ,Chat,Low,delivery,Sara,  Resolved ,189.0,43.0,,0,2024-09-18 13:18:00,72.0,1.0
+70443,2024-09-17 00:09:00,2003,CAIRO,Portal,High,Refund,youssef,Resolved,337.0,163.0,4.0,0,2024-09-23 19:09:00,24.0,0.0
+70028,2024-09-13 08:34:00,2348,  Zagazig ,Portal,MEDIUM,Technical,ali,  Resolved ,206.0,125.0,4.0,0,2024-09-18 13:34:00,48.0,0.0
+70247,2025-02-06 17:58:00,2415,Alexandria,Email,  Medium ,Delivery,  Omar ,Open,660.0,137.0,5.0,0,,48.0,0.0
+71544,2024-10-02 17:59:00,2382,  Zagazig ,Portal,Low,Technical,Ali,Pending,700.0,,,0,,72.0,
+71170,2024-09-26 22:51:00,2585,Alexandria,Chat,Low,TECHNICAL,Heba,  Closed ,299.0,52.0,5.0,0,2024-09-29 02:51:00,72.0,1.0
+71097,2024-12-03 02:32:00,2299,Tanta,Chat,HIGH,Account,youssef,  Resolved ,429.0,81.0,4.0,0,2024-12-06 11:32:00,24.0,0.0
+71454,2025-01-29 17:53:00,2341,GIZA,Chat,LOW,Account,Mina,open,337.0,,5.0,0,,72.0,
+70430,2024-10-25 04:22:00,2478,Alexandria,Email,High,Billing,Sara,Resolved,143.0,39.0,5.0,0,2024-10-26 19:22:00,24.0,0.0
+71141,2024-12-13 17:30:00,2045,zagazig,CHAT,Medium,Refund,mina,Open,348.0,,3.0,0,,48.0,
+70721,2025-02-03 05:08:00,2135,Mansoura,Chat,Medium,Complaint,Youssef,Open,487.0,,,0,,48.0,
+70573,2024-09-26 04:18:00,2439,ZAGAZIG,Email,HIGH,ACCOUNT,Farah,open,108.0,27.0,5.0,0,,24.0,0.0
+70910,2024-09-27 00:46:00,2175,Ismailia,chat,High,Refund,Omar,Closed,114.0,18.0,4.0,0,2024-09-27 18:46:00,24.0,1.0
+70051,2025-02-13 11:22:00,2012,Suez,Chat,  Low ,BILLING,Omar,Resolved,92.0,125.0,4.0,1,2025-02-18 16:22:00,72.0,0.0
+71430,2025-01-13 22:06:00,2218,Tanta,Phone,medium,Account,  Youssef ,Resolved,255.0,128.0,3.0,1,2025-01-19 06:06:00,48.0,0.0
+70516,2025-01-21 01:07:00,2271,Tanta,Phone,MEDIUM,TECHNICAL,mina,Closed,532.0,12.0,5.0,1,2025-01-21 13:07:00,48.0,1.0
+71172,2025-01-19 09:02:00,2307,TANTA,  Chat ,Critical,complaint,Mina,  Open ,201.0,,,0,,8.0,
+71424,2024-12-15 03:26:00,2098,Suez,Chat,low,Complaint,Farah,Resolved,600.0,30.0,,0,2024-12-16 09:26:00,72.0,1.0
+71109,2024-09-16 16:33:00,2189,CAIRO,  CHAT ,Low,Delivery,Ali,Closed,302.0,143.0,4.0,0,2024-09-22 15:33:00,72.0,0.0
+71076,2025-01-01 12:31:00,2251,Zagazig,Phone,Critical,COMPLAINT,Ali,Resolved,196.0,18.0,1.0,0,2025-01-02 06:31:00,8.0,0.0
+70413,2024-12-09 00:10:00,2536,ISMAILIA,chat,Low,TECHNICAL,ali,Resolved,663.0,150.0,4.0,0,2024-12-15 06:10:00,72.0,0.0
+70576,2024-12-26 06:34:00,2017,Mansoura,Email,Medium,Delivery,  Mina ,CLOSED,38.0,127.0,5.0,0,2024-12-31 13:34:00,48.0,0.0
+70593,2024-12-14 03:09:00,2204,Tanta,  Chat ,Low,Account,Ali,  resolved ,95.0,80.0,4.0,0,2024-12-17 11:09:00,72.0,0.0
+70224,2024-12-02 17:35:00,2304,Ismailia,Email,Medium,  Complaint ,Youssef,Resolved,518.0,113.0,5.0,0,2024-12-07 10:35:00,48.0,0.0
+70112,2024-09-17 16:45:00,2323,Mansoura,Chat,  medium ,Complaint,Mina,Resolved,682.0,101.0,,0,2024-09-21 21:45:00,48.0,0.0
+70377,2024-10-30 12:14:00,2051,Alexandria,PHONE,Low,complaint,Sara,open,558.0,,5.0,0,,72.0,
+71418,2024-11-05 20:30:00,2456,zagazig,Portal,Medium,  Billing ,Ali,Pending,120.0,,4.0,0,,48.0,
+71371,2024-11-19 18:19:00,2457,Tanta,Email,High,Complaint,Farah,Resolved,537.0,51.0,,0,2024-11-21 21:19:00,24.0,0.0
+71512,2024-10-12 09:37:00,2116,SUEZ,CHAT,Medium,billing,ALI,Closed,619.0,118.0,4.0,0,2024-10-17 07:37:00,48.0,0.0
+70278,2024-09-06 03:37:00,2494,Ismailia,Chat,MEDIUM,Complaint,FARAH,Resolved,162.0,123.0,2.0,1,2024-09-11 06:37:00,48.0,0.0
+70733,2024-10-27 18:22:00,2184,Ismailia,phone,High,  delivery ,  Farah ,Resolved,696.0,113.0,4.0,0,2024-11-01 11:22:00,24.0,0.0
+70273,2025-02-18 21:09:00,2365,Zagazig,Email,Low,Delivery,Sara,  RESOLVED ,111.0,147.0,,0,2025-02-25 00:09:00,72.0,0.0
+71487,2025-01-12 17:39:00,2058,Mansoura,Chat,Medium,Technical,SARA,Resolved,357.0,3.0,,0,2025-01-12 20:39:00,48.0,1.0
+70856,2024-09-30 19:59:00,2374,  Tanta ,CHAT,Low,account,sara,Closed,273.0,65.0,3.0,0,2024-10-03 12:59:00,72.0,1.0
+71114,2024-10-10 04:08:00,2512,Cairo,portal,Low,Complaint,Heba,Resolved,92.0,9.0,1.0,0,2024-10-10 13:08:00,72.0,1.0
+70778,2024-09-21 08:23:00,2175,Alexandria,CHAT,  Medium ,Delivery,Heba,Resolved,244.0,85.0,3.0,0,2024-09-24 21:23:00,48.0,0.0
+71123,2025-01-14 20:36:00,2088,Suez,  Phone ,Critical,refund,Youssef,Resolved,697.0,56.0,4.0,0,2025-01-17 04:36:00,8.0,0.0
+70140,2025-02-27 07:22:00,2053,cairo,Portal,Medium,Complaint,Farah,Pending,453.0,,5.0,0,,48.0,
+70816,2025-01-05 21:29:00,2031,  Ismailia ,Chat,critical,  Billing ,Ali,Resolved,112.0,30.0,,1,2025-01-07 03:29:00,8.0,0.0
+70759,2025-02-07 14:10:00,2008,Suez,Chat,Medium,Technical,Nada,Pending,703.0,,4.0,0,,48.0,
+71158,2024-12-12 14:36:00,2248,Giza,chat,  medium ,Account,Nada,  pending ,655.0,,,0,,48.0,
+71145,2024-11-14 10:30:00,2519,Zagazig,  Email ,Medium,Billing,Omar,  Pending ,360.0,1.0,5.0,1,,48.0,0.0
+71045,2025-02-12 00:46:00,2049,Cairo,chat,MEDIUM,Refund,omar,  Resolved ,394.0,132.0,4.0,0,2025-02-17 12:46:00,48.0,0.0
+70841,2025-01-01 06:40:00,2192,zagazig,phone,High,Refund,heba,  Resolved ,633.0,165.0,5.0,0,2025-01-08 03:40:00,24.0,0.0
+70101,2024-10-21 00:15:00,2529,  Ismailia ,  Chat ,Low,ACCOUNT,  farah ,closed,71.0,130.0,5.0,0,2024-10-26 10:15:00,72.0,0.0
+71422,2025-01-13 06:11:00,2043,ZAGAZIG,Phone,critical,Billing,Youssef,Resolved,300.0,18.0,5.0,1,2025-01-14 00:11:00,8.0,0.0
+71320,2024-11-22 04:06:00,2571,Suez,Portal,Low,billing,  Nada ,Closed,34.0,83.0,2.0,0,2024-11-25 15:06:00,72.0,0.0
+71583,2024-11-05 04:46:00,2099,ALEXANDRIA,  email ,Critical,Refund,Omar,Open,25.0,68.0,1.0,0,,8.0,0.0
+71196,2025-01-14 19:48:00,2275,Zagazig,Chat,Low,Delivery,Nada,Resolved,151.0,22.0,4.0,0,2025-01-15 17:48:00,72.0,1.0
+71159,2024-10-07 02:09:00,2251,Alexandria,Chat,Critical,Account,Ali,Open,500.0,,3.0,0,,8.0,
+71488,2024-10-03 03:37:00,2087,  Ismailia ,Email,  Medium ,Account,Ali,Resolved,327.0,138.0,4.0,0,2024-10-08 21:37:00,48.0,0.0
+71350,2024-09-26 07:21:00,2172,suez,portal,Low,Billing,Ali,Resolved,652.0,150.0,5.0,0,2024-10-02 13:21:00,72.0,0.0
+70853,2024-12-27 21:45:00,2339,  Mansoura ,Portal,MEDIUM,Delivery,Sara,open,242.0,,3.0,0,,48.0,
+70103,2024-09-26 06:28:00,2129,Giza,Portal,  Low ,  BILLING ,  Ali ,open,201.0,,3.0,0,,72.0,
+71446,2024-10-15 20:26:00,2547,Tanta,Portal,Medium,DELIVERY,YOUSSEF,Resolved,407.0,67.0,3.0,0,2024-10-18 15:26:00,48.0,0.0
+70031,2025-01-01 07:26:00,2446,Zagazig,  Phone ,  Medium ,Account,Farah,Closed,84.0,19.0,,0,2025-01-02 02:26:00,48.0,1.0
+71333,2025-02-09 02:21:00,2262,tanta,Email,  Low ,refund,Omar,  resolved ,256.0,78.0,5.0,1,2025-02-12 08:21:00,72.0,0.0
+70748,2024-12-12 22:43:00,2455,Suez,Phone,Medium,ACCOUNT,Farah,  RESOLVED ,640.0,97.0,3.0,0,2024-12-16 23:43:00,48.0,0.0
+70510,2024-10-20 05:46:00,2032,TANTA,Email,medium,Account,Youssef,  resolved ,552.0,109.0,5.0,0,2024-10-24 18:46:00,48.0,0.0
+70188,2025-02-10 12:29:00,2091,Giza,Chat,  Medium ,BILLING,Farah,Resolved,460.0,119.0,5.0,0,2025-02-15 11:29:00,48.0,0.0
+70490,2024-10-23 20:52:00,2361,ZAGAZIG,portal,LOW,Account,  Omar ,Resolved,180.0,34.0,1.0,0,2024-10-25 06:52:00,72.0,1.0
+70617,2024-10-26 21:05:00,2237,Mansoura,Chat,Low,Account,  mina ,Open,385.0,,4.0,0,,72.0,
+70917,2024-12-15 10:55:00,2547,  Mansoura ,Chat,Medium,COMPLAINT,Ali,Closed,577.0,7.0,4.0,0,2024-12-15 17:55:00,48.0,1.0
+71566,2025-01-23 23:11:00,2477,Tanta,  email ,Low,Refund,Nada,closed,677.0,60.0,3.0,0,2025-01-26 11:11:00,72.0,1.0
+71586,2024-10-09 04:02:00,2039,Tanta,  chat ,Medium,Billing,sara,Resolved,134.0,100.0,2.0,0,2024-10-13 08:02:00,48.0,0.0
+70558,2024-09-23 15:29:00,2163,Mansoura,Email,Medium,Delivery,Mina,Open,575.0,,2.0,0,,48.0,
+70948,2024-11-09 18:37:00,2173,ismailia,Portal,HIGH,Account,MINA,Pending,251.0,,2.0,1,,24.0,
+71055,2024-11-01 06:37:00,2220,,CHAT,  Medium ,Delivery,Mina,  OPEN ,526.0,,5.0,1,,48.0,
+71106,2025-01-06 05:59:00,2563,Cairo,phone,Low,Billing,Heba,Resolved,318.0,118.0,5.0,1,2025-01-11 03:59:00,72.0,0.0
+71216,2024-10-16 04:34:00,2012,alexandria,Email,High,Account,  Nada ,Resolved,164.0,41.0,4.0,0,2024-10-17 21:34:00,24.0,0.0
+71514,2024-10-25 14:52:00,2404,zagazig,Email,High,Billing,Mina,Pending,267.0,79.0,4.0,0,,24.0,0.0
+71274,2025-02-01 12:13:00,2355,Tanta,  Email ,High,billing,  Mina ,Resolved,84.0,129.0,5.0,0,2025-02-06 21:13:00,24.0,0.0
+71563,2025-02-07 17:52:00,2312,Mansoura,email,Low,Account,  youssef ,  Resolved ,639.0,34.0,,0,2025-02-09 03:52:00,72.0,1.0
+70142,2024-10-31 16:21:00,2152,giza,Portal,Low,account,Omar,RESOLVED,16.0,31.0,5.0,0,2024-11-01 23:21:00,72.0,1.0
+70462,2024-12-14 02:28:00,2085,suez,Portal,High,Technical,Nada,RESOLVED,677.0,17.0,5.0,0,2024-12-14 19:28:00,24.0,1.0
+70261,2024-10-31 03:35:00,2540,  Mansoura ,Portal,MEDIUM,Account,heba,Pending,609.0,91.0,5.0,0,,48.0,0.0
+71552,2024-12-24 20:10:00,2309,  Cairo ,EMAIL,High,account,Youssef,  Resolved ,196.0,58.0,5.0,0,2024-12-27 06:10:00,24.0,0.0
+70771,2024-11-18 18:41:00,2139,MANSOURA,  Phone ,  Low ,BILLING,Omar,RESOLVED,190.0,118.0,5.0,0,2024-11-23 16:41:00,72.0,0.0
+71343,2025-01-07 10:45:00,2362,ismailia,Chat,Critical,Technical,  heba ,Open,455.0,,4.0,0,,8.0,
+70063,2025-01-13 05:33:00,2565,Cairo,Chat,Low,Technical,Ali,Resolved,377.0,54.0,4.0,0,2025-01-15 11:33:00,72.0,1.0
+70371,2024-09-08 17:18:00,2172,Giza,Email,  Low ,Billing,Farah,Pending,473.0,,,0,,72.0,
+71189,2024-09-29 11:30:00,2487,Tanta,CHAT,Low,Refund,Youssef,Open,359.0,,5.0,0,,72.0,
+70228,2024-10-23 09:58:00,2234,Tanta,Portal,Medium,Delivery,Heba,Resolved,555.0,145.0,2.0,0,2024-10-29 10:58:00,48.0,0.0
+71182,2025-01-10 22:59:00,2452,Alexandria,Portal,  Low ,refund,  Farah ,Open,74.0,,4.0,0,,72.0,
+70359,2025-02-15 15:31:00,2194,Alexandria,Phone,Medium,BILLING,Mina,RESOLVED,389.0,77.0,3.0,0,2025-02-18 20:31:00,48.0,0.0
+71201,2024-09-29 09:38:00,2546,ZAGAZIG,portal,Low,Account,Mina,  Open ,352.0,74.0,,0,,72.0,0.0
+70131,2024-11-20 05:13:00,2428,Ismailia,portal,Low,refund,farah,open,251.0,,5.0,0,,72.0,
+70702,2024-10-05 19:33:00,2307,zagazig,  Chat ,Medium,billing,Ali,open,524.0,158.0,,0,,48.0,0.0
+70280,2024-11-13 05:55:00,2010,Zagazig,Email,MEDIUM,Complaint,OMAR,Pending,17.0,,,0,,48.0,
+71204,2025-01-31 00:30:00,2309,Giza,  phone ,Medium,technical,Farah,Open,196.0,27.0,2.0,0,,48.0,0.0
+70911,2025-02-07 06:48:00,2432,Alexandria,Chat,medium,REFUND,  Omar ,  resolved ,289.0,70.0,5.0,0,2025-02-10 04:48:00,48.0,0.0
+71296,2024-10-15 04:02:00,2169,TANTA,Email,Low,  Billing ,youssef,Closed,370.0,9.0,,1,2024-10-15 13:02:00,72.0,1.0
+70618,2024-10-18 16:58:00,2595,ALEXANDRIA,  email ,  Medium ,Account,Sara,RESOLVED,514.0,164.0,4.0,0,2024-10-25 12:58:00,48.0,0.0
+70879,2025-02-15 08:52:00,2156,Alexandria,Phone,Low,REFUND,Mina,pending,565.0,,,0,,72.0,
+71036,2024-12-01 17:42:00,2144,CAIRO,Phone,Low,Account,Omar,pending,28.0,21.0,,0,,72.0,0.0
+71413,2024-09-17 01:41:00,2032,Ismailia,Chat,  High ,Technical,Nada,Open,635.0,164.0,4.0,0,,24.0,0.0
+70201,2024-09-04 06:29:00,2018,  TANTA ,PORTAL,Medium,COMPLAINT,Heba,Resolved,717.0,156.0,3.0,0,2024-09-10 18:29:00,48.0,0.0
+71256,2024-10-17 02:41:00,2243,Giza,portal,High,Billing,farah,  Resolved ,78.0,106.0,,0,2024-10-21 12:41:00,24.0,0.0
+70675,2025-02-16 22:47:00,2567,  Ismailia ,PORTAL,low,Account,  Omar ,Open,168.0,,4.0,0,,72.0,
+71186,2025-02-21 10:00:00,2245,  cairo ,chat,CRITICAL,Billing,Nada,  open ,56.0,,,0,,8.0,
+70489,2025-01-23 13:21:00,2337,,Email,High,Complaint,Ali,RESOLVED,633.0,98.0,4.0,0,2025-01-27 15:21:00,24.0,0.0
+71039,2024-11-29 10:00:00,2304,ZAGAZIG,Phone,Low,Refund,Heba,Resolved,39.0,149.0,3.0,1,2024-12-05 15:00:00,72.0,0.0
+70463,2025-01-31 11:36:00,2537,Giza,Email,  High ,Billing,youssef,closed,621.0,40.0,4.0,0,2025-02-02 03:36:00,24.0,0.0
+70743,2024-11-18 18:26:00,2173,Zagazig,CHAT,Medium,Refund,nada,  Open ,387.0,158.0,5.0,0,,48.0,0.0
+70342,2025-01-04 06:08:00,2236,Giza,Email,Low,complaint,Farah,Closed,469.0,126.0,,0,2025-01-09 12:08:00,72.0,0.0
+70160,2025-01-25 01:46:00,2435,Tanta,chat,Low,Account,  Ali ,  Closed ,9.0,39.0,5.0,0,2025-01-26 16:46:00,72.0,1.0
+70373,2025-01-12 02:45:00,2061,Suez,chat,  Low ,  Delivery ,Youssef,Closed,54.0,131.0,4.0,0,2025-01-17 13:45:00,72.0,0.0
+71385,2025-02-10 18:35:00,2240,CAIRO,Chat,Low,  Technical ,Youssef,pending,57.0,,3.0,0,,72.0,
+71581,2024-09-30 03:08:00,2007,Giza,Email,Medium,Account,omar,resolved,435.0,107.0,,1,2024-10-04 14:08:00,48.0,0.0
+70991,2024-11-04 17:55:00,2230,Alexandria,Chat,Low,Billing,  Nada ,Resolved,621.0,94.0,5.0,0,2024-11-08 15:55:00,72.0,0.0
+71376,2025-01-04 04:23:00,2082,Alexandria,email,Medium,  billing ,Youssef,Resolved,225.0,134.0,,0,2025-01-09 18:23:00,48.0,0.0
+70474,2024-11-12 22:51:00,2319,ZAGAZIG,chat,  Medium ,Refund,Nada,Resolved,698.0,133.0,4.0,0,2024-11-18 11:51:00,48.0,0.0
+70781,2024-10-19 05:01:00,2573,Alexandria,portal,Medium,ACCOUNT,Omar,RESOLVED,102.0,6.0,4.0,0,2024-10-19 11:01:00,48.0,1.0
+71582,2024-11-07 20:36:00,2190,Suez,  Chat ,  Medium ,Billing,heba,Open,474.0,135.0,5.0,0,,48.0,0.0
+71230,2025-01-31 17:08:00,2104,Suez,Portal,  Low ,Billing,Ali,Pending,630.0,162.0,5.0,0,,72.0,0.0
+71312,2025-02-26 15:52:00,2421,Tanta,chat,High,Account,Heba,  Resolved ,404.0,2.0,1.0,0,2025-02-26 17:52:00,24.0,1.0
+70561,2024-10-10 12:36:00,2589,GIZA,Phone,High,DELIVERY,Farah,Resolved,661.0,121.0,,0,2024-10-15 13:36:00,24.0,0.0
+70410,2024-11-01 11:25:00,2135,Giza,email,Medium,Billing,  Ali ,Resolved,434.0,31.0,4.0,0,2024-11-02 18:25:00,48.0,1.0
+71515,2024-10-24 05:20:00,2166,Ismailia,  Chat ,Medium,TECHNICAL,Nada,Resolved,78.0,7.0,4.0,0,2024-10-24 12:20:00,48.0,1.0
+70008,2024-12-02 06:14:00,2166,giza,Phone,Low,Complaint,farah,Resolved,710.0,118.0,5.0,0,2024-12-07 04:14:00,72.0,0.0
+70092,2024-09-07 01:58:00,2585,GIZA,Phone,  Low ,Complaint,Heba,Resolved,564.0,138.0,,0,2024-09-12 19:58:00,72.0,0.0
+70285,2024-09-17 10:47:00,2432,Cairo,Phone,  MEDIUM ,  Refund ,Nada,closed,533.0,91.0,5.0,0,2024-09-21 05:47:00,48.0,0.0
+70952,2024-12-25 03:10:00,2205,,Phone,Medium,Billing,Farah,Resolved,618.0,45.0,4.0,0,2024-12-27 00:10:00,48.0,1.0
+71173,2024-11-30 06:57:00,2293,Tanta,Chat,LOW,Delivery,HEBA,Closed,174.0,54.0,4.0,0,2024-12-02 12:57:00,72.0,1.0
+71545,2025-02-18 08:06:00,2006,Suez,portal,  Low ,Account,Mina,  Resolved ,275.0,127.0,4.0,0,2025-02-23 15:06:00,72.0,0.0
+71400,2024-12-24 18:28:00,2229,Cairo,Email,Medium,  Complaint ,youssef,RESOLVED,194.0,130.0,1.0,0,2024-12-30 04:28:00,48.0,0.0
+70118,2024-11-23 17:41:00,2594,zagazig,Portal,Low,Refund,Nada,Closed,444.0,165.0,3.0,0,2024-11-30 14:41:00,72.0,0.0
+71108,2024-09-06 23:20:00,2415,Alexandria,  phone ,Low,  Complaint ,Nada,Resolved,540.0,103.0,5.0,0,2024-09-11 06:20:00,72.0,0.0
+71259,2024-09-17 10:15:00,2107,  ISMAILIA ,  Phone ,High,account,Youssef,  Closed ,135.0,117.0,1.0,0,2024-09-22 07:15:00,24.0,0.0
+70385,2024-12-25 00:42:00,2554,Giza,  Chat ,Medium,Account,Sara,Resolved,630.0,129.0,,0,2024-12-30 09:42:00,48.0,0.0
+71042,2024-10-09 05:38:00,2547,Suez,  Portal ,Low,Delivery,nada,Resolved,15.0,47.0,5.0,0,2024-10-11 04:38:00,72.0,1.0
+70088,2024-12-01 14:39:00,2451,  TANTA ,Phone,Low,Technical,,Resolved,457.0,22.0,3.0,0,2024-12-02 12:39:00,72.0,1.0
+70981,2024-10-23 07:25:00,2430,Alexandria,  Phone ,MEDIUM,billing,Sara,Resolved,453.0,47.0,,0,2024-10-25 06:25:00,48.0,1.0
+71327,2025-02-15 08:55:00,2525,Tanta,Chat,MEDIUM,Billing,Nada,Closed,668.0,107.0,5.0,0,2025-02-19 19:55:00,48.0,0.0
+70703,2025-01-25 19:39:00,2471,  Cairo ,  PORTAL ,medium,Account,Farah,  Resolved ,540.0,72.0,,0,2025-01-28 19:39:00,48.0,0.0
+71031,2024-09-21 20:09:00,2014,giza,Email,Low,Complaint,,RESOLVED,11.0,23.0,3.0,0,2024-09-22 19:09:00,72.0,1.0
+71132,2024-09-23 23:01:00,2311,SUEZ,Chat,high,Account,Youssef,  Resolved ,92.0,93.0,2.0,0,2024-09-27 20:01:00,24.0,0.0
+70165,2024-12-14 10:17:00,2073,mansoura,email,Medium,COMPLAINT,Sara,Pending,386.0,96.0,4.0,0,,48.0,0.0
+70451,2024-10-17 14:28:00,2281,Suez,Phone,  Medium ,Delivery,Ali,Open,510.0,,2.0,0,,48.0,
+70670,2025-02-17 03:17:00,2316,Giza,Phone,Critical,DELIVERY,Omar,Pending,255.0,109.0,5.0,0,,8.0,0.0
+71258,2025-01-04 18:27:00,2343,  Tanta ,Email,medium,Technical,Nada,Resolved,694.0,84.0,1.0,0,2025-01-08 06:27:00,48.0,0.0
+70786,2025-02-17 03:02:00,2460,Cairo,Portal,Low,TECHNICAL,Nada,Pending,180.0,,3.0,0,,72.0,
+70380,2024-12-15 19:48:00,2273,  Suez ,PHONE,Low,Billing,Nada,resolved,502.0,136.0,,0,2024-12-21 11:48:00,72.0,0.0
+71199,2024-12-11 12:05:00,2142,Alexandria,  Email ,Low,Delivery,  ali ,resolved,228.0,132.0,4.0,0,2024-12-17 00:05:00,72.0,0.0
+71137,2025-01-01 04:02:00,2276,Suez,  Chat ,Critical,Refund,FARAH,open,437.0,,5.0,0,,8.0,
+70196,2024-12-20 04:40:00,2595,suez,  Email ,Low,COMPLAINT,Omar,Pending,40.0,101.0,5.0,0,,72.0,0.0
+70901,2024-10-31 06:52:00,2100,Mansoura,PHONE,Medium,Account,Nada,Resolved,212.0,38.0,4.0,0,2024-11-01 20:52:00,48.0,1.0
+70010,2024-10-09 09:44:00,2212,zagazig,Chat,MEDIUM,Delivery,  Sara ,Open,500.0,,,0,,48.0,
+70426,2024-12-13 12:08:00,2250,Giza,  Phone ,  Low ,Delivery,  Nada ,Closed,182.0,162.0,5.0,0,2024-12-20 06:08:00,72.0,0.0
+70627,2024-12-17 06:43:00,2502,  Giza ,Chat,Medium,account,Mina,closed,589.0,81.0,4.0,0,2024-12-20 15:43:00,48.0,0.0
+71202,2025-02-10 00:13:00,2313,Zagazig,CHAT,Medium,Delivery,Mina,  closed ,508.0,31.0,3.0,0,2025-02-11 07:13:00,48.0,1.0
+70412,2024-10-22 16:31:00,2316,GIZA,Portal,Medium,Complaint,HEBA,Resolved,477.0,136.0,5.0,0,2024-10-28 08:31:00,48.0,0.0
+70189,2024-11-09 00:09:00,2474,zagazig,Phone,High,Technical,  Ali ,  Resolved ,626.0,92.0,3.0,0,2024-11-12 20:09:00,24.0,0.0
+71478,2024-12-12 06:53:00,2176,suez,Email,  low ,Technical,Heba,open,230.0,,3.0,0,,72.0,
+71342,2024-11-09 06:19:00,2114,Cairo,PHONE,Medium,Delivery,Farah,Resolved,525.0,142.0,,0,2024-11-15 04:19:00,48.0,0.0
+70214,2024-12-13 00:31:00,2406,ALEXANDRIA,Phone,Low,Account,  youssef ,Resolved,359.0,93.0,4.0,0,2024-12-16 21:31:00,72.0,0.0
+71090,2024-09-07 00:07:00,2551,ZAGAZIG,Phone,Medium,Complaint,Heba,  Resolved ,140.0,132.0,1.0,0,2024-09-12 12:07:00,48.0,0.0
+71500,2024-12-02 17:51:00,2411,Zagazig,PORTAL,Medium,Refund,Mina,resolved,644.0,17.0,4.0,0,2024-12-03 10:51:00,48.0,1.0
+70509,2024-10-18 12:26:00,2522,Tanta,Portal,High,Billing,  Sara ,resolved,308.0,91.0,4.0,0,2024-10-22 07:26:00,24.0,0.0
+71595,2024-11-17 06:47:00,2219,Zagazig,Email,High,Delivery,Mina,closed,381.0,65.0,4.0,1,2024-11-19 23:47:00,24.0,0.0
+71338,2025-01-14 23:56:00,2141,  Ismailia ,Email,  Low ,Account,  Ali ,open,97.0,,4.0,0,,72.0,
+70066,2025-02-06 05:10:00,2153,ismailia,Phone,Medium,Complaint,  Mina ,Resolved,428.0,48.0,3.0,0,2025-02-08 05:10:00,48.0,1.0
+71062,2024-11-17 18:30:00,2152,Mansoura,Chat,Low,  Refund ,  Ali ,Open,455.0,68.0,5.0,0,,72.0,0.0
+70512,2024-10-25 20:29:00,2057,Alexandria,Email,  Low ,Billing,Heba,Open,613.0,,2.0,0,,72.0,
+70478,2024-12-12 06:05:00,2111,zagazig,Phone,Low,Technical,Farah,Resolved,425.0,35.0,5.0,0,2024-12-13 17:05:00,72.0,1.0
+71423,2024-12-26 16:22:00,2444,GIZA,  Phone ,  High ,Complaint,  Ali ,Resolved,545.0,79.0,1.0,0,2024-12-29 23:22:00,24.0,0.0
+70436,2024-12-01 03:04:00,2412,Giza,Chat,Medium,Complaint,  Mina ,Resolved,382.0,87.0,4.0,0,2024-12-04 18:04:00,48.0,0.0
+70722,2024-10-13 23:20:00,2546,Ismailia,chat,High,  Complaint ,  Youssef ,Resolved,233.0,90.0,4.0,0,2024-10-17 17:20:00,24.0,0.0
+71362,2024-10-05 20:09:00,2174,Mansoura,Chat,  Low ,BILLING,NADA,  Open ,440.0,18.0,,0,,72.0,0.0
+70496,2025-02-01 00:09:00,2234,Ismailia,Portal,Low,Refund,Heba,Pending,200.0,,5.0,0,,72.0,
+71384,2024-10-12 18:09:00,2400,Cairo,Chat,Medium,delivery,nada,  RESOLVED ,528.0,81.0,3.0,0,2024-10-16 03:09:00,48.0,0.0
+70747,2025-02-09 03:13:00,2427,cairo,  Chat ,  Medium ,Account,  FARAH ,Open,361.0,,,0,,48.0,
+70903,2024-11-14 02:22:00,2280,Tanta,Chat,Medium,technical,Sara,  Resolved ,161.0,75.0,4.0,0,2024-11-17 05:22:00,48.0,0.0
+71537,2024-11-18 16:05:00,2472,ismailia,Phone,Medium,Account,Sara,Open,208.0,131.0,5.0,0,,48.0,0.0
+70970,2024-09-17 13:27:00,2106,Ismailia,phone,Low,Complaint,Youssef,Resolved,445.0,68.0,,0,2024-09-20 09:27:00,72.0,1.0
+70667,2025-02-25 14:08:00,2563,Alexandria,Email,high,Billing,MINA,Resolved,648.0,37.0,,0,2025-02-27 03:08:00,24.0,0.0
+71187,2025-01-11 09:21:00,2357,Suez,  Email ,Medium,Complaint,HEBA,Resolved,408.0,90.0,1.0,0,2025-01-15 03:21:00,48.0,0.0
+70638,2025-02-11 06:33:00,2270,Alexandria,Chat,High,Technical,Youssef,Open,180.0,,4.0,0,,24.0,
+71600,2025-01-22 12:13:00,2116,Zagazig,Email,low,complaint,Farah,  Resolved ,118.0,136.0,,0,2025-01-28 04:13:00,72.0,0.0
+71438,2024-10-06 02:59:00,2215,  Alexandria ,EMAIL,  Medium ,  Complaint ,Ali,  Closed ,17.0,109.0,2.0,0,2024-10-10 15:59:00,48.0,0.0
+71463,2025-02-08 11:19:00,2187,Mansoura,Portal,Critical,Complaint,nada,Open,591.0,,3.0,1,,8.0,
+70723,2025-02-06 11:26:00,2364,Mansoura,Chat,Low,REFUND,Omar,pending,498.0,36.0,4.0,1,,72.0,0.0
+70855,2025-01-19 06:59:00,2581,Tanta,Portal,high,Billing,  Ali ,Closed,225.0,79.0,3.0,0,2025-01-22 13:59:00,24.0,0.0
+70476,2024-10-11 00:07:00,2522,Ismailia,email,Low,  COMPLAINT ,  MINA ,Resolved,104.0,108.0,,0,2024-10-15 12:07:00,72.0,0.0
+70521,2024-11-01 00:47:00,2267,Cairo,  Phone ,Medium,Billing,Youssef,Pending,280.0,,4.0,0,,48.0,
+70351,2024-12-01 10:08:00,2385,mansoura,PHONE,High,Technical,Sara,  Pending ,317.0,,3.0,0,,24.0,
+71524,2025-01-27 01:42:00,2268,Giza,Email,MEDIUM,Refund,Ali,Resolved,273.0,9.0,4.0,0,2025-01-27 10:42:00,48.0,1.0
+70982,2024-11-07 14:23:00,2003,Giza,Chat,high,  Account ,Sara,resolved,709.0,109.0,3.0,0,2024-11-12 03:23:00,24.0,0.0
+70857,2025-01-25 18:56:00,2413,GIZA,Portal,Medium,Account,  Ali ,pending,236.0,97.0,5.0,0,,48.0,0.0
+71493,2024-11-24 17:47:00,2267,  ISMAILIA ,Phone,Medium,Technical,Farah,Pending,605.0,,3.0,0,,48.0,
+70915,2025-02-22 12:35:00,2135,Tanta,Email,Low,Billing,Farah,Resolved,580.0,57.0,1.0,0,2025-02-24 21:35:00,72.0,1.0
+70569,2024-12-13 04:59:00,2562,Ismailia,  PORTAL ,low,  Technical ,heba,Resolved,710.0,60.0,4.0,0,2024-12-15 16:59:00,72.0,1.0
+71576,2024-11-30 19:16:00,2362,zagazig,Phone,High,Technical,Farah,Open,177.0,22.0,,0,,24.0,0.0
+70281,2024-11-30 08:56:00,2440,Giza,Email,Low,  Account ,Ali,Resolved,694.0,38.0,4.0,1,2024-12-01 22:56:00,72.0,1.0
+70330,2025-02-26 02:43:00,2207,,  Phone ,Low,Account,Farah,Resolved,685.0,34.0,4.0,0,2025-02-27 12:43:00,72.0,1.0
+70121,2025-01-16 13:02:00,2135,Ismailia,  Phone ,Critical,Account,Omar,CLOSED,663.0,151.0,5.0,0,2025-01-22 20:02:00,8.0,0.0
+70014,2024-12-03 19:13:00,2320,Giza,Phone,High,Billing,SARA,RESOLVED,190.0,100.0,5.0,0,2024-12-07 23:13:00,24.0,0.0
+71235,2024-12-22 14:38:00,2439,Giza,PHONE,Critical,complaint,nada,Closed,200.0,139.0,,0,2024-12-28 09:38:00,8.0,0.0
+71094,2025-02-03 12:38:00,2099,Zagazig,Chat,  Critical ,Refund,Youssef,Pending,517.0,,4.0,0,,8.0,
+71007,2024-10-07 20:43:00,2310,Mansoura,Chat,Medium,delivery,SARA,Resolved,546.0,16.0,5.0,1,2024-10-08 12:43:00,48.0,1.0
+70851,2025-02-02 07:51:00,2121,Mansoura,Email,low,Complaint,sara,Resolved,95.0,114.0,1.0,0,2025-02-07 01:51:00,72.0,0.0
+70604,2024-09-08 12:38:00,2416,  Mansoura ,Chat,Low,Delivery,Farah,  Resolved ,585.0,13.0,,0,2024-09-09 01:38:00,72.0,1.0
+70746,2025-01-05 00:16:00,2459,Suez,Phone,  Medium ,  Account ,Heba,  Resolved ,97.0,29.0,3.0,0,2025-01-06 05:16:00,48.0,1.0
+71059,2024-10-07 05:06:00,2250,  Suez ,chat,MEDIUM,Delivery,Mina,RESOLVED,129.0,1.0,4.0,0,2024-10-07 06:06:00,48.0,1.0
+71331,2024-10-20 09:53:00,2466,Ismailia,Email,  Low ,Complaint,Youssef,Resolved,377.0,29.0,5.0,0,2024-10-21 14:53:00,72.0,1.0
+70867,2024-10-30 20:46:00,2595,Tanta,Chat,Low,Refund,nada,  Resolved ,181.0,26.0,2.0,0,2024-10-31 22:46:00,72.0,1.0
+71561,2025-02-06 02:24:00,2578,Zagazig,Chat,Medium,Delivery,nada,  Resolved ,80.0,166.0,3.0,0,2025-02-13 00:24:00,48.0,0.0
+70878,2024-10-28 18:35:00,2444,SUEZ,Email,  Medium ,Billing,farah,RESOLVED,668.0,92.0,5.0,0,2024-11-01 14:35:00,48.0,0.0
+70257,2024-12-31 02:15:00,2356,Suez,CHAT,Low,billing,Nada,Closed,568.0,46.0,3.0,0,2025-01-02 00:15:00,72.0,1.0
+70191,2025-02-11 04:34:00,2388,TANTA,PORTAL,High,Account,Youssef,Resolved,567.0,110.0,4.0,0,2025-02-15 18:34:00,24.0,0.0
+71151,2024-11-27 05:01:00,2076,TANTA,Chat,Low,complaint,  FARAH ,Open,444.0,,2.0,0,,72.0,
+70335,2025-01-30 01:06:00,2228,Mansoura,  Portal ,High,Account,Omar,  RESOLVED ,534.0,62.0,4.0,0,2025-02-01 15:06:00,24.0,0.0
+70603,2024-09-15 07:41:00,2597,CAIRO,EMAIL,  LOW ,Delivery,Farah,resolved,325.0,85.0,,0,2024-09-18 20:41:00,72.0,0.0
+70030,2025-01-17 22:10:00,2129,  Giza ,Portal,  Medium ,Technical,HEBA,Resolved,119.0,18.0,,0,2025-01-18 16:10:00,48.0,1.0
+71079,2024-11-14 15:47:00,2411,Ismailia,Chat,medium,Refund,Omar,  Resolved ,376.0,58.0,,0,2024-11-17 01:47:00,48.0,0.0
+70032,2024-09-03 17:01:00,2002,Cairo,Chat,Medium,Billing,Omar,Resolved,186.0,51.0,4.0,0,2024-09-05 20:01:00,48.0,0.0
+70094,2024-10-18 16:55:00,2052,  SUEZ ,CHAT,High,Technical,Mina,Resolved,305.0,145.0,1.0,0,2024-10-24 17:55:00,24.0,0.0
+70958,2025-02-15 07:22:00,2244,Suez,Email,medium,Complaint,Farah,Pending,174.0,28.0,4.0,0,,48.0,0.0
+70041,2024-10-31 11:34:00,2140,Giza,Portal,High,Delivery,NADA,RESOLVED,222.0,33.0,,0,2024-11-01 20:34:00,24.0,0.0
+70017,2024-11-15 04:21:00,2041,Alexandria,chat,High,  Refund ,Farah,Open,59.0,,5.0,0,,24.0,
+71325,2025-02-03 23:40:00,2482,Ismailia,Phone,Medium,Complaint,Nada,Resolved,216.0,12.0,4.0,0,2025-02-04 11:40:00,48.0,1.0
+70850,2024-09-12 19:33:00,2582,Giza,PHONE,HIGH,  Account ,Sara,Resolved,289.0,86.0,3.0,0,2024-09-16 09:33:00,24.0,0.0
+70592,2025-01-07 03:54:00,2308,MANSOURA,  PORTAL ,  Low ,  delivery ,farah,  Resolved ,145.0,100.0,4.0,0,2025-01-11 07:54:00,72.0,0.0
+71553,2024-10-27 20:34:00,2205,Alexandria,chat,Medium,Billing,Ali,Resolved,597.0,164.0,5.0,0,2024-11-03 16:34:00,48.0,0.0
+70767,2025-02-21 13:44:00,2353,Zagazig,Email,critical,Complaint,Nada,Resolved,25.0,141.0,,0,2025-02-27 10:44:00,8.0,0.0
+71265,2024-11-10 18:43:00,2170,Suez,  Chat ,Low,  account ,MINA,  Resolved ,485.0,147.0,4.0,0,2024-11-16 21:43:00,72.0,0.0
+70975,2025-01-21 20:26:00,2209,Tanta,Email,Critical,  refund ,Ali,Pending,458.0,,3.0,0,,8.0,
+71349,2024-11-14 14:44:00,2281,,Phone,LOW,Complaint,  Heba ,  Resolved ,499.0,9.0,4.0,0,2024-11-14 23:44:00,72.0,1.0
+70250,2025-01-11 12:15:00,2046,Mansoura,Email,Low,Technical,FARAH,Closed,198.0,150.0,3.0,0,2025-01-17 18:15:00,72.0,0.0
+70806,2024-10-24 21:15:00,2120,,Chat,Low,Complaint,Omar,Resolved,205.0,97.0,3.0,0,2024-10-28 22:15:00,72.0,0.0
+71417,2024-10-02 01:08:00,2189,mansoura,Portal,Medium,BILLING,Ali,Pending,668.0,,2.0,1,,48.0,
+71148,2024-10-24 09:28:00,2578,zagazig,Chat,Medium,REFUND,Mina,Resolved,104.0,111.0,4.0,0,2024-10-29 00:28:00,48.0,0.0
+71592,2024-10-29 06:01:00,2424,Mansoura,  CHAT ,Low,  Technical ,ALI,open,253.0,,3.0,0,,72.0,
+71168,2024-10-14 23:38:00,2576,  Cairo ,  phone ,Low,DELIVERY,Omar,Resolved,404.0,102.0,3.0,0,2024-10-19 05:38:00,72.0,0.0
+70750,2024-10-03 16:48:00,2207,Zagazig,email,Medium,account,Heba,RESOLVED,24.0,130.0,,1,2024-10-09 02:48:00,48.0,0.0
+71072,2025-01-07 13:36:00,2539,  Mansoura ,Phone,low,account,omar,  Open ,581.0,,5.0,0,,72.0,
+71387,2024-10-26 16:17:00,2156,ismailia,Chat,HIGH,Account,mina,closed,507.0,70.0,1.0,0,2024-10-29 14:17:00,24.0,0.0
+70591,2024-10-17 13:57:00,2313,ALEXANDRIA,CHAT,Low,Complaint,heba,  Resolved ,10.0,12.0,,0,2024-10-18 01:57:00,72.0,1.0
+70328,2024-11-19 19:58:00,2199,Alexandria,Email,Low,Account,Heba,Resolved,308.0,89.0,5.0,0,2024-11-23 12:58:00,72.0,0.0
+71024,2024-09-14 11:48:00,2110,Tanta,email,  Medium ,technical,Nada,Resolved,619.0,63.0,2.0,0,2024-09-17 02:48:00,48.0,0.0
+70169,2024-12-09 11:53:00,2245,Ismailia,Chat,  LOW ,Account,OMAR,Resolved,332.0,127.0,5.0,0,2024-12-14 18:53:00,72.0,0.0
+70497,2025-02-05 14:46:00,2452,,Chat,Medium,  Delivery ,Ali,resolved,376.0,63.0,5.0,0,2025-02-08 05:46:00,48.0,0.0
+71085,2025-02-06 20:02:00,2466,Tanta,Email,Low,Account,Farah,Closed,438.0,5.0,4.0,0,2025-02-07 01:02:00,72.0,1.0
+70465,2024-09-15 16:00:00,2209,Zagazig,Chat,High,Billing,Nada,pending,292.0,,3.0,0,,24.0,
+70194,2024-12-31 15:26:00,2491,Tanta,Chat,MEDIUM,technical,Heba,Closed,46.0,3.0,3.0,0,2024-12-31 18:26:00,48.0,1.0
+70372,2024-10-03 11:05:00,2598,  Ismailia ,Chat,LOW,Billing,Ali,Resolved,708.0,77.0,2.0,0,2024-10-06 16:05:00,72.0,0.0
+71510,2024-11-06 09:19:00,2252,,chat,Medium,technical,Sara,open,603.0,,4.0,0,,48.0,
+70537,2025-01-08 23:36:00,2061,Tanta,Portal,MEDIUM,Technical,Sara,OPEN,265.0,,3.0,0,,48.0,
+70661,2024-12-14 01:33:00,2465,MANSOURA,  Phone ,Medium,  ACCOUNT ,Nada,Resolved,534.0,147.0,5.0,0,2024-12-20 04:33:00,48.0,0.0
+70882,2025-02-08 03:00:00,2370,ismailia,Chat,Low,Technical,mina,RESOLVED,334.0,11.0,4.0,0,2025-02-08 14:00:00,72.0,1.0
+70564,2024-12-04 16:29:00,2142,Suez,Email,Medium,Technical,Ali,resolved,385.0,70.0,,0,2024-12-07 14:29:00,48.0,0.0
+71028,2025-02-12 15:32:00,2148,  Giza ,PHONE,Low,Account,ALI,PENDING,413.0,22.0,4.0,0,,72.0,0.0
+71018,2025-01-15 06:08:00,2585,Cairo,  Phone ,Medium,Delivery,Heba,Resolved,143.0,125.0,,0,2025-01-20 11:08:00,48.0,0.0
+71365,2024-09-15 14:50:00,2241,Alexandria,Phone,  medium ,Technical,Nada,Resolved,187.0,165.0,,0,2024-09-22 11:50:00,48.0,0.0
+70144,2025-01-12 16:19:00,2433,Tanta,EMAIL,Low,Billing,OMAR,Resolved,542.0,70.0,,0,2025-01-15 14:19:00,72.0,1.0
+70409,2025-01-08 00:37:00,2115,SUEZ,chat,LOW,Complaint,  ALI ,Resolved,576.0,51.0,,0,2025-01-10 03:37:00,72.0,1.0
+70992,2024-11-10 10:36:00,2375,Zagazig,Portal,High,REFUND,Omar,resolved,265.0,154.0,5.0,0,2024-11-16 20:36:00,24.0,0.0
+70035,2024-10-18 06:22:00,2032,Alexandria,portal,Critical,COMPLAINT,  Omar ,PENDING,541.0,,4.0,0,,8.0,
+71434,2024-10-21 05:05:00,2015,TANTA,Portal,Medium,  Account ,Youssef,Open,359.0,138.0,5.0,0,,48.0,0.0
+71518,2025-02-25 13:59:00,2068,Suez,Portal,  Medium ,billing,SARA,Resolved,319.0,20.0,5.0,0,2025-02-26 09:59:00,48.0,1.0
+71410,2025-02-04 23:34:00,2484,Suez,Chat,  high ,Delivery,  Farah ,Pending,214.0,,4.0,0,,24.0,
+70399,2024-10-01 08:52:00,2212,Alexandria,Chat,Low,Complaint,Mina,Pending,16.0,24.0,3.0,0,,72.0,0.0
+71177,2024-11-13 12:15:00,2219,Zagazig,Chat,Low,Billing,  nada ,Resolved,135.0,85.0,,0,2024-11-17 01:15:00,72.0,0.0
+71281,2025-01-01 04:16:00,2042,Suez,portal,Low,  Delivery ,Ali,resolved,98.0,88.0,5.0,0,2025-01-04 20:16:00,72.0,0.0
+70839,2024-12-19 20:25:00,2584,Mansoura,Chat,Medium,Complaint,Mina,Open,239.0,,3.0,0,,48.0,
+70166,2024-09-12 08:16:00,2271,Tanta,PHONE,  medium ,refund,Sara,Resolved,678.0,35.0,5.0,0,2024-09-13 19:16:00,48.0,1.0
+70735,2024-11-13 07:59:00,2490,mansoura,Phone,MEDIUM,Account,Farah,resolved,250.0,160.0,2.0,0,2024-11-19 23:59:00,48.0,0.0
+70106,2024-10-08 06:55:00,2256,Mansoura,Phone,Medium,Billing,Sara,Resolved,111.0,72.0,,0,2024-10-11 06:55:00,48.0,0.0
+71004,2024-11-06 09:42:00,2188,  cairo ,Chat,MEDIUM,Complaint,sara,Resolved,122.0,99.0,2.0,0,2024-11-10 12:42:00,48.0,0.0
+70674,2024-12-24 01:16:00,2300,giza,Email,Low,Complaint,Youssef,Open,292.0,14.0,5.0,0,,72.0,0.0
+71479,2024-12-18 11:42:00,2405,Zagazig,  Chat ,Low,Complaint,,Resolved,112.0,32.0,4.0,0,2024-12-19 19:42:00,72.0,1.0
+70629,2024-10-24 23:47:00,2599,  Cairo ,  Chat ,Medium,Delivery,  Nada ,Open,601.0,,4.0,0,,48.0,
+70585,2024-09-29 08:24:00,2236,Cairo,Email,LOW,Refund,Farah,pending,377.0,118.0,3.0,0,,72.0,0.0
+70847,2025-01-05 16:32:00,2048,Alexandria,Email,Low,  Delivery ,Farah,open,272.0,,2.0,0,,72.0,
+71560,2024-11-25 15:46:00,2576,Tanta,Portal,Medium,account,  Nada ,  Open ,298.0,,5.0,0,,48.0,
+71468,2025-01-09 08:31:00,2262,tanta,EMAIL,High,ACCOUNT,  ALI ,Open,102.0,,,0,,24.0,
+70881,2025-02-28 09:25:00,2403,Tanta,Chat,Medium,Complaint,  Nada ,OPEN,195.0,161.0,5.0,0,,48.0,0.0
+70580,2024-10-25 18:17:00,2185,Alexandria,Chat,LOW,Delivery,Sara,Closed,41.0,109.0,,0,2024-10-30 07:17:00,72.0,0.0
+70677,2024-11-28 13:27:00,2531,CAIRO,Portal,Low,Complaint,Farah,Open,427.0,,5.0,0,,72.0,
+70676,2024-11-15 17:37:00,2086,Alexandria,Chat,CRITICAL,Technical,youssef,Open,-5.0,162.0,3.0,0,,8.0,0.0
+70293,2025-01-28 17:09:00,2257,Tanta,Chat,MEDIUM,  Billing ,Sara,Resolved,182.0,62.0,3.0,1,2025-01-31 07:09:00,48.0,0.0
+71572,2024-12-25 12:49:00,2496,Suez,  Email ,Medium,Technical,Ali,Open,179.0,68.0,4.0,0,,48.0,0.0
+70998,2025-01-28 17:51:00,2099,Alexandria,chat,Medium,billing,Youssef,  Closed ,210.0,163.0,5.0,0,2025-02-04 12:51:00,48.0,0.0
+70190,2024-09-30 10:05:00,2297,  Mansoura ,Chat,medium,Technical,Heba,Pending,337.0,,3.0,1,,48.0,
+71016,2024-12-01 22:09:00,2437,  Cairo ,Email,High,Account,Ali,resolved,559.0,146.0,5.0,0,2024-12-08 00:09:00,24.0,0.0
+71050,2024-12-04 22:21:00,2268,Mansoura,email,  HIGH ,Refund,Youssef,  Resolved ,284.0,46.0,5.0,0,2024-12-06 20:21:00,24.0,0.0
+70788,2024-10-31 20:06:00,2249,MANSOURA,chat,High,  Delivery ,Sara,resolved,324.0,149.0,5.0,0,2024-11-07 01:06:00,24.0,0.0
+71081,2024-09-20 08:41:00,2548,  Cairo ,Chat,medium,Refund,Nada,  OPEN ,237.0,,3.0,0,,48.0,
+70742,2024-09-07 06:37:00,2349,ISMAILIA,  Chat ,Medium,Refund,Farah,Resolved,233.0,2.0,2.0,0,2024-09-07 08:37:00,48.0,1.0
+70710,2025-02-15 22:52:00,2078,Mansoura,Email,medium,  Delivery ,farah,Resolved,49.0,47.0,3.0,0,2025-02-17 21:52:00,48.0,1.0
+70544,2024-11-27 16:31:00,2145,ismailia,Email,high,  delivery ,  OMAR ,Resolved,662.0,62.0,2.0,0,2024-11-30 06:31:00,24.0,0.0
+70701,2024-10-22 07:31:00,2556,TANTA,phone,High,Delivery,Ali,RESOLVED,73.0,55.0,,0,2024-10-24 14:31:00,24.0,0.0
+70596,2024-09-14 16:44:00,2375,Ismailia,EMAIL,High,BILLING,youssef,  Resolved ,685.0,24.0,4.0,0,2024-09-15 16:44:00,24.0,1.0
+70449,2024-12-22 02:28:00,2279,suez,EMAIL,low,Delivery,Sara,Closed,90.0,82.0,5.0,0,2024-12-25 12:28:00,72.0,0.0
+71080,2025-01-15 00:23:00,2244,Mansoura,  Portal ,Medium,Account,OMAR,Resolved,45.0,129.0,5.0,0,2025-01-20 09:23:00,48.0,0.0
+70076,2024-10-15 11:13:00,2250,CAIRO,  Phone ,Low,DELIVERY,Farah,pending,203.0,132.0,4.0,1,,72.0,0.0
+70563,2025-01-18 17:52:00,2107,Mansoura,Chat,medium,COMPLAINT,nada,Open,670.0,9.0,1.0,0,,48.0,0.0
+70567,2025-02-14 21:46:00,2065,ISMAILIA,EMAIL,  Medium ,  COMPLAINT ,Ali,  closed ,362.0,127.0,,0,2025-02-20 04:46:00,48.0,0.0
+71025,2024-10-28 15:34:00,2294,Cairo,  Phone ,Medium,Refund,,Open,711.0,88.0,4.0,0,,48.0,0.0
+71065,2024-12-29 12:02:00,2245,  Ismailia ,chat,High,Account,Omar,Resolved,710.0,116.0,4.0,0,2025-01-03 08:02:00,24.0,0.0
+71498,2024-10-21 02:51:00,2584,  Suez ,Phone,Low,Billing,Omar,CLOSED,290.0,76.0,5.0,0,2024-10-24 06:51:00,72.0,0.0
+70698,2024-10-20 02:53:00,2580,  Ismailia ,CHAT,  High ,Delivery,Nada,CLOSED,519.0,80.0,5.0,0,2024-10-23 10:53:00,24.0,0.0
+70202,2024-12-10 18:32:00,2364,cairo,PORTAL,MEDIUM,Account,Farah,CLOSED,317.0,93.0,4.0,0,2024-12-14 15:32:00,48.0,0.0
+71191,2024-12-20 18:22:00,2311,Ismailia,email,Critical,Refund,Youssef,  Resolved ,658.0,98.0,4.0,0,2024-12-24 20:22:00,8.0,0.0
+71439,2024-09-10 19:31:00,2381,Ismailia,  portal ,Medium,Complaint,OMAR,Resolved,551.0,154.0,2.0,0,2024-09-17 05:31:00,48.0,0.0
+70225,2025-02-26 12:55:00,2405,Alexandria,  Portal ,Low,Billing,ali,Resolved,285.0,57.0,4.0,0,2025-02-28 21:55:00,72.0,1.0
+70129,2024-11-09 18:58:00,2574,  Zagazig ,chat,low,  TECHNICAL ,Youssef,  Resolved ,232.0,17.0,3.0,0,2024-11-10 11:58:00,72.0,1.0
+70117,2024-12-20 19:35:00,2038,Suez,chat,Medium,Billing,  Mina ,PENDING,386.0,,2.0,0,,48.0,
+70382,2025-01-02 05:44:00,2575,Alexandria,EMAIL,LOW,Complaint,Heba,Resolved,66.0,123.0,4.0,1,2025-01-07 08:44:00,72.0,0.0
+70456,2024-10-27 23:27:00,2341,Giza,Chat,High,Complaint,Youssef,resolved,601.0,148.0,5.0,0,2024-11-03 03:27:00,24.0,0.0
+70219,2024-09-23 19:18:00,2496,Giza,Chat,low,Technical,Omar,Resolved,275.0,48.0,4.0,0,2024-09-25 19:18:00,72.0,1.0
+71294,2025-01-08 23:28:00,2208,cairo,Portal,Medium,Complaint,  Heba ,Resolved,308.0,80.0,4.0,0,2025-01-12 07:28:00,48.0,0.0
+70107,2025-01-06 22:37:00,2212,  Tanta ,Chat,Medium,Billing,ALI,Closed,154.0,12.0,3.0,0,2025-01-07 10:37:00,48.0,1.0
+70637,2024-11-12 13:52:00,2290,Giza,Chat,Critical,Billing,  Farah ,Resolved,607.0,112.0,2.0,1,2024-11-17 05:52:00,8.0,0.0
+71218,2025-02-17 11:00:00,2495,Tanta,Chat,Low,Complaint,FARAH,Resolved,208.0,21.0,4.0,1,2025-02-18 08:00:00,72.0,1.0
+70812,2024-10-04 23:09:00,2387,Giza,  Email ,MEDIUM,  Account ,Sara,  Pending ,647.0,,5.0,0,,48.0,
+71248,2024-09-21 23:18:00,2377,Cairo,Chat,High,Refund,Sara,  Resolved ,626.0,4.0,3.0,0,2024-09-22 03:18:00,24.0,1.0
+71543,2025-02-23 11:46:00,2589,  Alexandria ,Email,MEDIUM,Refund,Farah,  Resolved ,292.0,63.0,5.0,0,2025-02-26 02:46:00,48.0,0.0
+70053,2024-09-18 10:12:00,2135,Zagazig,Email,High,Account,SARA,Open,229.0,,5.0,0,,24.0,
+71392,2024-12-10 14:16:00,2250,Suez,Portal,High,Billing,  mina ,  resolved ,425.0,149.0,4.0,0,2024-12-16 19:16:00,24.0,0.0
+71011,2024-11-09 11:59:00,2363,GIZA,Phone,  Medium ,Technical,MINA,Pending,628.0,,,0,,48.0,
+71066,2025-01-06 01:14:00,2421,Cairo,  Chat ,High,BILLING,Nada,  Closed ,373.0,160.0,2.0,0,2025-01-12 17:14:00,24.0,0.0
+70300,2024-10-20 01:51:00,2552,Mansoura,email,MEDIUM,TECHNICAL,Sara,Open,376.0,,4.0,0,,48.0,
+70754,2024-10-25 23:57:00,2411,ZAGAZIG,Phone,High,Refund,ALI,Closed,563.0,17.0,5.0,0,2024-10-26 16:57:00,24.0,1.0
+70442,2024-12-19 20:27:00,2256,Mansoura,  Chat ,Low,  BILLING ,Youssef,Resolved,595.0,43.0,,1,2024-12-21 15:27:00,72.0,1.0
+70025,2024-11-14 19:27:00,2340,Tanta,Portal,Low,account,Mina,  resolved ,110.0,19.0,2.0,0,2024-11-15 14:27:00,72.0,1.0
+71359,2025-02-02 14:23:00,2068,Suez,Chat,Medium,Technical,Omar,  Open ,45.0,,5.0,0,,48.0,
+71174,2024-12-10 03:51:00,2216,Cairo,Portal,Low,  Complaint ,  Farah ,Pending,587.0,92.0,3.0,0,,72.0,0.0
+71475,2024-09-07 05:28:00,2383,Giza,  CHAT ,  Medium ,account,Omar,Resolved,359.0,143.0,5.0,0,2024-09-13 04:28:00,48.0,0.0
+71027,2024-12-16 19:48:00,2127,Alexandria,CHAT,  Low ,  Complaint ,Farah,Resolved,461.0,158.0,5.0,1,2024-12-23 09:48:00,72.0,0.0
+70562,2024-09-06 17:14:00,2138,Cairo,Email,Low,REFUND,  omar ,pending,523.0,,5.0,0,,72.0,
+71264,2024-10-23 16:41:00,2551,  Alexandria ,Phone,Low,Account,Youssef,Resolved,621.0,16.0,,1,2024-10-24 08:41:00,72.0,1.0
+71112,2024-09-22 01:36:00,2441,  Suez ,Portal,Low,Billing,Nada,Open,673.0,,5.0,0,,72.0,
+71531,2024-12-16 16:36:00,2316,Zagazig,Phone,Low,Delivery,Youssef,Open,612.0,,,0,,72.0,
+70460,2024-12-16 08:52:00,2232,  Zagazig ,Chat,High,  Account ,nada,RESOLVED,363.0,138.0,5.0,0,2024-12-22 02:52:00,24.0,0.0
+70565,2024-10-28 15:40:00,2178,Ismailia,Email,LOW,  refund ,Heba,Pending,708.0,9.0,5.0,0,,72.0,0.0
+70904,2024-10-08 05:37:00,2037,Suez,EMAIL,Medium,Technical,Farah,Resolved,405.0,110.0,5.0,0,2024-10-12 19:37:00,48.0,0.0
+71023,2024-12-16 06:00:00,2193,ismailia,CHAT,Medium,complaint,Sara,open,45.0,34.0,,0,,48.0,0.0
+70301,2025-01-09 14:02:00,2049,ISMAILIA,Email,Low,REFUND,Nada,RESOLVED,95.0,96.0,,0,2025-01-13 14:02:00,72.0,0.0
+71266,2024-11-22 20:56:00,2458,ISMAILIA,Portal,  medium ,Account,Omar,  RESOLVED ,163.0,84.0,,0,2024-11-26 08:56:00,48.0,0.0
+70671,2024-12-24 11:24:00,2108,Zagazig,Chat,  Low ,  Complaint ,  Nada ,Resolved,264.0,49.0,,0,2024-12-26 12:24:00,72.0,1.0
+70584,2024-11-07 20:23:00,2343,  Ismailia ,PORTAL,  Low ,Billing,Youssef,Resolved,268.0,149.0,,0,2024-11-14 01:23:00,72.0,0.0
+70205,2024-11-24 09:59:00,2071,ALEXANDRIA,  Chat ,Medium,ACCOUNT,  FARAH ,  Resolved ,517.0,27.0,3.0,1,2024-11-25 12:59:00,48.0,1.0
+70833,2024-12-22 21:40:00,2485,  Cairo ,  Chat ,Low,Refund,omar,Open,481.0,,4.0,0,,72.0,
+70216,2024-09-17 13:41:00,2469,  Mansoura ,PORTAL,high,Refund,Mina,open,644.0,66.0,,0,,24.0,0.0
+71086,2024-11-25 18:20:00,2425,Ismailia,Email,Low,Billing,  Mina ,Open,142.0,,4.0,0,,72.0,
+70993,2024-12-18 17:11:00,2481,  ALEXANDRIA ,Email,Low,  Complaint ,Nada,Pending,555.0,,4.0,0,,72.0,
+70557,2024-11-12 17:49:00,2134,,  Portal ,  Low ,Technical,  Heba ,Resolved,502.0,72.0,2.0,0,2024-11-15 17:49:00,72.0,1.0
+71390,2024-09-28 14:33:00,2478,  Giza ,Email,Low,Complaint,  Youssef ,pending,256.0,83.0,5.0,0,,72.0,0.0
+71295,2024-09-15 21:12:00,2579,MANSOURA,  Email ,low,Delivery,  Youssef ,Resolved,100.0,147.0,4.0,1,2024-09-22 00:12:00,72.0,0.0
+71490,2024-10-19 07:05:00,2340,MANSOURA,Portal,High,Delivery,Omar,Resolved,322.0,143.0,,0,2024-10-25 06:05:00,24.0,0.0
+70942,2024-10-19 14:14:00,2012,  Mansoura ,PORTAL,low,DELIVERY,Ali,Closed,496.0,29.0,2.0,1,2024-10-20 19:14:00,72.0,1.0
+71571,2024-11-29 08:14:00,2599,Tanta,Email,Critical,Refund,Youssef,Resolved,698.0,58.0,3.0,0,2024-12-01 18:14:00,8.0,0.0
+70685,2024-10-08 22:19:00,2444,CAIRO,Chat,Medium,Account,Omar,Pending,501.0,90.0,4.0,0,,48.0,0.0
+70708,2024-09-23 05:22:00,2474,Zagazig,Portal,low,billing,NADA,Resolved,416.0,147.0,4.0,0,2024-09-29 08:22:00,72.0,0.0
+70780,2025-01-28 22:37:00,2556,Zagazig,Email,Low,Complaint,Heba,OPEN,412.0,64.0,5.0,0,,72.0,0.0
+70768,2024-12-12 17:12:00,2207,Zagazig,Phone,Medium,  TECHNICAL ,Ali,Resolved,611.0,78.0,5.0,0,2024-12-15 23:12:00,48.0,0.0
+70606,2025-02-20 22:35:00,2394,  Mansoura ,  Email ,Medium,Refund,SARA,Resolved,704.0,64.0,,0,2025-02-23 14:35:00,48.0,0.0
+70125,2025-01-02 06:47:00,2141,Suez,email,High,Technical,  Omar ,  RESOLVED ,-5.0,78.0,4.0,0,2025-01-05 12:47:00,24.0,0.0
+71306,2025-02-25 19:09:00,2421,Mansoura,Email,Low,Billing,Farah,Open,291.0,,4.0,0,,72.0,
+70568,2024-10-27 11:01:00,2479,Alexandria,portal,low,Complaint,Sara,Open,221.0,,,0,,72.0,
+71435,2025-02-04 15:33:00,2148,Tanta,Phone,High,account,Farah,Closed,153.0,121.0,2.0,0,2025-02-09 16:33:00,24.0,0.0
+70504,2024-10-24 09:47:00,2316,Mansoura,Chat,Low,  Refund ,  FARAH ,Open,377.0,,3.0,0,,72.0,
+71303,2024-12-29 12:16:00,2059,Ismailia,email,High,Refund,Sara,Resolved,363.0,160.0,3.0,1,2025-01-05 04:16:00,24.0,0.0
+70323,2025-02-18 09:51:00,2375,CAIRO,Email,High,Technical,Youssef,Resolved,674.0,75.0,3.0,0,2025-02-21 12:51:00,24.0,0.0
+70912,2024-11-25 08:58:00,2263,Suez,EMAIL,  Low ,Billing,  Farah ,Resolved,411.0,18.0,1.0,0,2024-11-26 02:58:00,72.0,1.0
+70104,2024-12-28 04:55:00,2578,Mansoura,Portal,  LOW ,  Billing ,MINA,Resolved,280.0,132.0,5.0,1,2025-01-02 16:55:00,72.0,0.0
+70193,2024-11-25 21:43:00,2102,Tanta,Email,MEDIUM,Technical,Mina,Resolved,652.0,60.0,,0,2024-11-28 09:43:00,48.0,0.0
+71101,2025-02-16 14:18:00,2459,Ismailia,Chat,Medium,  Technical ,mina,Resolved,299.0,59.0,5.0,0,2025-02-19 01:18:00,48.0,0.0
+70447,2024-09-13 08:51:00,2370,  Ismailia ,PORTAL,High,Delivery,Heba,Open,689.0,111.0,,0,,24.0,0.0
+70393,2024-09-19 14:09:00,2475,Alexandria,Phone,LOW,Account,  Sara ,Pending,439.0,,,1,,72.0,
+70297,2024-09-12 16:33:00,2273,Cairo,Email,Low,Refund,  Sara ,  pending ,656.0,,4.0,1,,72.0,
+70809,2025-01-09 22:17:00,2451,  Giza ,Phone,Medium,Account,  Youssef ,Open,54.0,,4.0,0,,48.0,
+70705,2024-10-27 19:51:00,2137,Alexandria,Chat,MEDIUM,refund,youssef,Open,616.0,,4.0,0,,48.0,
+70772,2024-12-19 04:05:00,2447,Alexandria,Email,Critical,technical,Omar,Resolved,202.0,62.0,,0,2024-12-21 18:05:00,8.0,0.0
+70312,2025-01-13 11:27:00,2198,Ismailia,Phone,Medium,Complaint,Ali,Closed,365.0,6.0,5.0,0,2025-01-13 17:27:00,48.0,1.0
+70971,2024-12-05 19:33:00,2450,  ISMAILIA ,Email,Low,Technical,Mina,Resolved,643.0,107.0,5.0,0,2024-12-10 06:33:00,72.0,0.0
+70489,2025-01-23 13:21:00,2337,,Email,High,Complaint,Ali,RESOLVED,633.0,98.0,4.0,0,2025-01-27 15:21:00,24.0,0.0
+70326,2025-01-03 19:37:00,2419,  Ismailia ,Portal,MEDIUM,Billing,Ali,Pending,223.0,,2.0,0,,48.0,
+70707,2024-12-22 07:25:00,2243,Ismailia,PHONE,  high ,  Account ,ALI,closed,459.0,154.0,,0,2024-12-28 17:25:00,24.0,0.0
+70048,2024-11-27 06:31:00,2002,  alexandria ,Chat,Critical,Refund,Nada,Closed,61.0,46.0,4.0,0,2024-11-29 04:31:00,8.0,0.0
+70732,2025-01-19 15:24:00,2582,ZAGAZIG,Email,Medium,Billing,Mina,RESOLVED,34.0,89.0,,0,2025-01-23 08:24:00,48.0,0.0
+70164,2024-09-28 05:34:00,2518,Cairo,Phone,LOW,Account,Heba,pending,48.0,108.0,,0,,72.0,0.0
+70528,2024-12-16 12:31:00,2577,Suez,Email,Critical,Account,Mina,Resolved,173.0,82.0,5.0,0,2024-12-19 22:31:00,8.0,0.0
+70298,2024-12-25 19:51:00,2461,Giza,PORTAL,Medium,  Billing ,Ali,Resolved,445.0,163.0,,0,2025-01-01 14:51:00,48.0,0.0
+71069,2024-11-16 01:53:00,2086,Alexandria,portal,Low,Technical,  Youssef ,Resolved,351.0,40.0,5.0,0,2024-11-17 17:53:00,72.0,1.0
+71185,2025-02-20 17:33:00,2318,Cairo,PORTAL,Medium,DELIVERY,Sara,Resolved,527.0,135.0,,1,2025-02-26 08:33:00,48.0,0.0
+70680,2025-02-28 07:05:00,2279,  Cairo ,Phone,Medium,Billing,Mina,  Resolved ,438.0,24.0,3.0,1,2025-03-01 07:05:00,48.0,1.0
+71499,2025-01-30 17:43:00,2598,Mansoura,Phone,low,  Delivery ,Ali,  Pending ,10.0,158.0,3.0,0,,72.0,0.0
+70616,2024-12-19 07:53:00,2428,Mansoura,Phone,Medium,Technical,Heba,  Resolved ,401.0,115.0,3.0,0,2024-12-24 02:53:00,48.0,0.0
+70019,2024-09-14 17:15:00,2287,Ismailia,Phone,low,Complaint,nada,Resolved,134.0,17.0,5.0,0,2024-09-15 10:15:00,72.0,1.0
+70887,2025-01-07 06:38:00,2434,Tanta,Portal,Low,Technical,HEBA,Resolved,409.0,69.0,4.0,0,2025-01-10 03:38:00,72.0,1.0
+70222,2024-09-26 06:09:00,2458,  Mansoura ,Phone,  low ,  Refund ,Mina,Resolved,494.0,141.0,5.0,0,2024-10-02 03:09:00,72.0,0.0
+71404,2024-12-26 02:33:00,2061,Tanta,Chat,Low,TECHNICAL,OMAR,Open,135.0,,4.0,0,,72.0,
+71411,2024-09-21 16:20:00,2269,Alexandria,Phone,medium,Account,Youssef,RESOLVED,54.0,66.0,,1,2024-09-24 10:20:00,48.0,0.0
+71279,2025-02-07 11:04:00,2536,TANTA,CHAT,Low,complaint,  FARAH ,Resolved,345.0,24.0,3.0,0,2025-02-08 11:04:00,72.0,1.0
+70665,2024-10-24 09:29:00,2013,Alexandria,PHONE,Low,BILLING,Youssef,Closed,207.0,80.0,3.0,0,2024-10-27 17:29:00,72.0,0.0
+70350,2024-10-14 04:57:00,2095,  Tanta ,Chat,Low,Refund,Nada,Resolved,498.0,52.0,2.0,0,2024-10-16 08:57:00,72.0,1.0
+70127,2025-02-03 09:54:00,2020,ismailia,Portal,Low,Account,NADA,Closed,489.0,140.0,5.0,0,2025-02-09 05:54:00,72.0,0.0
+70978,2024-10-17 07:45:00,2567,Cairo,PHONE,High,Account,Omar,Resolved,518.0,80.0,4.0,0,2024-10-20 15:45:00,24.0,0.0
+70418,2025-02-13 18:08:00,2338,Mansoura,Email,  Medium ,Technical,  Farah ,  Pending ,277.0,14.0,,0,,48.0,0.0
+71431,2024-10-25 23:16:00,2212,,Email,Medium,Account,  Farah ,Resolved,495.0,82.0,5.0,0,2024-10-29 09:16:00,48.0,0.0
+70018,2024-09-03 03:28:00,2056,Cairo,PORTAL,CRITICAL,COMPLAINT,Omar,Resolved,626.0,61.0,2.0,0,2024-09-05 16:28:00,8.0,0.0
+70658,2024-09-28 21:16:00,2133,GIZA,Phone,High,  Refund ,SARA,  RESOLVED ,406.0,20.0,1.0,0,2024-09-29 17:16:00,24.0,1.0
+70045,2024-12-06 11:24:00,2562,cairo,Email,High,Billing,sara,Closed,571.0,67.0,3.0,0,2024-12-09 06:24:00,24.0,0.0
+71280,2024-10-31 18:21:00,2541,Cairo,Portal,High,  Technical ,youssef,PENDING,145.0,88.0,2.0,0,,24.0,0.0
+70589,2024-11-02 05:51:00,2449,Tanta,Chat,Medium,Account,Youssef,  open ,417.0,119.0,4.0,0,,48.0,0.0
+70828,2025-02-14 06:29:00,2585,Suez,Portal,Low,  Complaint ,mina,open,414.0,,,0,,72.0,
+70480,2025-02-26 23:55:00,2149,alexandria,Chat,Medium,refund,Farah,Pending,9.0,,4.0,1,,48.0,
+70317,2024-11-28 11:52:00,2320,Zagazig,email,Critical,  Account ,Mina,Resolved,400.0,34.0,5.0,0,2024-11-29 21:52:00,8.0,0.0
+71379,2024-11-28 23:41:00,2244,Alexandria,Phone,Medium,COMPLAINT,Sara,Open,169.0,47.0,3.0,0,,48.0,0.0
+70918,2024-11-19 19:46:00,2094,Alexandria,Portal,Medium,Complaint,SARA,  Resolved ,401.0,70.0,5.0,0,2024-11-22 17:46:00,48.0,0.0
+70845,2024-09-08 18:54:00,2471,Tanta,EMAIL,Medium,  Complaint ,nada,open,88.0,,4.0,0,,48.0,
+70179,2025-01-01 18:09:00,2596,Ismailia,Chat,Low,Complaint,Youssef,pending,335.0,,,0,,72.0,
+70966,2024-11-29 03:00:00,2470,Alexandria,Email,Medium,Refund,Nada,RESOLVED,60.0,92.0,5.0,0,2024-12-02 23:00:00,48.0,0.0
+70530,2024-09-08 19:07:00,2340,Zagazig,  EMAIL ,low,Account,  Youssef ,Resolved,444.0,62.0,5.0,0,2024-09-11 09:07:00,72.0,1.0
+71374,2024-12-01 13:10:00,2308,Suez,  chat ,  High ,Billing,  Mina ,closed,380.0,160.0,5.0,0,2024-12-08 05:10:00,24.0,0.0
+70926,2025-02-13 05:37:00,2131,  Cairo ,Chat,LOW,refund,ali,Closed,541.0,120.0,5.0,0,2025-02-18 05:37:00,72.0,0.0
+70055,2025-02-08 18:57:00,2400,Giza,EMAIL,Medium,  Refund ,HEBA,Resolved,67.0,54.0,,0,2025-02-11 00:57:00,48.0,0.0
+71589,2024-11-14 02:00:00,2556,Suez,Chat,MEDIUM,Complaint,  farah ,  Resolved ,571.0,49.0,5.0,0,2024-11-16 03:00:00,48.0,0.0
+70424,2024-11-05 17:39:00,2097,Zagazig,phone,Medium,Billing,Sara,resolved,415.0,118.0,4.0,0,2024-11-10 15:39:00,48.0,0.0
+71214,2024-11-01 03:23:00,2403,CAIRO,Chat,  HIGH ,account,Sara,Open,515.0,11.0,4.0,0,,24.0,0.0
+70582,2024-11-30 03:10:00,2451,Suez,Email,  Low ,Complaint,  Omar ,Resolved,103.0,156.0,,0,2024-12-06 15:10:00,72.0,0.0
+71395,2024-10-21 10:09:00,2469,Tanta,Portal,Medium,Refund,Omar,  resolved ,88.0,10.0,4.0,0,2024-10-21 20:09:00,48.0,1.0
+70252,2025-02-10 09:00:00,2135,ZAGAZIG,portal,Medium,Billing,Sara,Pending,223.0,,3.0,0,,48.0,
+70581,2025-02-02 23:31:00,2096,Tanta,Email,Medium,Refund,Youssef,resolved,272.0,105.0,,0,2025-02-07 08:31:00,48.0,0.0
+71131,2025-01-30 19:22:00,2430,Alexandria,Email,critical,complaint,Heba,Open,657.0,,,0,,8.0,
+70659,2024-12-24 23:58:00,2167,Giza,Phone,Critical,Complaint,sara,Closed,146.0,44.0,4.0,0,2024-12-26 19:58:00,8.0,0.0
+71564,2024-09-28 13:38:00,2564,Alexandria,Phone,Medium,Delivery,ali,  RESOLVED ,509.0,89.0,3.0,0,2024-10-02 06:38:00,48.0,0.0
+71599,2025-01-11 21:08:00,2219,Zagazig,Phone,Low,Complaint,omar,Resolved,440.0,18.0,4.0,0,2025-01-12 15:08:00,72.0,1.0
+71225,2024-12-22 03:23:00,2482,Mansoura,  CHAT ,High,Refund,  Mina ,Resolved,402.0,23.0,1.0,1,2024-12-23 02:23:00,24.0,1.0
+70662,2024-12-17 16:00:00,2568,ZAGAZIG,Email,Medium,Technical,Omar,Closed,609.0,109.0,5.0,0,2024-12-22 05:00:00,48.0,0.0
+70406,2025-01-01 01:13:00,2167,Cairo,email,critical,ACCOUNT,Ali,Closed,625.0,78.0,4.0,0,2025-01-04 07:13:00,8.0,0.0
+71402,2024-10-01 17:02:00,2212,  Suez ,Phone,High,Technical,sara,PENDING,279.0,,5.0,0,,24.0,
+71403,2024-09-15 06:59:00,2599,suez,Chat,medium,Account,  Farah ,Resolved,277.0,45.0,4.0,0,2024-09-17 03:59:00,48.0,1.0
+71236,2024-12-13 13:11:00,2362,  Ismailia ,Email,high,  Technical ,Ali,CLOSED,273.0,88.0,3.0,0,2024-12-17 05:11:00,24.0,0.0
+70535,2025-02-07 19:06:00,2236,SUEZ,Phone,LOW,Delivery,  Mina ,  Closed ,570.0,15.0,2.0,0,2025-02-08 10:06:00,72.0,1.0
+71250,2025-02-20 02:04:00,2381,Mansoura,Chat,Medium,  Billing ,,Resolved,586.0,51.0,,0,2025-02-22 05:04:00,48.0,0.0
+70033,2024-11-07 11:40:00,2413,Suez,Chat,medium,  Account ,Heba,Pending,356.0,,4.0,0,,48.0,
+70687,2024-09-26 08:58:00,2114,Suez,Chat,Medium,  Refund ,omar,Resolved,330.0,61.0,,1,2024-09-28 21:58:00,48.0,0.0
+71336,2025-02-21 10:13:00,2453,Ismailia,Phone,LOW,Billing,Farah,Pending,436.0,122.0,5.0,0,,72.0,0.0
+70838,2024-11-17 14:11:00,2472,mansoura,Portal,Medium,Technical,Heba,CLOSED,480.0,102.0,4.0,0,2024-11-21 20:11:00,48.0,0.0
+71352,2024-09-08 07:47:00,2248,alexandria,chat,Medium,Refund,Youssef,  Open ,191.0,117.0,3.0,0,,48.0,0.0
+70560,2024-12-10 13:11:00,2268,Tanta,Email,Medium,Refund,nada,open,285.0,,,0,,48.0,
+71171,2024-10-19 05:06:00,2161,ISMAILIA,  Phone ,medium,Account,  Sara ,Resolved,718.0,58.0,5.0,0,2024-10-21 15:06:00,48.0,0.0
+70794,2024-10-30 03:30:00,2359,suez,  Email ,  High ,Complaint,Farah,OPEN,696.0,,4.0,0,,24.0,
+70607,2024-09-20 15:46:00,2195,  Giza ,PORTAL,High,Account,,Open,411.0,163.0,4.0,0,,24.0,0.0
+71466,2025-01-20 23:45:00,2117,Ismailia,CHAT,Low,Complaint,Heba,  RESOLVED ,202.0,138.0,,0,2025-01-26 17:45:00,72.0,0.0
+70875,2025-01-30 08:12:00,2181,ismailia,chat,medium,Billing,youssef,Resolved,292.0,154.0,4.0,1,2025-02-05 18:12:00,48.0,0.0
+70605,2024-09-17 10:02:00,2388,Zagazig,Chat,Medium,Technical,NADA,  Closed ,603.0,144.0,5.0,0,2024-09-23 10:02:00,48.0,0.0
+70309,2024-09-21 05:34:00,2438,Mansoura,Chat,Low,Billing,ALI,Pending,714.0,118.0,5.0,0,,72.0,0.0
+70897,2025-02-05 15:48:00,2219,Mansoura,Chat,Low,Complaint,MINA,Resolved,47.0,41.0,3.0,0,2025-02-07 08:48:00,72.0,1.0
+71447,2024-11-05 12:06:00,2321,  Mansoura ,Portal,Medium,Technical,Farah,  RESOLVED ,25.0,8.0,5.0,0,2024-11-05 20:06:00,48.0,1.0
+70500,2024-11-15 09:30:00,2542,Mansoura,Phone,low,Refund,omar,Pending,135.0,128.0,,0,,72.0,0.0
+70935,2024-11-24 02:33:00,2428,Tanta,Chat,Medium,Delivery,Youssef,Resolved,40.0,5.0,5.0,0,2024-11-24 07:33:00,48.0,1.0
+70766,2025-01-09 09:57:00,2079,alexandria,Chat,Low,Refund,Nada,Closed,192.0,62.0,,0,2025-01-11 23:57:00,72.0,1.0
+71397,2025-01-13 09:46:00,2261,  Zagazig ,phone,HIGH,  Account ,mina,Open,270.0,,3.0,0,,24.0,
+70956,2025-01-22 15:10:00,2321,Giza,chat,Low,Account,Farah,Resolved,184.0,152.0,2.0,0,2025-01-28 23:10:00,72.0,0.0
+70407,2025-02-07 08:00:00,2597,  mansoura ,  EMAIL ,High,Technical,Heba,Resolved,302.0,38.0,3.0,1,2025-02-08 22:00:00,24.0,0.0
+70026,2025-02-04 22:17:00,2493,Suez,Phone,High,Billing,  Nada ,Pending,182.0,,2.0,0,,24.0,
+70208,2024-10-08 23:55:00,2167,Tanta,  Chat ,Medium,TECHNICAL,Omar,Resolved,6.0,53.0,5.0,0,2024-10-11 04:55:00,48.0,0.0
+71523,2024-12-08 06:05:00,2239,Tanta,Phone,critical,Billing,heba,Pending,255.0,,4.0,0,,8.0,
+70859,2025-01-09 17:31:00,2571,Zagazig,portal,Medium,Complaint,Heba,Resolved,414.0,154.0,2.0,0,2025-01-16 03:31:00,48.0,0.0
+70503,2025-01-12 10:31:00,2332,  Zagazig ,CHAT,Low,BILLING,Sara,  Open ,318.0,,,0,,72.0,
+70608,2024-12-26 18:32:00,2430,Tanta,Phone,Medium,complaint,  Nada ,Closed,643.0,62.0,4.0,0,2024-12-29 08:32:00,48.0,0.0
+71115,2024-11-16 05:39:00,2574,  Suez ,  Chat ,Medium,  refund ,  Youssef ,Resolved,272.0,109.0,3.0,0,2024-11-20 18:39:00,48.0,0.0
+70610,2024-11-23 23:40:00,2128,Alexandria,phone,Medium,Billing,  omar ,Closed,227.0,96.0,5.0,1,2024-11-27 23:40:00,48.0,0.0
+70666,2025-01-05 00:40:00,2330,Ismailia,  Portal ,  Low ,Delivery,Ali,PENDING,126.0,104.0,,0,,72.0,0.0
+70551,2024-11-09 11:51:00,2303,suez,Phone,low,REFUND,Youssef,  Resolved ,712.0,84.0,5.0,0,2024-11-12 23:51:00,72.0,0.0
+70394,2025-02-23 17:04:00,2579,Giza,Email,  Low ,Account,  heba ,Closed,40.0,42.0,2.0,0,2025-02-25 11:04:00,72.0,1.0
+70579,2024-11-11 01:39:00,2282,Alexandria,Email,low,Billing,Mina,open,206.0,13.0,5.0,1,,72.0,0.0
+70364,2025-01-04 14:58:00,2047,Tanta,Chat,high,Technical,Ali,Resolved,204.0,106.0,4.0,0,2025-01-09 00:58:00,24.0,0.0
+70495,2024-10-06 00:32:00,2412,Cairo,email,Medium,Refund,sara,Resolved,715.0,61.0,4.0,0,2024-10-08 13:32:00,48.0,0.0
+71154,2025-01-08 02:54:00,2147,Giza,Email,  Medium ,Technical,Mina,Resolved,137.0,106.0,1.0,0,2025-01-12 12:54:00,48.0,0.0
+70369,2025-01-04 11:42:00,2387,Cairo,Email,Medium,Billing,Omar,resolved,386.0,61.0,5.0,0,2025-01-07 00:42:00,48.0,0.0
+70416,2025-02-27 05:26:00,2370,Ismailia,chat,Low,Technical,  Omar ,Closed,477.0,92.0,5.0,1,2025-03-03 01:26:00,72.0,0.0
+71070,2025-01-23 03:18:00,2408,Mansoura,PHONE,Low,ACCOUNT,ali,Resolved,590.0,40.0,4.0,0,2025-01-24 19:18:00,72.0,1.0
+70554,2024-12-15 17:34:00,2330,Giza,Phone,High,Account,MINA,RESOLVED,99.0,79.0,1.0,1,2024-12-19 00:34:00,24.0,0.0
+71292,2024-12-01 09:21:00,2195,mansoura,Portal,High,Delivery,Nada,RESOLVED,289.0,162.0,,0,2024-12-08 03:21:00,24.0,0.0
+71476,2024-09-04 18:02:00,2473,ALEXANDRIA,Portal,critical,Account,  NADA ,Pending,299.0,,4.0,0,,8.0,
+71003,2025-01-04 12:28:00,2567,Giza,Chat,high,Technical,Farah,Resolved,714.0,139.0,,1,2025-01-10 07:28:00,24.0,0.0
+71575,2025-01-13 21:31:00,2374,,  Email ,high,Complaint,Sara,Open,169.0,,5.0,0,,24.0,
+70428,2024-10-29 09:23:00,2373,  Alexandria ,Phone,  Low ,refund,heba,Resolved,615.0,37.0,3.0,0,2024-10-30 22:23:00,72.0,1.0
+71461,2024-12-05 05:57:00,2341,Tanta,Email,Critical,Refund,Farah,Resolved,639.0,100.0,4.0,0,2024-12-09 09:57:00,8.0,0.0
+70990,2024-10-14 09:51:00,2354,Ismailia,Email,  MEDIUM ,Complaint,Farah,Resolved,52.0,73.0,4.0,0,2024-10-17 10:51:00,48.0,0.0
+70370,2024-10-10 00:48:00,2042,  Ismailia ,Phone,Medium,Refund,YOUSSEF,Closed,475.0,28.0,3.0,0,2024-10-11 04:48:00,48.0,1.0
+70284,2024-11-06 07:05:00,2514,Suez,Email,Medium,  refund ,nada,Resolved,495.0,135.0,4.0,0,2024-11-11 22:05:00,48.0,0.0
+71180,2024-11-09 21:51:00,2415,  Zagazig ,EMAIL,High,  Technical ,Ali,Resolved,387.0,149.0,5.0,0,2024-11-16 02:51:00,24.0,0.0
+70646,2024-11-15 15:51:00,2120,Mansoura,email,LOW,  delivery ,Mina,RESOLVED,647.0,124.0,4.0,1,2024-11-20 19:51:00,72.0,0.0
+71015,2024-10-13 03:51:00,2193,MANSOURA,  Chat ,High,Account,Omar,Resolved,221.0,87.0,1.0,0,2024-10-16 18:51:00,24.0,0.0
+71452,2024-11-02 01:34:00,2211,Alexandria,Email,Medium,complaint,Sara,Open,142.0,70.0,,0,,48.0,0.0
+71547,2024-10-31 14:19:00,2599,  ALEXANDRIA ,Chat,MEDIUM,delivery,Nada,Resolved,105.0,3.0,4.0,0,2024-10-31 17:19:00,48.0,1.0
+70797,2025-02-12 12:22:00,2075,Zagazig,  portal ,Medium,  BILLING ,,resolved,594.0,69.0,5.0,0,2025-02-15 09:22:00,48.0,0.0
+71263,2024-12-31 22:19:00,2254,Suez,Email,Low,Technical,Mina,Resolved,315.0,84.0,4.0,0,2025-01-04 10:19:00,72.0,0.0
+71587,2024-10-10 03:05:00,2469,SUEZ,Email,Low,complaint,  HEBA ,Resolved,415.0,4.0,5.0,0,2024-10-10 07:05:00,72.0,1.0
+70811,2025-01-09 07:40:00,2168,  GIZA ,Chat,LOW,Refund,Sara,  Pending ,684.0,,4.0,0,,72.0,
+71473,2024-10-22 22:28:00,2156,SUEZ,chat,Medium,Complaint,Omar,Resolved,444.0,120.0,,0,2024-10-27 22:28:00,48.0,0.0
+70295,2024-10-08 16:38:00,2283,Suez,Chat,low,  Delivery ,Mina,Closed,304.0,32.0,4.0,0,2024-10-10 00:38:00,72.0,1.0
+70176,2024-10-13 02:27:00,2367,  Alexandria ,Email,Low,BILLING,nada,Open,615.0,,5.0,0,,72.0,
+70866,2024-11-05 18:35:00,2102,Tanta,Email,Low,Delivery,Omar,Resolved,22.0,137.0,2.0,0,2024-11-11 11:35:00,72.0,0.0
+70750,2024-10-03 16:48:00,2207,Zagazig,email,Medium,account,Heba,RESOLVED,24.0,130.0,,1,2024-10-09 02:48:00,48.0,0.0
+70211,2025-02-27 01:34:00,2284,GIZA,Portal,Medium,Refund,Ali,  Resolved ,12.0,142.0,3.0,0,2025-03-04 23:34:00,48.0,0.0
+71501,2025-02-14 04:46:00,2166,,PHONE,Low,Refund,Youssef,RESOLVED,247.0,132.0,1.0,0,2025-02-19 16:46:00,72.0,0.0
+71339,2024-10-27 05:42:00,2277,  Giza ,Chat,Medium,ACCOUNT,Heba,RESOLVED,422.0,40.0,5.0,0,2024-10-28 21:42:00,48.0,1.0
+71219,2025-01-11 06:59:00,2345,Cairo,Chat,high,Technical,heba,  PENDING ,499.0,151.0,,0,,24.0,0.0
+70343,2024-11-07 16:18:00,2264,Mansoura,Chat,medium,Delivery,Mina,Resolved,230.0,93.0,,0,2024-11-11 13:18:00,48.0,0.0
+70265,2025-02-12 12:05:00,2582,Zagazig,Portal,Medium,Technical,Farah,  pending ,380.0,146.0,5.0,0,,48.0,0.0
+70654,2025-01-18 23:06:00,2255,  Tanta ,  Chat ,Low,Account,Heba,  RESOLVED ,712.0,93.0,1.0,0,2025-01-22 20:06:00,72.0,0.0
+70038,2024-11-17 12:50:00,2270,Cairo,email,  Low ,Refund,  Ali ,  Resolved ,658.0,1.0,2.0,0,2024-11-17 13:50:00,72.0,1.0
+70331,2024-11-24 13:58:00,2311,Giza,portal,Critical,  Refund ,Nada,Pending,623.0,,5.0,0,,8.0,
+71060,2024-10-13 04:53:00,2068,Ismailia,Chat,High,Technical,Mina,Closed,669.0,77.0,1.0,0,2024-10-16 09:53:00,24.0,0.0
+71268,2024-09-25 10:33:00,2089,Tanta,Email,Medium,Account,Youssef,Closed,152.0,140.0,5.0,1,2024-10-01 06:33:00,48.0,0.0
+70488,2025-01-11 20:34:00,2314,,Portal,medium,BILLING,Mina,Pending,119.0,,3.0,0,,48.0,
+70940,2024-10-14 14:00:00,2033,MANSOURA,Email,  Low ,Account,Ali,Open,604.0,137.0,2.0,0,,72.0,0.0
+70156,2024-12-02 21:41:00,2338,mansoura,Phone,Low,Account,omar,Resolved,659.0,89.0,,0,2024-12-06 14:41:00,72.0,0.0
+70270,2024-12-14 07:46:00,2106,  Tanta ,Phone,  low ,REFUND,Youssef,Resolved,639.0,165.0,,0,2024-12-21 04:46:00,72.0,0.0
+71529,2024-11-01 19:49:00,2254,Zagazig,Email,Medium,COMPLAINT,Sara,resolved,613.0,65.0,4.0,0,2024-11-04 12:49:00,48.0,0.0
+70138,2024-10-03 02:16:00,2099,tanta,Email,Medium,BILLING,Farah,Resolved,16.0,92.0,3.0,0,2024-10-06 22:16:00,48.0,0.0
+70914,2025-02-12 17:50:00,2198,  Cairo ,Portal,Low,Refund,Ali,closed,151.0,65.0,3.0,0,2025-02-15 10:50:00,72.0,1.0
+71334,2024-09-08 13:20:00,2279,  Zagazig ,Portal,Low,Complaint,Sara,  closed ,643.0,18.0,3.0,0,2024-09-09 07:20:00,72.0,1.0
+71474,2024-09-13 02:28:00,2528,  Zagazig ,  Chat ,  Medium ,  Delivery ,Ali,RESOLVED,210.0,36.0,4.0,1,2024-09-14 14:28:00,48.0,1.0
+70015,2024-10-15 03:00:00,2087,Giza,chat,HIGH,  Technical ,Omar,Open,47.0,,,0,,24.0,
+70875,2025-01-30 08:12:00,2181,ismailia,chat,medium,Billing,youssef,Resolved,292.0,154.0,4.0,1,2025-02-05 18:12:00,48.0,0.0
+71310,2024-12-27 04:35:00,2480,Zagazig,Portal,Medium,Account,mina,resolved,643.0,58.0,5.0,0,2024-12-29 14:35:00,48.0,0.0
+71448,2024-11-02 20:40:00,2196,ISMAILIA,PORTAL,MEDIUM,  DELIVERY ,Nada,Open,350.0,13.0,2.0,0,,48.0,0.0
+70366,2024-11-17 23:45:00,2257,  Zagazig ,  Email ,medium,Refund,heba,resolved,356.0,20.0,,0,2024-11-18 19:45:00,48.0,1.0
+71238,2025-01-24 16:15:00,2299,Zagazig,Chat,Medium,COMPLAINT,Ali,Open,486.0,,2.0,0,,48.0,
+70973,2024-09-15 08:34:00,2219,  cairo ,EMAIL,medium,  Complaint ,Omar,Resolved,607.0,118.0,4.0,0,2024-09-20 06:34:00,48.0,0.0
+71554,2024-11-04 11:33:00,2388,  Suez ,EMAIL,Medium,Refund,  Nada ,Open,292.0,,4.0,0,,48.0,
+70452,2024-12-08 02:19:00,2598,GIZA,Email,Medium,Delivery,Ali,Open,319.0,,5.0,0,,48.0,
+70643,2024-12-25 20:54:00,2546,suez,  Chat ,Low,billing,heba,Open,527.0,,5.0,0,,72.0,
+70520,2025-01-31 18:22:00,2139,Zagazig,Chat,Medium,Account,HEBA,Open,417.0,156.0,,0,,48.0,0.0
+71241,2025-02-01 19:35:00,2122,mansoura,Portal,medium,BILLING,ali,Pending,195.0,,1.0,0,,48.0,
+71224,2025-01-07 10:58:00,2319,Mansoura,Phone,High,Billing,heba,Pending,433.0,,5.0,0,,24.0,
+70598,2024-09-05 08:57:00,2363,GIZA,Email,Low,REFUND,  Youssef ,Resolved,576.0,161.0,5.0,1,2024-09-12 01:57:00,72.0,0.0
+71508,2024-11-27 04:08:00,2217,SUEZ,  Phone ,Low,Complaint,Ali,  Resolved ,559.0,163.0,4.0,0,2024-12-03 23:08:00,72.0,0.0
+71302,2024-11-21 16:16:00,2405,ismailia,PHONE,Medium,Billing,Mina,Resolved,191.0,148.0,4.0,0,2024-11-27 20:16:00,48.0,0.0
+70538,2025-02-13 18:38:00,2422,Cairo,Chat,low,complaint,Sara,Resolved,289.0,152.0,3.0,0,2025-02-20 02:38:00,72.0,0.0
+70100,2024-09-07 20:18:00,2386,Alexandria,chat,Medium,Complaint,Mina,Resolved,65.0,151.0,4.0,0,2024-09-14 03:18:00,48.0,0.0
+70113,2025-02-08 05:48:00,2521,Suez,  PHONE ,High,Complaint,  Ali ,Closed,258.0,119.0,3.0,0,2025-02-13 04:48:00,24.0,0.0
+70005,2024-11-21 22:26:00,2436,Giza,Email,CRITICAL,COMPLAINT,  Heba ,Open,445.0,,2.0,0,,8.0,
+70980,2024-11-15 07:38:00,2252,suez,Portal,Critical,Delivery,Youssef,Resolved,25.0,52.0,4.0,0,2024-11-17 11:38:00,8.0,0.0
+70042,2025-01-16 09:33:00,2032,,Email,Medium,Billing,Sara,Open,707.0,,2.0,0,,48.0,
+70052,2024-12-20 02:44:00,2073,Giza,chat,High,Delivery,Omar,Closed,413.0,30.0,4.0,0,2024-12-21 08:44:00,24.0,0.0
+70363,2024-12-16 17:32:00,2030,mansoura,Portal,Low,Account,Farah,  Open ,253.0,29.0,2.0,0,,72.0,0.0
+70996,2024-12-29 00:32:00,2503,Giza,Email,  Medium ,Delivery,Heba,Pending,641.0,,4.0,0,,48.0,
+71495,2024-09-25 12:07:00,2017,Tanta,Portal,high,Billing,  Ali ,Resolved,580.0,36.0,3.0,0,2024-09-27 00:07:00,24.0,0.0
+70004,2024-10-02 08:48:00,2206,  Giza ,phone,Low,Delivery,  Youssef ,Open,620.0,,4.0,0,,72.0,
+70890,2025-02-07 02:36:00,2402,Giza,PHONE,Low,Technical,Farah,Pending,355.0,88.0,,0,,72.0,0.0
+71064,2025-02-22 09:54:00,2044,GIZA,chat,  High ,Technical,Nada,Resolved,52.0,65.0,,0,2025-02-25 02:54:00,24.0,0.0
+70153,2024-12-24 08:45:00,2021,Suez,Portal,  Low ,Account,Omar,resolved,80.0,20.0,4.0,0,2024-12-25 04:45:00,72.0,1.0
+71227,2024-12-02 14:55:00,2210,Tanta,Phone,Medium,COMPLAINT,Farah,Resolved,529.0,56.0,,0,2024-12-04 22:55:00,48.0,0.0
+71470,2024-09-17 05:14:00,2399,Ismailia,Chat,Medium,Account,  Ali ,pending,192.0,,,0,,48.0,
+70147,2024-09-14 21:49:00,2429,Cairo,CHAT,  Medium ,Technical,Heba,closed,66.0,26.0,,0,2024-09-15 23:49:00,48.0,1.0
+70752,2024-11-15 01:51:00,2117,  Tanta ,  Chat ,Medium,Technical,,Open,490.0,,5.0,0,,48.0,
+70091,2024-10-31 17:19:00,2373,Mansoura,phone,MEDIUM,account,Ali,Resolved,282.0,90.0,5.0,0,2024-11-04 11:19:00,48.0,0.0
+70977,2024-11-29 14:14:00,2119,Mansoura,Portal,Medium,Technical,Heba,Resolved,553.0,10.0,,0,2024-11-30 00:14:00,48.0,1.0
+70195,2025-01-04 21:31:00,2551,Tanta,portal,Critical,Account,Mina,Closed,664.0,123.0,2.0,0,2025-01-10 00:31:00,8.0,0.0
+71483,2024-12-11 18:34:00,2170,Alexandria,Phone,High,Account,Mina,Resolved,354.0,154.0,5.0,0,2024-12-18 04:34:00,24.0,0.0
+71378,2024-11-10 22:08:00,2406,  mansoura ,Email,  High ,Account,Omar,Open,-5.0,,4.0,0,,24.0,
+71113,2024-12-21 22:45:00,2567,Suez,CHAT,  Low ,Delivery,  Farah ,Resolved,648.0,59.0,5.0,0,2024-12-24 09:45:00,72.0,1.0
+70536,2025-01-16 13:45:00,2418,  Ismailia ,Portal,critical,Technical,Sara,  Resolved ,522.0,101.0,4.0,0,2025-01-20 18:45:00,8.0,0.0
+71087,2024-09-20 04:26:00,2455,ISMAILIA,  chat ,  High ,  Delivery ,FARAH,RESOLVED,455.0,167.0,5.0,0,2024-09-27 03:26:00,24.0,0.0
+70105,2024-12-03 11:44:00,2341,Cairo,Phone,Low,  Account ,omar,Resolved,197.0,155.0,1.0,0,2024-12-09 22:44:00,72.0,0.0
+70858,2024-10-14 05:12:00,2578,Cairo,chat,Low,TECHNICAL,Sara,CLOSED,185.0,125.0,3.0,0,2024-10-19 10:12:00,72.0,0.0
+70550,2024-10-21 14:10:00,2273,Ismailia,Portal,  Low ,Complaint,Nada,Resolved,82.0,86.0,4.0,0,2024-10-25 04:10:00,72.0,0.0
+70600,2024-12-11 12:28:00,2515,  tanta ,Portal,Medium,Account,Omar,RESOLVED,182.0,108.0,4.0,0,2024-12-16 00:28:00,48.0,0.0
+70951,2025-02-23 09:58:00,2163,Mansoura,  Chat ,Medium,COMPLAINT,ALI,Resolved,163.0,113.0,4.0,0,2025-02-28 02:58:00,48.0,0.0
+70566,2024-12-05 06:15:00,2585,Giza,EMAIL,Critical,Complaint,Ali,  Resolved ,581.0,83.0,5.0,0,2024-12-08 17:15:00,8.0,0.0
+71211,2025-02-24 03:00:00,2456,Mansoura,phone,Low,Technical,  nada ,Resolved,363.0,-2.0,,0,2025-02-24 09:00:00,72.0,1.0
+71200,2025-02-22 00:12:00,2528,Mansoura,Chat,High,ACCOUNT,Youssef,resolved,470.0,70.0,2.0,0,2025-02-24 22:12:00,24.0,0.0
+70783,2024-11-20 12:53:00,2277,Zagazig,Chat,Medium,Technical,Heba,Resolved,637.0,19.0,2.0,0,2024-11-21 07:53:00,48.0,1.0
+70644,2024-09-24 00:25:00,2399,Zagazig,Portal,Low,account,Youssef,Closed,623.0,111.0,4.0,0,2024-09-28 15:25:00,72.0,0.0
+70649,2025-02-28 17:02:00,2107,tanta,Chat,  High ,Refund,  Omar ,Resolved,60.0,75.0,5.0,0,2025-03-03 20:02:00,24.0,0.0
+70255,2024-10-26 09:10:00,2542,Tanta,Phone,LOW,Account,Youssef,CLOSED,403.0,89.0,5.0,0,2024-10-30 02:10:00,72.0,0.0
+70961,2024-09-14 22:32:00,2117,Alexandria,PORTAL,Medium,Delivery,  Nada ,Closed,204.0,75.0,3.0,0,2024-09-18 01:32:00,48.0,0.0
+70985,2024-09-09 05:54:00,2208,Alexandria,PHONE,Critical,Technical,SARA,Open,433.0,,,0,,8.0,
+70185,2024-11-09 06:06:00,2598,ISMAILIA,  Email ,  High ,  Delivery ,Sara,RESOLVED,660.0,52.0,5.0,0,2024-11-11 10:06:00,24.0,0.0
+70868,2024-10-31 21:30:00,2556,alexandria,EMAIL,Critical,Delivery,mina,  Resolved ,311.0,128.0,3.0,0,2024-11-06 05:30:00,8.0,0.0
+70311,2024-12-23 08:54:00,2146,Suez,Chat,critical,  Delivery ,Ali,Closed,667.0,57.0,3.0,0,2024-12-25 17:54:00,8.0,0.0
+70725,2024-12-29 03:56:00,2299,  Giza ,Chat,Medium,  refund ,Farah,  Open ,612.0,121.0,5.0,0,,48.0,0.0
+71309,2024-11-12 16:37:00,2148,Suez,Email,low,Complaint,MINA,OPEN,264.0,,4.0,0,,72.0,
+70021,2024-12-03 22:37:00,2280,  Alexandria ,PHONE,High,Refund,Sara,Pending,114.0,41.0,5.0,0,,24.0,0.0
+71223,2025-02-07 16:58:00,2090,  Suez ,Portal,  Low ,refund,Heba,Resolved,551.0,167.0,,0,2025-02-14 15:58:00,72.0,0.0
+70727,2025-02-24 23:17:00,2130,Giza,PHONE,  High ,  COMPLAINT ,Heba,Open,61.0,,4.0,0,,24.0,
+70445,2024-09-23 22:06:00,2047,GIZA,Portal,HIGH,Complaint,Omar,resolved,-5.0,12.0,4.0,0,2024-09-24 10:06:00,24.0,1.0
+70709,2024-10-14 11:52:00,2377,Mansoura,EMAIL,Medium,Account,youssef,Pending,354.0,146.0,4.0,0,,48.0,0.0
+70397,2024-09-20 08:36:00,2085,Suez,  Phone ,Critical,Billing,Farah,open,432.0,,,0,,8.0,
+71198,2024-10-24 13:51:00,2034,Zagazig,Portal,LOW,COMPLAINT,Youssef,Resolved,288.0,55.0,4.0,0,2024-10-26 20:51:00,72.0,1.0
+71192,2025-01-28 18:42:00,2021,Alexandria,Email,Low,Billing,sara,OPEN,102.0,122.0,3.0,0,,72.0,0.0
+70192,2024-10-19 02:04:00,2469,  ALEXANDRIA ,Chat,MEDIUM,Technical,Omar,Pending,323.0,152.0,3.0,0,,48.0,0.0
+70499,2025-01-31 10:02:00,2123,SUEZ,Phone,  Medium ,Account,Nada,Resolved,259.0,74.0,5.0,0,2025-02-03 12:02:00,48.0,0.0
+70387,2025-01-24 19:31:00,2056,Ismailia,Portal,medium,Complaint,  Nada ,  Resolved ,647.0,65.0,4.0,0,2025-01-27 12:31:00,48.0,0.0
+71319,2024-09-27 06:21:00,2133,,  email ,  Medium ,refund,youssef,  Resolved ,137.0,78.0,3.0,0,2024-09-30 12:21:00,48.0,0.0
+70534,2024-10-16 01:14:00,2469,Alexandria,Chat,Low,Account,Ali,Pending,243.0,,3.0,0,,72.0,
+70313,2024-09-19 15:48:00,2060,alexandria,EMAIL,  Medium ,Refund,Mina,Resolved,494.0,60.0,5.0,0,2024-09-22 03:48:00,48.0,0.0
+71222,2025-01-29 11:24:00,2289,Tanta,  Phone ,  Medium ,Technical,Farah,Resolved,499.0,37.0,5.0,0,2025-01-31 00:24:00,48.0,1.0
+71388,2025-01-09 04:16:00,2352,Mansoura,Chat,Low,  Account ,  Mina ,Resolved,668.0,76.0,3.0,1,2025-01-12 08:16:00,72.0,0.0
+71095,2024-09-04 12:18:00,2153,Suez,CHAT,Low,Account,  Sara ,resolved,607.0,104.0,4.0,0,2024-09-08 20:18:00,72.0,0.0
+70894,2025-01-01 12:01:00,2157,Giza,  Chat ,  HIGH ,Refund,Nada,Pending,511.0,,4.0,0,,24.0,
+70047,2024-11-13 10:48:00,2107,Cairo,phone,  High ,Account,,Resolved,320.0,126.0,5.0,0,2024-11-18 16:48:00,24.0,0.0
+71102,2024-09-15 01:16:00,2245,Zagazig,  Phone ,High,  Delivery ,nada,  Closed ,572.0,52.0,,0,2024-09-17 05:16:00,24.0,0.0
+70862,2024-11-18 02:35:00,2269,,Chat,Medium,Technical,Mina,  Open ,434.0,,4.0,0,,48.0,
+70009,2024-10-14 19:47:00,2247,  Tanta ,  Chat ,Medium,Account,Ali,pending,418.0,,4.0,0,,48.0,
+71593,2025-02-27 11:02:00,2331,Mansoura,Chat,Low,Billing,Nada,PENDING,310.0,,,0,,72.0,
+71459,2025-01-12 14:43:00,2244,Tanta,email,Low,TECHNICAL,Nada,  CLOSED ,630.0,88.0,5.0,0,2025-01-16 06:43:00,72.0,0.0
+70403,2024-10-27 06:47:00,2424,CAIRO,CHAT,  High ,billing,Nada,Resolved,382.0,157.0,3.0,0,2024-11-02 19:47:00,24.0,0.0
+71057,2024-10-22 23:52:00,2079,  ZAGAZIG ,Email,High,  Account ,Ali,Resolved,35.0,48.0,3.0,0,2024-10-24 23:52:00,24.0,0.0
+70090,2024-10-10 05:57:00,2172,Mansoura,Phone,  MEDIUM ,Refund,Youssef,  Pending ,215.0,160.0,3.0,0,,48.0,0.0
+70128,2024-11-19 19:55:00,2506,TANTA,chat,Low,Complaint,MINA,  Open ,653.0,59.0,3.0,0,,72.0,0.0
+70804,2024-12-27 19:14:00,2243,tanta,Phone,Medium,Delivery,Heba,Resolved,525.0,99.0,3.0,0,2024-12-31 22:14:00,48.0,0.0
+70276,2024-09-17 08:43:00,2014,ismailia,Chat,  Critical ,Delivery,Farah,Open,111.0,,5.0,0,,8.0,
+70477,2024-12-05 18:13:00,2370,Zagazig,Phone,Low,Delivery,SARA,RESOLVED,161.0,130.0,5.0,1,2024-12-11 04:13:00,72.0,0.0
+70288,2024-10-24 03:24:00,2261,Ismailia,Phone,Critical,billing,Mina,Resolved,372.0,28.0,5.0,0,2024-10-25 07:24:00,8.0,0.0
+70519,2024-12-19 23:59:00,2112,Giza,Email,  Medium ,  TECHNICAL ,,Open,88.0,,,1,,48.0,
+70613,2024-12-23 16:34:00,2136,Alexandria,Phone,Low,Billing,Omar,  Closed ,183.0,29.0,,0,2024-12-24 21:34:00,72.0,1.0
+70501,2024-10-01 20:18:00,2387,Ismailia,Phone,  Medium ,Billing,Mina,Resolved,197.0,80.0,,0,2024-10-05 04:18:00,48.0,0.0
+70595,2025-02-28 14:41:00,2450,,Phone,Medium,BILLING,  Mina ,Open,479.0,122.0,,0,,48.0,0.0
+70892,2024-11-10 08:32:00,2108,Alexandria,chat,MEDIUM,Account,Youssef,Resolved,378.0,64.0,5.0,1,2024-11-13 00:32:00,48.0,0.0
+70694,2024-10-23 20:19:00,2461,  Suez ,Chat,  Low ,delivery,Ali,Resolved,462.0,98.0,4.0,1,2024-10-27 22:19:00,72.0,0.0
+70796,2024-11-19 03:32:00,2087,Mansoura,Chat,Low,Account,Ali,Open,660.0,78.0,5.0,0,,72.0,0.0
+70316,2024-11-14 00:18:00,2097,  Mansoura ,Chat,Medium,Delivery,Heba,  Closed ,-5.0,53.0,4.0,0,2024-11-16 05:18:00,48.0,0.0
+71140,2025-02-21 11:58:00,2261,mansoura,Chat,HIGH,Delivery,Youssef,Open,135.0,,3.0,0,,24.0,
+70384,2024-11-05 20:23:00,2092,Cairo,PORTAL,medium,Refund,Nada,  Resolved ,353.0,157.0,2.0,0,2024-11-12 09:23:00,48.0,0.0
+70360,2024-12-25 02:21:00,2354,Alexandria,PORTAL,medium,Technical,farah,  Resolved ,111.0,28.0,,0,2024-12-26 06:21:00,48.0,1.0
+70770,2024-09-04 00:42:00,2157,Ismailia,Portal,Medium,Delivery,  Mina ,Resolved,439.0,94.0,,0,2024-09-07 22:42:00,48.0,0.0
+71049,2024-12-16 12:25:00,2085,Cairo,CHAT,High,Complaint,  SARA ,Resolved,7.0,104.0,5.0,1,2024-12-20 20:25:00,24.0,0.0
+70012,2025-02-15 17:13:00,2011,Ismailia,phone,CRITICAL,Delivery,  Youssef ,Resolved,32.0,125.0,3.0,0,2025-02-20 22:13:00,8.0,0.0
+70891,2024-12-15 19:35:00,2409,Mansoura,Chat,Medium,Account,Youssef,Resolved,349.0,9.0,4.0,0,2024-12-16 04:35:00,48.0,1.0
+70177,2024-12-13 03:27:00,2423,  Cairo ,Chat,Medium,  ACCOUNT ,,PENDING,705.0,,5.0,0,,48.0,
+71260,2025-01-12 16:21:00,2323,SUEZ,Portal,  high ,Delivery,Heba,resolved,447.0,47.0,2.0,0,2025-01-14 15:21:00,24.0,0.0
+70071,2024-11-23 15:33:00,2180,Mansoura,PHONE,Low,Delivery,Omar,Closed,183.0,82.0,5.0,0,2024-11-27 01:33:00,72.0,0.0
+70175,2024-10-21 05:16:00,2506,  mansoura ,Phone,LOW,Billing,Omar,Resolved,590.0,15.0,4.0,1,2024-10-21 20:16:00,72.0,1.0
+70679,2024-12-17 10:12:00,2303,Tanta,Email,  Low ,Refund,Sara,open,103.0,,4.0,0,,72.0,
+71155,2024-12-05 06:19:00,2573,Zagazig,Email,Medium,Account,HEBA,Resolved,106.0,35.0,3.0,0,2024-12-06 17:19:00,48.0,1.0
+71481,2025-01-17 11:13:00,2243,GIZA,EMAIL,low,technical,Omar,Closed,453.0,53.0,5.0,0,2025-01-19 16:13:00,72.0,1.0
+70440,2024-12-23 08:56:00,2256,alexandria,Chat,Medium,Delivery,Nada,  PENDING ,487.0,,5.0,0,,48.0,
+71440,2024-11-16 03:58:00,2411,Cairo,  portal ,low,Account,farah,Open,199.0,,5.0,0,,72.0,
+70274,2025-01-04 13:56:00,2456,Alexandria,Chat,  High ,complaint,Nada,Resolved,245.0,131.0,3.0,0,2025-01-10 00:56:00,24.0,0.0
+71283,2024-09-04 03:34:00,2181,Alexandria,email,Medium,Delivery,Heba,PENDING,150.0,22.0,3.0,0,,48.0,0.0
+70087,2024-11-21 04:15:00,2527,Cairo,Portal,  high ,Refund,  OMAR ,RESOLVED,680.0,102.0,,0,2024-11-25 10:15:00,24.0,0.0
+71239,2025-01-28 01:15:00,2459,Tanta,Portal,High,Account,YOUSSEF,OPEN,218.0,167.0,4.0,0,,24.0,0.0
+70556,2025-02-08 04:06:00,2278,Suez,EMAIL,Low,Technical,sara,Closed,35.0,80.0,,0,2025-02-11 12:06:00,72.0,0.0
+70905,2024-10-02 22:06:00,2258,Zagazig,Chat,Medium,Technical,  Nada ,Resolved,713.0,-2.0,4.0,0,2024-10-05 22:06:00,48.0,0.0
+71126,2024-10-16 10:55:00,2099,TANTA,Phone,  Medium ,Complaint,YOUSSEF,Resolved,109.0,99.0,4.0,0,2024-10-20 13:55:00,48.0,0.0
+70559,2024-12-13 05:11:00,2417,Alexandria,chat,  Medium ,  Billing ,  Youssef ,Open,112.0,,,0,,48.0,
+70770,2024-09-04 00:42:00,2157,Ismailia,Portal,Medium,Delivery,  Mina ,Resolved,439.0,94.0,,0,2024-09-07 22:42:00,48.0,0.0
+70152,2024-09-30 19:12:00,2143,Cairo,Portal,Low,Billing,NADA,Open,307.0,,3.0,0,,72.0,
+70526,2024-10-18 04:24:00,2445,Zagazig,  Chat ,Low,Delivery,HEBA,resolved,608.0,74.0,,0,2024-10-21 06:24:00,72.0,0.0
+70024,2025-01-11 12:16:00,2407,Giza,  Portal ,High,Delivery,HEBA,Resolved,649.0,16.0,5.0,0,2025-01-12 04:16:00,24.0,1.0
+70625,2025-02-02 18:47:00,2119,Mansoura,Chat,Low,Technical,Sara,Open,434.0,82.0,5.0,0,,72.0,0.0
+70411,2025-02-24 10:58:00,2229,Cairo,Chat,  High ,Billing,sara,  Resolved ,130.0,8.0,5.0,1,2025-02-24 18:58:00,24.0,1.0
+70072,2025-02-16 22:15:00,2285,Cairo,Phone,Medium,Technical,farah,  Resolved ,498.0,21.0,5.0,0,2025-02-17 19:15:00,48.0,1.0
+71455,2024-10-27 12:36:00,2047,  Giza ,CHAT,High,Delivery,Ali,Resolved,504.0,1.0,3.0,0,2024-10-27 13:36:00,24.0,1.0
+70289,2024-11-25 16:10:00,2345,mansoura,Chat,medium,Technical,Farah,Open,622.0,156.0,3.0,0,,48.0,0.0
+70913,2024-12-21 11:44:00,2002,Mansoura,Chat,Medium,Complaint,Farah,  Resolved ,345.0,122.0,5.0,0,2024-12-26 13:44:00,48.0,0.0
+70467,2025-01-16 19:07:00,2557,Mansoura,EMAIL,high,Technical,Youssef,pending,433.0,,2.0,0,,24.0,
+70840,2024-10-20 00:06:00,2524,Tanta,  Email ,Low,Delivery,farah,  Resolved ,475.0,1.0,1.0,0,2024-10-20 01:06:00,72.0,1.0
+70417,2024-11-12 22:55:00,2420,Ismailia,Phone,High,Refund,Youssef,Closed,189.0,31.0,,0,2024-11-14 05:55:00,24.0,0.0
+70037,2024-12-15 13:16:00,2518,Cairo,Portal,Critical,Billing,Omar,Resolved,594.0,50.0,,0,2024-12-17 15:16:00,8.0,0.0
+70367,2024-12-03 15:44:00,2572,  Mansoura ,Chat,Low,Delivery,  sara ,  Resolved ,74.0,102.0,,0,2024-12-07 21:44:00,72.0,0.0
+70095,2025-02-09 01:00:00,2147,Ismailia,chat,Low,Billing,Heba,Open,49.0,104.0,3.0,1,,72.0,0.0
+71398,2024-09-16 03:13:00,2525,Suez,  Phone ,MEDIUM,Billing,  Nada ,Pending,673.0,,5.0,0,,48.0,
+71556,2025-02-24 05:32:00,2224,Ismailia,Email,Critical,  TECHNICAL ,HEBA,Resolved,415.0,89.0,4.0,0,2025-02-27 22:32:00,8.0,0.0
+70691,2024-12-30 21:45:00,2029,  ZAGAZIG ,Email,Critical,Account,  Sara ,CLOSED,652.0,100.0,4.0,0,2025-01-04 01:45:00,8.0,0.0
+71220,2024-10-22 21:40:00,2320,  Cairo ,Email,Medium,  Delivery ,Youssef,Resolved,476.0,116.0,4.0,0,2024-10-27 17:40:00,48.0,0.0
+71134,2024-12-21 02:14:00,2189,Ismailia,  Chat ,Low,REFUND,Youssef,Resolved,553.0,31.0,3.0,0,2024-12-22 09:14:00,72.0,1.0
+71002,2024-12-16 22:32:00,2257,MANSOURA,Chat,Low,Delivery,Mina,Pending,267.0,,,0,,72.0,
+71088,2024-09-02 13:00:00,2163,Ismailia,Email,Low,complaint,farah,Resolved,211.0,47.0,5.0,0,2024-09-04 12:00:00,72.0,1.0
+70067,2025-02-05 00:35:00,2494,Tanta,Chat,MEDIUM,Delivery,Farah,  Resolved ,607.0,74.0,2.0,0,2025-02-08 02:35:00,48.0,0.0
+70655,2024-12-22 10:36:00,2588,Tanta,Email,Low,Delivery,  OMAR ,Resolved,136.0,98.0,5.0,0,2024-12-26 12:36:00,72.0,0.0
+70422,2025-02-24 10:03:00,2343,  CAIRO ,Portal,Low,Delivery,Omar,Pending,525.0,,3.0,0,,72.0,
+70820,2024-10-26 11:03:00,2139,Alexandria,Phone,High,  refund ,Mina,  Resolved ,565.0,59.0,,0,2024-10-28 22:03:00,24.0,0.0
+70321,2024-12-02 05:57:00,2035,Alexandria,Email,Low,REFUND,Sara,open,338.0,,,0,,72.0,
+70896,2025-02-27 08:57:00,2328,zagazig,PHONE,Low,Complaint,Farah,Open,201.0,,3.0,1,,72.0,
+71348,2024-12-12 18:20:00,2458,  Mansoura ,  Portal ,Low,Account,ALI,Open,420.0,158.0,4.0,0,,72.0,0.0
+70932,2024-11-17 11:40:00,2143,Mansoura,Phone,High,Delivery,Farah,  Open ,500.0,42.0,2.0,1,,24.0,0.0
+70802,2024-10-07 21:16:00,2283,Cairo,Email,High,DELIVERY,Sara,Pending,714.0,,,0,,24.0,
+70198,2024-11-19 12:17:00,2169,alexandria,Portal,Medium,Billing,Youssef,Resolved,692.0,30.0,,0,2024-11-20 18:17:00,48.0,1.0
+71462,2024-09-08 01:10:00,2511,Suez,  chat ,critical,Complaint,Farah,OPEN,623.0,,3.0,0,,8.0,
+70139,2025-02-18 20:45:00,2090,Zagazig,Chat,Low,Complaint,Sara,  Open ,157.0,146.0,4.0,0,,72.0,0.0
+71305,2024-12-06 22:35:00,2552,Cairo,  PORTAL ,  Low ,Billing,  Farah ,  Resolved ,578.0,66.0,5.0,0,2024-12-09 16:35:00,72.0,1.0
+70124,2024-09-16 23:45:00,2482,Mansoura,Phone,Low,Billing,Nada,resolved,368.0,101.0,2.0,0,2024-09-21 04:45:00,72.0,0.0
+70731,2024-12-17 08:25:00,2197,Giza,portal,High,BILLING,Mina,Resolved,189.0,-2.0,3.0,0,2024-12-19 07:25:00,24.0,0.0
+70653,2024-09-10 16:14:00,2157,  alexandria ,Portal,  High ,account,Youssef,Closed,573.0,52.0,4.0,0,2024-09-12 20:14:00,24.0,0.0
+70374,2025-01-20 10:56:00,2184,Tanta,Chat,  Medium ,COMPLAINT,SARA,Open,142.0,119.0,4.0,0,,48.0,0.0
+71394,2024-10-30 18:20:00,2210,Ismailia,Phone,High,  DELIVERY ,  Ali ,  Resolved ,390.0,57.0,5.0,0,2024-11-02 03:20:00,24.0,0.0
+71232,2024-10-27 19:09:00,2339,MANSOURA,  Phone ,High,Complaint,mina,  RESOLVED ,661.0,38.0,5.0,0,2024-10-29 09:09:00,24.0,0.0
+70049,2024-12-01 09:31:00,2461,cairo,Portal,Low,Account,  Omar ,Resolved,484.0,75.0,5.0,0,2024-12-04 12:31:00,72.0,0.0
+71210,2025-02-03 04:03:00,2339,  zagazig ,Email,Critical,  BILLING ,OMAR,  Closed ,398.0,81.0,,0,2025-02-06 13:03:00,8.0,0.0
+70601,2025-01-20 15:35:00,2173,Ismailia,  Email ,Low,Delivery,Mina,Resolved,287.0,79.0,5.0,0,2025-01-23 22:35:00,72.0,0.0
+70790,2024-12-09 03:18:00,2416,Mansoura,Portal,High,DELIVERY,Farah,Closed,266.0,137.0,4.0,0,2024-12-14 20:18:00,24.0,0.0
+70141,2024-09-07 11:30:00,2102,tanta,Chat,Low,Refund,omar,Closed,81.0,7.0,5.0,1,2024-09-07 18:30:00,72.0,1.0
+70043,2025-01-30 10:56:00,2086,Giza,portal,High,account,NADA,  Resolved ,203.0,124.0,4.0,0,2025-02-04 14:56:00,24.0,0.0
+70174,2024-12-31 04:57:00,2027,Suez,PORTAL,  MEDIUM ,Account,,Resolved,233.0,2.0,4.0,0,2024-12-31 06:57:00,48.0,1.0
+70253,2024-10-03 20:38:00,2215,Suez,email,  Low ,Refund,  Nada ,  Closed ,78.0,147.0,4.0,0,2024-10-09 23:38:00,72.0,0.0
+70930,2024-10-22 16:03:00,2495,  Mansoura ,Portal,low,Billing,Farah,pending,704.0,136.0,4.0,0,,72.0,0.0
+71075,2024-09-24 13:44:00,2128,Cairo,Chat,Low,DELIVERY,Mina,Resolved,609.0,146.0,2.0,1,2024-09-30 15:44:00,72.0,0.0
+70269,2025-01-07 09:57:00,2568,Mansoura,Email,Low,Technical,Youssef,RESOLVED,348.0,75.0,,0,2025-01-10 12:57:00,72.0,0.0
+70549,2024-09-24 05:53:00,2007,  Ismailia ,PHONE,low,  DELIVERY ,farah,RESOLVED,719.0,110.0,4.0,0,2024-09-28 19:53:00,72.0,0.0
+70398,2024-09-22 13:42:00,2450,Suez,chat,Low,Account,Omar,Closed,16.0,113.0,,0,2024-09-27 06:42:00,72.0,0.0
+71425,2024-10-20 19:59:00,2289,Mansoura,  Chat ,High,BILLING,Nada,Closed,198.0,163.0,4.0,0,2024-10-27 14:59:00,24.0,0.0
+71332,2025-02-26 09:36:00,2015,Tanta,chat,Low,Account,Farah,Resolved,682.0,155.0,,0,2025-03-04 20:36:00,72.0,0.0
+70498,2024-12-16 22:13:00,2329,giza,Email,High,  account ,Nada,Resolved,416.0,2.0,,0,2024-12-17 00:13:00,24.0,1.0
+71083,2025-02-16 01:35:00,2067,  Giza ,Portal,Medium,technical,  Youssef ,PENDING,274.0,,4.0,0,,48.0,
+71597,2024-09-16 08:07:00,2448,  Suez ,email,  LOW ,Billing,Heba,OPEN,458.0,,2.0,0,,72.0,
+70415,2024-09-03 18:05:00,2043,Tanta,  Email ,Medium,Account,Youssef,  Resolved ,509.0,11.0,4.0,0,2024-09-04 05:05:00,48.0,1.0
+70483,2025-01-28 12:35:00,2085,MANSOURA,Chat,medium,Technical,ali,CLOSED,709.0,120.0,3.0,0,2025-02-02 12:35:00,48.0,0.0
+70693,2024-11-15 09:44:00,2102,tanta,Portal,  Low ,Complaint,  Youssef ,Pending,306.0,,5.0,0,,72.0,
+70525,2024-09-11 15:49:00,2276,zagazig,Phone,Medium,technical,Heba,Closed,420.0,152.0,5.0,0,2024-09-17 23:49:00,48.0,0.0
+70303,2025-01-15 18:12:00,2011,Giza,Portal,  Low ,DELIVERY,MINA,  Resolved ,528.0,117.0,3.0,0,2025-01-20 15:12:00,72.0,0.0
+71574,2024-11-18 23:22:00,2573,suez,Chat,High,Refund,Omar,Closed,67.0,141.0,4.0,0,2024-11-24 20:22:00,24.0,0.0
+70736,2025-01-09 16:59:00,2410,Cairo,Chat,  Low ,  Delivery ,Ali,Resolved,43.0,28.0,1.0,0,2025-01-10 20:59:00,72.0,1.0
+70340,2024-11-15 20:58:00,2057,tanta,Portal,medium,  billing ,Omar,  Resolved ,616.0,156.0,5.0,0,2024-11-22 08:58:00,48.0,0.0
+71063,2024-10-06 18:04:00,2548,Suez,Portal,Low,complaint,Mina,resolved,34.0,143.0,,1,2024-10-12 17:04:00,72.0,0.0
+70609,2025-02-08 09:59:00,2170,ALEXANDRIA,Chat,High,  COMPLAINT ,Ali,  RESOLVED ,478.0,60.0,5.0,0,2025-02-10 21:59:00,24.0,0.0
+70636,2024-10-21 02:10:00,2400,Cairo,Phone,High,Account,Nada,Resolved,635.0,80.0,4.0,0,2024-10-24 10:10:00,24.0,0.0
+71316,2025-01-30 07:16:00,2480,MANSOURA,  Phone ,Low,Technical,Farah,closed,333.0,159.0,,0,2025-02-05 22:16:00,72.0,0.0
+71489,2024-10-12 17:02:00,2060,Ismailia,  Email ,Medium,  Technical ,YOUSSEF,Resolved,12.0,46.0,5.0,0,2024-10-14 15:02:00,48.0,1.0
+71580,2024-11-15 22:32:00,2021,Zagazig,Email,High,Delivery,OMAR,resolved,478.0,166.0,4.0,0,2024-11-22 20:32:00,24.0,0.0
+70720,2024-12-01 20:09:00,2502,Alexandria,CHAT,LOW,  Account ,Mina,Closed,118.0,91.0,4.0,0,2024-12-05 15:09:00,72.0,0.0
+70874,2025-01-13 03:18:00,2317,MANSOURA,Chat,Medium,Account,Nada,  Resolved ,356.0,58.0,5.0,0,2025-01-15 13:18:00,48.0,0.0
+70648,2024-10-31 19:42:00,2445,Ismailia,EMAIL,Medium,Billing,Omar,CLOSED,532.0,111.0,4.0,0,2024-11-05 10:42:00,48.0,0.0
+71098,2025-01-31 16:33:00,2416,suez,Chat,  medium ,refund,Heba,Resolved,573.0,42.0,,0,2025-02-02 10:33:00,48.0,1.0
+70251,2024-12-28 11:00:00,2464,Cairo,Email,  Critical ,Complaint,Youssef,Closed,647.0,24.0,5.0,0,2024-12-29 11:00:00,8.0,0.0
+70628,2024-09-12 09:04:00,2052,Mansoura,Portal,  Low ,Account,Sara,Resolved,477.0,91.0,,0,2024-09-16 04:04:00,72.0,0.0
+70263,2024-11-11 22:51:00,2403,  Mansoura ,Email,Medium,Delivery,Nada,RESOLVED,99.0,50.0,3.0,0,2024-11-14 00:51:00,48.0,0.0
+71038,2024-11-13 20:34:00,2585,Tanta,Chat,Low,Complaint,Omar,Closed,-5.0,94.0,4.0,0,2024-11-17 18:34:00,72.0,0.0
+71540,2024-12-23 21:30:00,2233,  Mansoura ,  phone ,Medium,Billing,Heba,Resolved,309.0,86.0,5.0,0,2024-12-27 11:30:00,48.0,0.0
+70803,2024-09-16 02:46:00,2238,Cairo,CHAT,Low,  ACCOUNT ,  Farah ,Resolved,222.0,100.0,4.0,0,2024-09-20 06:46:00,72.0,0.0
+71253,2025-01-04 12:20:00,2338,Zagazig,Portal,Medium,Technical,  Sara ,Open,449.0,32.0,4.0,0,,48.0,0.0
+71051,2024-10-16 16:03:00,2402,  MANSOURA ,  CHAT ,High,Billing,  ali ,  Resolved ,30.0,159.0,4.0,0,2024-10-23 07:03:00,24.0,0.0
+70908,2025-01-07 04:20:00,2464,  tanta ,  Chat ,  low ,Refund,Farah,  Resolved ,517.0,15.0,5.0,0,2025-01-07 19:20:00,72.0,1.0
+70337,2024-10-02 05:59:00,2152,  Zagazig ,chat,  Medium ,Technical,ali,RESOLVED,245.0,61.0,4.0,0,2024-10-04 18:59:00,48.0,0.0
+70096,2025-02-02 04:08:00,2261,tanta,phone,high,Complaint,Ali,Open,82.0,106.0,3.0,0,,24.0,0.0
+71393,2024-11-15 11:46:00,2090,Giza,CHAT,Medium,Account,ali,Resolved,697.0,2.0,3.0,0,2024-11-15 13:46:00,48.0,1.0
+71149,2024-12-27 11:08:00,2382,  Alexandria ,Email,High,Delivery,Omar,Resolved,295.0,119.0,5.0,0,2025-01-01 10:08:00,24.0,0.0
+71364,2024-09-05 03:41:00,2110,GIZA,PORTAL,Medium,Refund,Farah,Open,101.0,,,0,,48.0,
+70651,2025-02-03 22:18:00,2087,Tanta,Email,MEDIUM,BILLING,  Youssef ,Open,502.0,,5.0,0,,48.0,
+71542,2024-10-23 17:37:00,2537,zagazig,PORTAL,Low,Account,Youssef,Resolved,6.0,73.0,4.0,0,2024-10-26 18:37:00,72.0,0.0
+71262,2024-12-27 04:46:00,2204,Mansoura,chat,Low,Delivery,HEBA,Pending,678.0,165.0,3.0,0,,72.0,0.0
+70085,2024-09-05 11:42:00,2145,Giza,Phone,Low,  Refund ,Ali,RESOLVED,580.0,78.0,5.0,0,2024-09-08 17:42:00,72.0,0.0
+70148,2024-11-14 14:01:00,2468,  Suez ,phone,Low,Delivery,Sara,Resolved,158.0,160.0,4.0,0,2024-11-21 06:01:00,72.0,0.0
+70755,2025-01-31 11:56:00,2562,Zagazig,phone,Medium,delivery,Ali,Open,203.0,,2.0,0,,48.0,
+71209,2024-12-26 13:35:00,2082,  Cairo ,  Email ,  Low ,Billing,Heba,Open,194.0,126.0,4.0,0,,72.0,0.0
+70744,2024-12-15 13:48:00,2582,  Suez ,Portal,Low,complaint,  Omar ,  Closed ,499.0,26.0,,0,2024-12-16 15:48:00,72.0,1.0
+71000,2025-01-13 13:41:00,2239,Ismailia,email,Medium,  Refund ,SARA,Closed,496.0,30.0,5.0,1,2025-01-14 19:41:00,48.0,1.0
+70362,2024-10-18 00:47:00,2031,  SUEZ ,Email,Medium,Complaint,mina,resolved,436.0,159.0,4.0,0,2024-10-24 15:47:00,48.0,0.0
+71053,2024-10-08 02:10:00,2216,Tanta,PHONE,Medium,Complaint,Heba,RESOLVED,336.0,21.0,,0,2024-10-08 23:10:00,48.0,1.0
+71156,2025-02-01 05:26:00,2397,suez,CHAT,Medium,  account ,Farah,Resolved,568.0,114.0,4.0,0,2025-02-05 23:26:00,48.0,0.0
+71361,2025-01-14 09:55:00,2587,  Alexandria ,Chat,Medium,TECHNICAL,mina,CLOSED,324.0,165.0,3.0,1,2025-01-21 06:55:00,48.0,0.0
+70965,2024-10-02 03:57:00,2093,Giza,Chat,High,Refund,Youssef,resolved,108.0,42.0,3.0,0,2024-10-03 21:57:00,24.0,0.0
+71017,2025-02-15 06:40:00,2438,Zagazig,Portal,  Medium ,Billing,Heba,Closed,196.0,84.0,1.0,0,2025-02-18 18:40:00,48.0,0.0
+70652,2024-12-13 18:10:00,2277,Suez,Phone,  High ,Technical,Youssef,Resolved,674.0,53.0,,1,2024-12-15 23:10:00,24.0,0.0
+70587,2025-01-13 13:36:00,2029,ZAGAZIG,Phone,medium,Refund,Nada,RESOLVED,611.0,23.0,,0,2025-01-14 12:36:00,48.0,1.0
+71293,2024-09-16 23:02:00,2330,Alexandria,  Chat ,medium,Account,  Nada ,  Closed ,163.0,157.0,5.0,0,2024-09-23 12:02:00,48.0,0.0
+70632,2025-02-05 06:21:00,2353,TANTA,Portal,Low,  Account ,  heba ,Open,349.0,88.0,3.0,0,,72.0,0.0
+71585,2024-09-26 09:02:00,2105,Tanta,Chat,Low,Delivery,,open,502.0,56.0,3.0,0,,72.0,0.0
+71246,2024-11-27 08:50:00,2112,Mansoura,email,MEDIUM,Billing,Youssef,Resolved,96.0,106.0,3.0,0,2024-12-01 18:50:00,48.0,0.0
+71465,2024-11-16 08:16:00,2159,  SUEZ ,Chat,  Medium ,BILLING,  heba ,Open,29.0,,3.0,0,,48.0,
+71040,2024-09-08 15:21:00,2285,Suez,  Portal ,High,Delivery,Mina,Open,603.0,,5.0,0,,24.0,
+70233,2025-01-18 01:35:00,2372,  Suez ,Email,Low,Account,Mina,Open,157.0,1.0,4.0,0,,72.0,0.0
+70379,2025-01-06 19:02:00,2240,ALEXANDRIA,Chat,medium,Technical,Farah,Resolved,520.0,66.0,2.0,0,2025-01-09 13:02:00,48.0,0.0
+70570,2024-11-14 01:00:00,2137,ALEXANDRIA,  Phone ,low,Account,Omar,RESOLVED,33.0,4.0,1.0,0,2024-11-14 05:00:00,72.0,1.0
+70277,2024-11-17 22:39:00,2062,Alexandria,PHONE,low,refund,Farah,OPEN,381.0,,,0,,72.0,
+70068,2024-12-11 11:25:00,2334,Ismailia,EMAIL,Medium,Technical,  Sara ,OPEN,468.0,97.0,4.0,0,,48.0,0.0
+71194,2024-09-03 09:59:00,2176,Cairo,Chat,HIGH,  billing ,  Sara ,PENDING,195.0,29.0,2.0,0,,24.0,0.0
+70979,2025-02-28 00:00:00,2218,Suez,CHAT,HIGH,Refund,Farah,Open,656.0,,5.0,0,,24.0,
+70027,2024-12-05 12:32:00,2061,Giza,Chat,Medium,  BILLING ,Nada,Pending,477.0,,,0,,48.0,
+71139,2024-12-19 15:07:00,2452,Cairo,Chat,LOW,BILLING,  Omar ,Pending,80.0,,5.0,0,,72.0,
+70663,2024-10-10 21:27:00,2005,Mansoura,email,LOW,Billing,Farah,Open,441.0,2.0,,0,,72.0,0.0
+71444,2025-01-24 06:08:00,2170,Cairo,Portal,LOW,complaint,  Youssef ,  Resolved ,30.0,38.0,5.0,0,2025-01-25 20:08:00,72.0,1.0
+70204,2024-11-03 06:32:00,2085,  Mansoura ,Portal,Low,technical,Ali,Closed,289.0,28.0,4.0,0,2024-11-04 10:32:00,72.0,1.0
+71408,2024-10-01 16:51:00,2383,Tanta,Email,Low,TECHNICAL,Omar,Pending,296.0,160.0,,0,,72.0,0.0
+70546,2024-12-19 01:57:00,2574,cairo,Email,low,Complaint,,  Resolved ,15.0,101.0,5.0,0,2024-12-23 06:57:00,72.0,0.0
+71130,2024-10-15 18:39:00,2069,alexandria,email,LOW,Account,Mina,Resolved,270.0,46.0,,0,2024-10-17 16:39:00,72.0,1.0
+71207,2025-01-24 00:11:00,2388,Alexandria,PORTAL,  medium ,Refund,Heba,Resolved,299.0,69.0,3.0,0,2025-01-26 21:11:00,48.0,0.0
+70844,2024-11-04 06:49:00,2359,Alexandria,Portal,medium,ACCOUNT,Omar,Open,356.0,,5.0,0,,48.0,
+71360,2024-10-30 21:12:00,2003,  Mansoura ,Chat,Low,Delivery,Omar,Resolved,539.0,4.0,4.0,0,2024-10-31 01:12:00,72.0,1.0
+70909,2024-10-29 12:15:00,2549,Zagazig,Email,  High ,Billing,HEBA,  Open ,333.0,34.0,5.0,0,,24.0,0.0
+70594,2024-09-24 05:11:00,2346,Mansoura,Phone,Medium,Account,  heba ,closed,635.0,104.0,,0,2024-09-28 13:11:00,48.0,0.0
+71118,2025-02-25 13:15:00,2548,MANSOURA,  Phone ,Medium,Refund,Youssef,Closed,214.0,165.0,,0,2025-03-04 10:15:00,48.0,0.0
+70943,2025-01-12 15:48:00,2111,Alexandria,  Chat ,  critical ,COMPLAINT,  OMAR ,  Open ,114.0,161.0,3.0,0,,8.0,0.0
+70514,2024-09-21 19:08:00,2222,Mansoura,Phone,high,REFUND,HEBA,Resolved,257.0,17.0,3.0,0,2024-09-22 12:08:00,24.0,1.0
+70029,2025-02-14 05:38:00,2550,Alexandria,Phone,  High ,Complaint,nada,Pending,47.0,,5.0,0,,24.0,
+70388,2025-01-07 02:23:00,2541,Zagazig,Chat,Critical,billing,SARA,Open,142.0,,2.0,1,,8.0,
+70243,2024-11-24 06:58:00,2178,Zagazig,Chat,  Medium ,Billing,Nada,closed,102.0,140.0,4.0,1,2024-11-30 02:58:00,48.0,0.0
+71020,2025-02-10 14:09:00,2355,cairo,  portal ,Medium,Refund,Nada,  Open ,296.0,,,0,,48.0,
+70531,2024-09-03 14:38:00,2525,SUEZ,Chat,High,COMPLAINT,  Omar ,Closed,632.0,49.0,4.0,0,2024-09-05 15:38:00,24.0,0.0
+70084,2024-09-28 12:08:00,2399,  Cairo ,Portal,CRITICAL,Refund,Nada,Pending,190.0,77.0,4.0,0,,8.0,0.0
+70475,2024-12-09 06:52:00,2451,tanta,Email,LOW,complaint,NADA,Resolved,645.0,116.0,,0,2024-12-14 02:52:00,72.0,0.0
+70986,2024-12-09 16:26:00,2094,Mansoura,chat,Low,ACCOUNT,Farah,resolved,525.0,127.0,3.0,0,2024-12-14 23:26:00,72.0,0.0
+70547,2024-10-15 05:00:00,2033,Cairo,  CHAT ,high,Billing,mina,Pending,217.0,,4.0,0,,24.0,
+70461,2024-11-24 03:03:00,2545,Suez,email,LOW,Billing,Ali,Closed,125.0,100.0,4.0,0,2024-11-28 07:03:00,72.0,0.0
+71120,2025-02-03 00:14:00,2339,  ismailia ,Email,High,  Technical ,youssef,  Resolved ,470.0,18.0,4.0,0,2025-02-03 18:14:00,24.0,1.0
+70213,2025-01-23 15:30:00,2409,Alexandria,Chat,  Low ,  Technical ,  Youssef ,Resolved,129.0,96.0,4.0,0,2025-01-27 15:30:00,72.0,0.0
+70429,2024-10-13 05:11:00,2163,ALEXANDRIA,Phone,High,Account,  Mina ,  Resolved ,396.0,127.0,4.0,0,2024-10-18 12:11:00,24.0,0.0
+71237,2025-02-07 10:19:00,2550,CAIRO,Portal,Low,Billing,  heba ,CLOSED,72.0,31.0,4.0,0,2025-02-08 17:19:00,72.0,1.0
+70016,2024-11-30 00:34:00,2158,  Giza ,Chat,Medium,  refund ,Sara,Closed,126.0,90.0,5.0,0,2024-12-03 18:34:00,48.0,0.0
+71505,2025-02-06 10:21:00,2476,Cairo,Phone,  MEDIUM ,  Billing ,Omar,  Open ,421.0,124.0,5.0,0,,48.0,0.0
+71549,2025-01-03 06:51:00,2507,mansoura,  Phone ,Low,Refund,Mina,resolved,322.0,30.0,5.0,0,2025-01-04 12:51:00,72.0,1.0
+70172,2025-01-24 16:11:00,2123,Alexandria,Portal,Critical,  Delivery ,  Nada ,Closed,222.0,-2.0,3.0,0,2025-01-28 05:11:00,8.0,0.0
+70889,2024-09-26 11:17:00,2358,Ismailia,Chat,Low,  Complaint ,NADA,resolved,100.0,21.0,4.0,0,2024-09-27 08:17:00,72.0,1.0
+71048,2024-10-30 02:12:00,2338,Suez,Portal,Low,Refund,Farah,resolved,642.0,29.0,5.0,0,2024-10-31 07:12:00,72.0,1.0
+71347,2024-09-21 03:28:00,2161,  Giza ,Phone,medium,Delivery,Ali,Pending,627.0,,3.0,0,,48.0,
+70425,2024-09-27 12:40:00,2246,CAIRO,Chat,High,ACCOUNT,Nada,  Open ,459.0,27.0,,0,,24.0,0.0
+70466,2024-10-21 06:07:00,2466,  Alexandria ,chat,Low,BILLING,nada,Resolved,21.0,67.0,5.0,0,2024-10-24 01:07:00,72.0,1.0
+70157,2024-10-11 15:12:00,2075,Giza,Chat,Critical,Technical,  Heba ,open,568.0,,4.0,0,,8.0,
+70168,2024-12-01 22:45:00,2397,zagazig,Portal,MEDIUM,Refund,Farah,  Resolved ,694.0,98.0,2.0,0,2024-12-06 00:45:00,48.0,0.0
+71577,2025-02-05 23:36:00,2162,ZAGAZIG,Phone,medium,Refund,ALI,Open,697.0,,,1,,48.0,
+70421,2025-01-10 17:50:00,2496,ISMAILIA,EMAIL,low,Delivery,Heba,Pending,244.0,146.0,,0,,72.0,0.0
+70730,2025-01-03 05:30:00,2583,Cairo,Phone,HIGH,Refund,Mina,Resolved,8.0,131.0,1.0,0,2025-01-08 16:30:00,24.0,0.0
+70826,2024-10-15 22:25:00,2082,Alexandria,PORTAL,Low,Refund,  heba ,Resolved,574.0,95.0,5.0,0,2024-10-19 21:25:00,72.0,0.0
+70271,2024-11-22 23:48:00,2308,Cairo,Portal,  critical ,complaint,Sara,Open,25.0,,5.0,1,,8.0,
+71509,2024-10-19 13:15:00,2546,ALEXANDRIA,Phone,  High ,  REFUND ,Farah,resolved,106.0,54.0,4.0,0,2024-10-21 19:15:00,24.0,0.0
+71530,2025-02-13 01:03:00,2433,Mansoura,Chat,  Medium ,Refund,Sara,CLOSED,116.0,138.0,2.0,0,2025-02-18 19:03:00,48.0,0.0
+70468,2024-12-05 05:14:00,2555,mansoura,Chat,Low,TECHNICAL,Nada,Open,612.0,,5.0,0,,72.0,
+70916,2024-09-25 02:11:00,2119,Zagazig,Portal,HIGH,Account,Sara,resolved,704.0,65.0,2.0,0,2024-09-27 19:11:00,24.0,0.0
+70077,2024-12-22 08:39:00,2282,  Alexandria ,Email,Low,technical,mina,Pending,271.0,,5.0,0,,72.0,
+71534,2024-09-03 14:05:00,2243,Cairo,portal,  Medium ,  Account ,YOUSSEF,Closed,425.0,135.0,3.0,0,2024-09-09 05:05:00,48.0,0.0
+70260,2025-02-14 07:47:00,2451,Mansoura,Phone,Low,Account,Sara,Open,394.0,127.0,4.0,1,,72.0,0.0
+71464,2024-11-02 09:36:00,2004,Giza,chat,  Medium ,billing,NADA,Open,718.0,76.0,4.0,0,,48.0,0.0
+70849,2025-02-20 01:14:00,2262,Cairo,  Chat ,High,DELIVERY,Heba,Resolved,29.0,94.0,1.0,0,2025-02-23 23:14:00,24.0,0.0
+71100,2024-12-22 06:13:00,2174,Suez,Chat,  Medium ,BILLING,Omar,closed,51.0,152.0,4.0,0,2024-12-28 14:13:00,48.0,0.0
+71324,2024-11-11 01:10:00,2206,Mansoura,email,LOW,Complaint,MINA,resolved,233.0,82.0,4.0,0,2024-11-14 11:10:00,72.0,0.0
+71014,2024-11-04 09:21:00,2494,ALEXANDRIA,email,  Medium ,Billing,  ali ,Resolved,659.0,51.0,4.0,0,2024-11-06 12:21:00,48.0,0.0
+70093,2024-11-06 00:22:00,2484,Alexandria,Portal,medium,Delivery,  Farah ,Resolved,174.0,144.0,,0,2024-11-12 00:22:00,48.0,0.0
+71165,2024-11-12 23:30:00,2205,Ismailia,CHAT,  High ,  delivery ,  Sara ,closed,365.0,12.0,5.0,0,2024-11-13 11:30:00,24.0,1.0
+70111,2024-09-05 18:00:00,2250,  Zagazig ,email,Medium,Delivery,Youssef,Resolved,502.0,66.0,5.0,0,2024-09-08 12:00:00,48.0,0.0
+70236,2025-01-20 08:19:00,2454,Mansoura,Chat,  Medium ,Complaint,Heba,Resolved,7.0,91.0,5.0,0,2025-01-24 03:19:00,48.0,0.0
+70308,2025-01-30 22:39:00,2457,Tanta,CHAT,  low ,Technical,Ali,Resolved,58.0,166.0,,1,2025-02-06 20:39:00,72.0,0.0
+70870,2024-09-02 12:33:00,2317,  Cairo ,Email,Medium,Delivery,NADA,Resolved,128.0,103.0,5.0,1,2024-09-06 19:33:00,48.0,0.0
+70962,2025-02-19 05:12:00,2358,Alexandria,CHAT,High,  Complaint ,Mina,Resolved,521.0,19.0,4.0,0,2025-02-20 00:12:00,24.0,1.0
+70974,2024-11-24 20:08:00,2224,  MANSOURA ,email,Medium,Delivery,youssef,  Open ,210.0,,3.0,0,,48.0,
+71022,2024-12-14 20:29:00,2455,Zagazig,CHAT,High,  Technical ,Mina,Resolved,191.0,2.0,5.0,0,2024-12-14 22:29:00,24.0,1.0
+71034,2024-09-26 01:06:00,2495,Suez,Portal,Low,Billing,Farah,  Resolved ,227.0,154.0,1.0,0,2024-10-02 11:06:00,72.0,0.0
+70718,2024-12-05 21:34:00,2324,  Suez ,Email,Medium,Billing,  ALI ,  Resolved ,241.0,12.0,,1,2024-12-06 09:34:00,48.0,1.0
+71436,2024-09-16 05:29:00,2213,Alexandria,Portal,High,  Refund ,Heba,Open,191.0,,,0,,24.0,
+70548,2024-09-27 00:43:00,2095,Alexandria,Chat,MEDIUM,  Complaint ,Mina,Open,634.0,,5.0,0,,48.0,
+71389,2024-12-17 07:20:00,2037,Zagazig,Portal,High,ACCOUNT,Ali,Resolved,559.0,116.0,4.0,0,2024-12-22 03:20:00,24.0,0.0
+71056,2024-12-18 16:04:00,2083,MANSOURA,Chat,  High ,Complaint,Farah,Resolved,264.0,145.0,4.0,0,2024-12-24 17:04:00,24.0,0.0
+70884,2024-12-10 22:09:00,2552,  Zagazig ,  Phone ,Medium,  ACCOUNT ,Sara,Resolved,644.0,167.0,4.0,1,2024-12-17 21:09:00,48.0,0.0
+70365,2024-10-30 21:05:00,2464,  mansoura ,Chat,  Medium ,Billing,Heba,  Resolved ,44.0,156.0,5.0,0,2024-11-06 09:05:00,48.0,0.0
+70378,2024-12-19 01:30:00,2448,Cairo,Portal,MEDIUM,Billing,  Sara ,  RESOLVED ,559.0,118.0,3.0,0,2024-12-23 23:30:00,48.0,0.0
+71242,2024-12-21 09:17:00,2444,  Suez ,  Phone ,  low ,Billing,Sara,Resolved,620.0,155.0,,0,2024-12-27 20:17:00,72.0,0.0
+71271,2025-01-18 12:53:00,2016,Giza,Email,Medium,  Technical ,Farah,Closed,-5.0,38.0,4.0,0,2025-01-20 02:53:00,48.0,1.0
+71346,2024-11-13 00:05:00,2068,  Zagazig ,EMAIL,MEDIUM,  Complaint ,Sara,  Pending ,394.0,75.0,3.0,0,,48.0,0.0
+70813,2024-10-23 23:07:00,2285,Cairo,  Phone ,MEDIUM,Account,  heba ,Pending,681.0,,2.0,0,,48.0,
+71009,2024-11-27 12:10:00,2061,Suez,Portal,Medium,Complaint,  Farah ,Resolved,574.0,160.0,3.0,0,2024-12-04 04:10:00,48.0,0.0
+70704,2025-02-03 07:03:00,2059,Alexandria,Phone,HIGH,  Billing ,nada,Open,467.0,105.0,4.0,0,,24.0,0.0
+70102,2024-11-03 01:39:00,2502,  cairo ,email,LOW,BILLING,Mina,resolved,114.0,41.0,4.0,0,2024-11-04 18:39:00,72.0,1.0
+71275,2025-01-10 19:14:00,2050,Mansoura,Portal,Low,Delivery,Heba,resolved,275.0,112.0,4.0,0,2025-01-15 11:14:00,72.0,0.0
+70782,2024-09-19 04:50:00,2193,Ismailia,Chat,Low,  Delivery ,  omar ,Pending,311.0,,2.0,0,,72.0,
+70221,2024-09-01 16:47:00,2425,  Ismailia ,Phone,Medium,technical,Youssef,Pending,224.0,,5.0,0,,48.0,
+70669,2025-02-04 13:12:00,2057,  Giza ,Chat,LOW,ACCOUNT,SARA,  Resolved ,685.0,51.0,2.0,0,2025-02-06 16:12:00,72.0,1.0
+70626,2025-02-19 03:38:00,2070,  Alexandria ,chat,Low,Delivery,Youssef,resolved,282.0,35.0,2.0,0,2025-02-20 14:38:00,72.0,1.0
+70933,2024-10-12 20:52:00,2289,  Alexandria ,CHAT,medium,  account ,OMAR,  Open ,208.0,,3.0,0,,48.0,
+71354,2024-12-07 06:47:00,2428,Giza,EMAIL,Medium,  Delivery ,Sara,open,616.0,120.0,4.0,0,,48.0,0.0
+71373,2024-09-08 12:27:00,2032,  zagazig ,Email,Critical,Refund,Nada,Pending,94.0,,3.0,0,,8.0,
+70070,2024-09-30 21:21:00,2127,Mansoura,Email,High,Billing,ALI,Pending,385.0,,5.0,0,,24.0,
+70173,2024-10-09 21:21:00,2101,Cairo,  Portal ,  Low ,Refund,Ali,  Open ,283.0,130.0,5.0,0,,72.0,0.0
+70433,2024-10-11 20:58:00,2175,  Zagazig ,PORTAL,High,Billing,ali,  Closed ,556.0,29.0,5.0,0,2024-10-13 01:58:00,24.0,0.0
+70150,2025-02-26 12:27:00,2580,Suez,Email,Low,Refund,  Sara ,Resolved,708.0,57.0,3.0,1,2025-02-28 21:27:00,72.0,1.0
+71261,2024-11-08 03:23:00,2207,  TANTA ,Phone,LOW,Account,Farah,Resolved,163.0,5.0,3.0,0,2024-11-08 08:23:00,72.0,1.0
+70482,2024-10-13 12:35:00,2557,Giza,EMAIL,Medium,Delivery,Youssef,Closed,667.0,72.0,3.0,0,2024-10-16 12:35:00,48.0,0.0
+70283,2025-01-01 22:31:00,2027,Zagazig,chat,Medium,Technical,nada,Resolved,79.0,43.0,3.0,1,2025-01-03 17:31:00,48.0,1.0
+70386,2024-09-07 13:27:00,2110,  Mansoura ,phone,  Medium ,DELIVERY,Ali,Open,704.0,,,0,,48.0,
+71578,2024-11-12 20:12:00,2577,Tanta,Email,HIGH,Technical,mina,Open,14.0,40.0,4.0,0,,24.0,0.0
+70210,2024-10-29 00:54:00,2329,Cairo,Email,Medium,account,Mina,PENDING,524.0,,5.0,0,,48.0,
+70341,2024-11-17 02:59:00,2305,Suez,Phone,low,Refund,ali,Resolved,203.0,114.0,5.0,0,2024-11-21 20:59:00,72.0,0.0
+70599,2025-02-18 08:59:00,2359,Giza,Email,LOW,BILLING,Mina,Open,699.0,95.0,4.0,0,,72.0,0.0
+71152,2024-11-24 11:23:00,2371,Giza,Phone,low,Billing,Ali,Closed,716.0,15.0,,0,2024-11-25 02:23:00,72.0,1.0
+71416,2024-09-14 04:46:00,2258,Suez,Chat,Low,Delivery,Mina,Resolved,52.0,29.0,4.0,0,2024-09-15 09:46:00,72.0,1.0
+70339,2025-01-17 03:38:00,2065,Cairo,Chat,Critical,Delivery,sara,  Pending ,37.0,147.0,5.0,0,,8.0,0.0
+71594,2024-09-09 21:59:00,2003,Zagazig,Phone,Low,  Delivery ,  ali ,Resolved,266.0,128.0,5.0,0,2024-09-15 05:59:00,72.0,0.0
+70522,2024-12-01 20:29:00,2271,Alexandria,chat,Medium,Billing,Farah,  closed ,484.0,133.0,3.0,0,2024-12-07 09:29:00,48.0,0.0
+70390,2025-01-30 03:47:00,2588,SUEZ,Portal,High,Account,Farah,Resolved,186.0,18.0,2.0,0,2025-01-30 21:47:00,24.0,1.0
+71078,2024-11-24 05:46:00,2394,Ismailia,Portal,Low,Refund,Omar,Resolved,110.0,131.0,5.0,0,2024-11-29 16:46:00,72.0,0.0
+71254,2025-01-16 12:54:00,2007,Mansoura,Portal,medium,Refund,Heba,Pending,594.0,67.0,5.0,0,,48.0,0.0
+70036,2024-09-01 10:22:00,2250,suez,Chat,Low,Refund,mina,Resolved,439.0,39.0,,1,2024-09-03 01:22:00,72.0,1.0
+70287,2025-01-26 07:20:00,2016,Mansoura,Email,Low,Billing,Nada,Closed,708.0,23.0,5.0,0,2025-01-27 06:20:00,72.0,1.0
+70623,2024-10-06 15:20:00,2339,Zagazig,  Chat ,HIGH,Delivery,Ali,Pending,444.0,154.0,5.0,0,,24.0,0.0
+70315,2024-11-07 02:08:00,2053,Cairo,Chat,Low,Account,Youssef,RESOLVED,46.0,142.0,5.0,1,2024-11-13 00:08:00,72.0,0.0
+71032,2025-01-12 03:15:00,2038,mansoura,Portal,  Medium ,  Account ,  Ali ,Resolved,576.0,127.0,5.0,0,2025-01-17 10:15:00,48.0,0.0
+71138,2024-09-29 11:19:00,2429,ISMAILIA,Chat,High,Billing,Ali,RESOLVED,632.0,8.0,4.0,0,2024-09-29 19:19:00,24.0,1.0
+70319,2025-02-23 17:10:00,2122,alexandria,Chat,Low,Technical,Ali,Resolved,371.0,115.0,4.0,0,2025-02-28 12:10:00,72.0,0.0
+70775,2024-12-09 19:41:00,2179,Ismailia,Phone,Low,Refund,Nada,Closed,628.0,46.0,4.0,0,2024-12-11 17:41:00,72.0,1.0
+71335,2024-12-22 22:52:00,2184,Zagazig,CHAT,Low,  Account ,Omar,RESOLVED,252.0,56.0,4.0,1,2024-12-25 06:52:00,72.0,1.0
+71341,2025-01-03 23:18:00,2262,zagazig,CHAT,MEDIUM,  Account ,Youssef,  Pending ,513.0,,1.0,1,,48.0,
+70716,2025-01-30 07:44:00,2025,Tanta,Chat,medium,Complaint,Heba,  RESOLVED ,443.0,34.0,3.0,0,2025-01-31 17:44:00,48.0,1.0
+71111,2024-10-15 22:34:00,2027,giza,Chat,High,  Billing ,Mina,open,77.0,,,0,,24.0,
+71570,2024-10-06 21:27:00,2318,Zagazig,  Email ,  Low ,Delivery,  Nada ,Resolved,66.0,59.0,5.0,0,2024-10-09 08:27:00,72.0,1.0
+70062,2025-01-23 19:39:00,2537,Cairo,chat,  HIGH ,Account,omar,Resolved,31.0,42.0,5.0,0,2025-01-25 13:39:00,24.0,0.0
+70453,2024-10-31 18:22:00,2285,Giza,Email,high,Complaint,Nada,Resolved,577.0,124.0,5.0,0,2024-11-05 22:22:00,24.0,0.0
+70631,2025-02-26 21:30:00,2179,Cairo,Email,Medium,Refund,youssef,  Resolved ,712.0,94.0,,0,2025-03-02 19:30:00,48.0,0.0
+71213,2025-02-15 07:18:00,2009,Giza,CHAT,Low,Billing,Omar,Closed,41.0,57.0,3.0,1,2025-02-17 16:18:00,72.0,1.0
+70163,2025-01-08 02:35:00,2403,Cairo,CHAT,Low,Refund,Nada,Closed,544.0,130.0,4.0,0,2025-01-13 12:35:00,72.0,0.0
+71267,2024-12-30 18:50:00,2362,Alexandria,phone,Low,Delivery,Heba,Open,25.0,,5.0,0,,72.0,
+71010,2025-02-07 16:41:00,2367,alexandria,Portal,Low,  Complaint ,Farah,Closed,437.0,6.0,4.0,0,2025-02-07 22:41:00,72.0,1.0
+71169,2025-01-07 18:49:00,2437,Mansoura,chat,  Medium ,BILLING,  Heba ,Resolved,631.0,144.0,5.0,0,2025-01-13 18:49:00,48.0,0.0
+70729,2024-12-27 23:16:00,2423,Alexandria,Chat,Low,BILLING,YOUSSEF,Closed,82.0,110.0,,0,2025-01-01 13:16:00,72.0,0.0
+70876,2024-09-11 03:14:00,2551,  Mansoura ,Email,MEDIUM,billing,FARAH,resolved,13.0,142.0,3.0,1,2024-09-17 01:14:00,48.0,0.0
+70358,2024-10-01 09:37:00,2312,  Mansoura ,Phone,Low,Complaint,mina,Open,143.0,89.0,5.0,1,,72.0,0.0
+70254,2025-01-12 07:38:00,2457,zagazig,Email,High,Technical,Farah,Resolved,461.0,26.0,4.0,0,2025-01-13 09:38:00,24.0,0.0
+70097,2025-02-19 04:51:00,2096,Alexandria,Email,Medium,Refund,Nada,Pending,548.0,,5.0,0,,48.0,
+70245,2024-12-27 09:22:00,2073,Zagazig,Portal,low,Billing,  Omar ,Pending,691.0,,5.0,0,,72.0,
+70114,2024-11-15 18:08:00,2076,Ismailia,Email,Critical,billing,Ali,Open,381.0,,1.0,0,,8.0,
+71519,2024-09-04 01:15:00,2047,Cairo,  CHAT ,HIGH,Billing,Mina,Resolved,411.0,-2.0,,1,2024-09-08 23:15:00,24.0,0.0
+70745,2025-01-02 14:40:00,2388,Suez,Chat,Low,  Technical ,Ali,Open,377.0,118.0,4.0,0,,72.0,0.0
+71110,2024-11-26 05:06:00,2291,Suez,CHAT,High,Account,Heba,resolved,389.0,112.0,4.0,0,2024-11-30 21:06:00,24.0,0.0
+70137,2024-10-19 07:01:00,2537,  Zagazig ,Portal,Medium,Complaint,Heba,  Pending ,299.0,,4.0,0,,48.0,
+70013,2025-01-30 19:12:00,2057,ALEXANDRIA,PORTAL,High,Account,Heba,closed,564.0,53.0,3.0,0,2025-02-02 00:12:00,24.0,0.0
+70392,2025-02-01 10:58:00,2573,Alexandria,Chat,Medium,ACCOUNT,nada,Open,62.0,,2.0,0,,48.0,
+71188,2025-02-14 12:14:00,2163,Zagazig,Portal,Medium,Billing,Nada,  Pending ,620.0,104.0,4.0,0,,48.0,0.0
+71432,2024-11-29 20:46:00,2186,Ismailia,EMAIL,CRITICAL,  delivery ,Sara,Pending,366.0,,5.0,0,,8.0,
+71380,2025-01-17 21:34:00,2430,  ISMAILIA ,Portal,HIGH,Billing,Youssef,Pending,437.0,164.0,5.0,0,,24.0,0.0
+71311,2024-12-02 05:58:00,2457,Alexandria,Chat,  Medium ,  Refund ,Heba,  Closed ,141.0,76.0,4.0,0,2024-12-05 09:58:00,48.0,0.0
+70506,2024-11-27 17:42:00,2076,Cairo,Phone,  Medium ,Refund,Nada,CLOSED,204.0,46.0,5.0,0,2024-11-29 15:42:00,48.0,1.0
+71289,2024-09-14 04:52:00,2192,Suez,Email,  Medium ,Billing,heba,OPEN,632.0,12.0,5.0,0,,48.0,0.0
+71307,2024-11-27 21:22:00,2215,Tanta,Phone,Low,Billing,Youssef,Pending,179.0,55.0,5.0,0,,72.0,0.0
+70493,2024-10-15 17:24:00,2420,  Giza ,Phone,  Low ,Technical,  Sara ,RESOLVED,399.0,85.0,3.0,0,2024-10-19 06:24:00,72.0,0.0
+70294,2025-02-12 12:52:00,2442,Suez,Chat,  Low ,Account,Heba,Closed,462.0,72.0,3.0,1,2025-02-15 12:52:00,72.0,1.0
+70207,2024-10-21 17:12:00,2553,  Alexandria ,Email,  Low ,COMPLAINT,Nada,Open,142.0,151.0,2.0,0,,72.0,0.0
+70807,2025-01-24 22:52:00,2135,  cairo ,Portal,Low,DELIVERY,ali,RESOLVED,376.0,56.0,1.0,0,2025-01-27 06:52:00,72.0,1.0
+71257,2024-10-27 00:51:00,2116,Cairo,chat,Medium,refund,  Youssef ,Resolved,344.0,3.0,4.0,0,2024-10-27 03:51:00,48.0,1.0
+71539,2024-11-10 03:46:00,2225,  Ismailia ,Portal,Low,Refund,Ali,Open,419.0,,,0,,72.0,
+70714,2025-02-25 09:54:00,2014,Zagazig,Portal,  High ,Technical,Farah,  Resolved ,64.0,60.0,4.0,0,2025-02-27 21:54:00,24.0,0.0
+70817,2024-09-09 03:32:00,2552,Mansoura,Chat,Low,Technical,Youssef,Resolved,307.0,12.0,2.0,0,2024-09-09 15:32:00,72.0,1.0
+70080,2025-01-14 17:17:00,2300,SUEZ,Chat,  Medium ,TECHNICAL,Mina,Resolved,270.0,37.0,2.0,0,2025-01-16 06:17:00,48.0,1.0
+70883,2025-01-25 03:24:00,2451,ismailia,CHAT,  High ,Complaint,Mina,RESOLVED,559.0,95.0,4.0,1,2025-01-29 02:24:00,24.0,0.0
+71026,2024-09-27 10:17:00,2029,Tanta,  EMAIL ,  Low ,REFUND,MINA,RESOLVED,414.0,118.0,5.0,0,2024-10-02 08:17:00,72.0,0.0
+70401,2024-12-05 00:42:00,2096,Suez,Email,Medium,REFUND,Youssef,closed,582.0,142.0,4.0,0,2024-12-10 22:42:00,48.0,0.0
+70158,2025-02-03 01:06:00,2155,ISMAILIA,Phone,  High ,  Billing ,NADA,open,467.0,,,0,,24.0,
+70492,2024-11-04 12:47:00,2527,  tanta ,Chat,Medium,Refund,Nada,Resolved,355.0,8.0,4.0,0,2024-11-04 20:47:00,48.0,1.0
+71450,2024-11-10 01:22:00,2548,Suez,CHAT,Medium,  Refund ,omar,Open,337.0,,,0,,48.0,
+71469,2025-01-02 00:18:00,2590,cairo,Chat,Low,Account,Youssef,RESOLVED,446.0,93.0,1.0,0,2025-01-05 21:18:00,72.0,0.0
+70726,2024-11-18 00:15:00,2026,Cairo,Email,High,Account,Farah,  Resolved ,293.0,124.0,5.0,1,2024-11-23 04:15:00,24.0,0.0
+70681,2024-11-21 23:38:00,2507,Alexandria,Chat,Medium,billing,Youssef,  Resolved ,272.0,163.0,,0,2024-11-28 18:38:00,48.0,0.0
+70402,2025-02-21 10:57:00,2253,Alexandria,  Portal ,  Medium ,Technical,Sara,  Resolved ,552.0,147.0,,0,2025-02-27 13:57:00,48.0,0.0
+71449,2024-10-06 03:58:00,2330,  Suez ,Email,Medium,  Refund ,OMAR,Resolved,269.0,31.0,,0,2024-10-07 10:58:00,48.0,1.0
+71181,2024-09-23 16:12:00,2153,  ISMAILIA ,Portal,Low,Refund,  mina ,Resolved,103.0,71.0,5.0,0,2024-09-26 15:12:00,72.0,1.0
+70180,2025-02-08 18:13:00,2063,Zagazig,CHAT,MEDIUM,Complaint,Youssef,Resolved,252.0,15.0,5.0,0,2025-02-09 09:13:00,48.0,1.0
+70922,2024-10-12 19:57:00,2058,Zagazig,Email,critical,Complaint,Farah,Resolved,624.0,22.0,4.0,0,2024-10-13 17:57:00,8.0,0.0
+70079,2024-11-21 13:10:00,2488,mansoura,chat,Low,complaint,nada,Closed,20.0,129.0,,0,2024-11-26 22:10:00,72.0,0.0
+70987,2024-10-13 05:23:00,2313,suez,Chat,Medium,TECHNICAL,ali,Open,65.0,98.0,3.0,0,,48.0,0.0
+71521,2024-10-24 09:27:00,2195,Alexandria,Email,High,COMPLAINT,Mina,PENDING,704.0,15.0,2.0,0,,24.0,0.0
+71117,2025-02-12 23:51:00,2166,  alexandria ,Phone,low,ACCOUNT,Mina,Resolved,211.0,39.0,1.0,0,2025-02-14 14:51:00,72.0,1.0
+70737,2024-09-13 04:33:00,2441,Cairo,phone,Low,Technical,Sara,Open,555.0,,3.0,0,,72.0,
+70695,2024-12-10 18:13:00,2070,Cairo,PHONE,High,Account,OMAR,RESOLVED,234.0,115.0,,0,2024-12-15 13:13:00,24.0,0.0
+70320,2024-11-24 14:50:00,2045,Ismailia,email,Low,REFUND,youssef,Open,646.0,,5.0,0,,72.0,
+70485,2024-10-02 07:17:00,2138,Mansoura,Chat,High,Account,omar,Open,16.0,128.0,5.0,0,,24.0,0.0
+70199,2025-01-15 21:09:00,2066,Tanta,Phone,  Medium ,DELIVERY,Omar,CLOSED,171.0,22.0,3.0,1,2025-01-16 19:09:00,48.0,1.0
+71129,2025-02-12 09:00:00,2186,Ismailia,Phone,  High ,  Delivery ,Youssef,Closed,122.0,82.0,5.0,1,2025-02-15 19:00:00,24.0,0.0
+70818,2024-10-19 05:03:00,2010,  Alexandria ,PHONE,High,Billing,Omar,Closed,381.0,107.0,4.0,0,2024-10-23 16:03:00,24.0,0.0
+70712,2024-09-18 09:27:00,2435,  Giza ,  Chat ,high,Account,omar,Pending,257.0,153.0,3.0,0,,24.0,0.0
+70621,2025-02-22 09:34:00,2451,Tanta,Portal,Medium,Technical,Ali,Resolved,421.0,-2.0,3.0,0,2025-02-26 08:34:00,48.0,0.0
+71047,2025-01-15 00:14:00,2014,Mansoura,  Chat ,Low,refund,Omar,Resolved,570.0,166.0,4.0,0,2025-01-21 22:14:00,72.0,0.0
+70439,2024-09-14 03:20:00,2266,Cairo,Email,Medium,  account ,Mina,RESOLVED,224.0,90.0,5.0,1,2024-09-17 21:20:00,48.0,0.0
+71565,2024-09-13 07:35:00,2597,Ismailia,  PHONE ,Medium,  Billing ,  Nada ,Resolved,33.0,46.0,5.0,0,2024-09-15 05:35:00,48.0,1.0
+70134,2024-10-19 10:46:00,2288,Tanta,Chat,High,Complaint,Farah,Open,631.0,34.0,2.0,1,,24.0,0.0
+71143,2024-09-26 15:24:00,2495,alexandria,Phone,low,billing,Omar,Resolved,458.0,55.0,4.0,0,2024-09-28 22:24:00,72.0,1.0
+70815,2024-10-12 00:44:00,2106,Ismailia,CHAT,critical,Billing,Farah,  Resolved ,677.0,63.0,5.0,0,2024-10-14 15:44:00,8.0,0.0
+70647,2025-02-20 18:57:00,2092,ISMAILIA,Phone,Low,Account,OMAR,Resolved,490.0,20.0,,0,2025-02-21 14:57:00,72.0,1.0
+70863,2024-11-05 01:34:00,2477,Giza,Phone,Low,Refund,Youssef,Open,12.0,69.0,5.0,0,,72.0,0.0
+70900,2025-01-12 01:07:00,2097,giza,PHONE,Medium,delivery,youssef,Resolved,287.0,98.0,3.0,0,2025-01-16 03:07:00,48.0,0.0
+70408,2024-09-24 20:09:00,2398,Ismailia,Email,  Medium ,COMPLAINT,  Heba ,Open,110.0,,,0,,48.0,
+70155,2024-09-02 23:02:00,2509,Cairo,Portal,  Low ,Complaint,Ali,Pending,257.0,,3.0,0,,72.0,
+71030,2024-09-03 06:07:00,2201,Cairo,Email,  Medium ,technical,  youssef ,RESOLVED,627.0,99.0,4.0,0,2024-09-07 09:07:00,48.0,0.0
+70279,2025-01-22 07:23:00,2441,  Cairo ,portal,Low,  delivery ,Nada,Resolved,308.0,17.0,5.0,0,2025-01-23 00:23:00,72.0,1.0
+70795,2024-10-18 16:16:00,2392,suez,Portal,  medium ,Billing,  Heba ,Open,-5.0,,4.0,0,,48.0,
+71340,2024-11-25 19:29:00,2135,SUEZ,  PORTAL ,high,Technical,heba,Resolved,501.0,131.0,5.0,0,2024-12-01 06:29:00,24.0,0.0
+70116,2024-11-22 04:23:00,2473,Tanta,Phone,Medium,Complaint,  Heba ,  Resolved ,557.0,145.0,5.0,0,2024-11-28 05:23:00,48.0,0.0
+71233,2024-09-19 21:13:00,2268,Ismailia,Portal,  Medium ,delivery,Farah,Resolved,111.0,83.0,4.0,0,2024-09-23 08:13:00,48.0,0.0
+70597,2024-09-02 01:30:00,2131,Giza,Chat,Low,Delivery,Nada,RESOLVED,695.0,70.0,5.0,1,2024-09-04 23:30:00,72.0,1.0
+71433,2024-10-22 15:28:00,2235,  Alexandria ,Email,LOW,Technical,OMAR,Open,269.0,64.0,3.0,0,,72.0,0.0
+71358,2024-09-11 12:13:00,2459,Giza,Phone,Medium,technical,  Nada ,Pending,680.0,125.0,4.0,0,,48.0,0.0
+70209,2025-01-06 09:38:00,2551,Alexandria,  Phone ,critical,  Billing ,Nada,Resolved,409.0,144.0,4.0,0,2025-01-12 09:38:00,8.0,0.0
+70719,2024-12-31 11:05:00,2419,Suez,PHONE,Medium,Delivery,Youssef,  Resolved ,664.0,99.0,1.0,1,2025-01-04 14:05:00,48.0,0.0
+70586,2024-09-28 16:26:00,2054,Ismailia,Chat,low,Complaint,  NADA ,Resolved,434.0,61.0,5.0,0,2024-10-01 05:26:00,72.0,1.0
+71033,2025-02-13 11:49:00,2172,Suez,email,Low,Technical,Ali,Resolved,41.0,-2.0,5.0,0,2025-02-19 22:49:00,72.0,0.0
+71247,2025-01-25 06:49:00,2107,Tanta,Chat,Medium,Complaint,  Heba ,Resolved,377.0,107.0,1.0,0,2025-01-29 17:49:00,48.0,0.0
+70469,2024-09-29 10:57:00,2273,Ismailia,Email,Medium,  Account ,Sara,RESOLVED,686.0,162.0,1.0,0,2024-10-06 04:57:00,48.0,0.0
+71287,2024-09-16 07:48:00,2128,  SUEZ ,Portal,Critical,Complaint,Omar,Closed,593.0,76.0,1.0,0,2024-09-19 11:48:00,8.0,0.0
+70540,2025-01-26 11:32:00,2332,Suez,PHONE,Low,Delivery,Nada,Pending,159.0,8.0,5.0,0,,72.0,0.0
+70836,2025-01-01 13:02:00,2286,suez,Email,MEDIUM,Refund,Sara,Closed,57.0,35.0,,0,2025-01-03 00:02:00,48.0,1.0
+70529,2024-09-13 08:35:00,2585,SUEZ,Phone,medium,  Delivery ,,Resolved,431.0,74.0,,0,2024-09-16 10:35:00,48.0,0.0
+70240,2025-02-16 18:44:00,2351,Tanta,PORTAL,Low,Billing,  Farah ,Closed,360.0,105.0,3.0,0,2025-02-21 03:44:00,72.0,0.0
+71538,2024-12-11 02:12:00,2402,  Giza ,Email,  Medium ,Refund,  Heba ,Pending,481.0,,4.0,0,,48.0,
+71297,2024-11-29 06:40:00,2187,Cairo,  Portal ,Medium,Delivery,Mina,Resolved,169.0,101.0,4.0,0,2024-12-03 11:40:00,48.0,0.0
+70217,2024-09-05 22:24:00,2098,Alexandria,Chat,Low,Technical,Sara,  Resolved ,44.0,18.0,4.0,0,2024-09-06 16:24:00,72.0,1.0
+70458,2024-11-12 00:13:00,2123,Cairo,Portal,Medium,account,Ali,Closed,661.0,131.0,5.0,0,2024-11-17 11:13:00,48.0,0.0
+70420,2024-10-11 18:47:00,2084,Alexandria,  chat ,Medium,Refund,FARAH,Resolved,439.0,14.0,2.0,0,2024-10-12 08:47:00,48.0,1.0
+70264,2024-10-30 17:28:00,2182,  ISMAILIA ,chat,Medium,Account,NADA,Resolved,172.0,51.0,3.0,1,2024-11-01 20:28:00,48.0,0.0
+71104,2024-10-28 15:23:00,2058,Cairo,chat,Medium,Refund,MINA,Pending,103.0,90.0,5.0,0,,48.0,0.0
+70920,2024-09-15 07:22:00,2111,  Cairo ,Portal,Medium,Billing,Sara,resolved,497.0,71.0,,0,2024-09-18 06:22:00,48.0,0.0
+71084,2025-02-05 09:42:00,2553,Cairo,Chat,Medium,Account,Ali,  Closed ,643.0,20.0,3.0,0,2025-02-06 05:42:00,48.0,1.0
+70947,2025-01-08 04:11:00,2513,Mansoura,  chat ,  LOW ,  ACCOUNT ,Farah,RESOLVED,625.0,36.0,3.0,0,2025-01-09 16:11:00,72.0,1.0
+70906,2024-12-08 11:55:00,2527,Mansoura,  EMAIL ,MEDIUM,billing,Farah,Resolved,-5.0,152.0,5.0,0,2024-12-14 19:55:00,48.0,0.0
+70431,2024-11-27 06:54:00,2325,  Ismailia ,email,medium,Account,Nada,Resolved,289.0,52.0,5.0,1,2024-11-29 10:54:00,48.0,0.0
+70203,2024-09-08 10:26:00,2254,Tanta,chat,High,  Complaint ,Youssef,Open,169.0,,4.0,0,,24.0,
+70184,2024-09-13 23:58:00,2378,Cairo,Portal,medium,Billing,  farah ,  resolved ,714.0,83.0,,0,2024-09-17 10:58:00,48.0,0.0
+71345,2025-02-23 18:44:00,2410,zagazig,Phone,CRITICAL,Complaint,Sara,Pending,473.0,120.0,5.0,0,,8.0,0.0
+70178,2024-09-08 13:21:00,2247,  ismailia ,Email,  Medium ,Billing,Heba,Resolved,522.0,155.0,2.0,1,2024-09-15 00:21:00,48.0,0.0
+70937,2024-09-24 17:44:00,2289,Alexandria,chat,Low,Account,Sara,CLOSED,680.0,33.0,,0,2024-09-26 02:44:00,72.0,1.0
+71528,2024-12-03 02:04:00,2541,Suez,Email,Low,Technical,Nada,open,691.0,,,0,,72.0,
+71193,2025-01-08 03:57:00,2163,Cairo,Email,  Low ,Complaint,  Ali ,RESOLVED,551.0,112.0,5.0,0,2025-01-12 19:57:00,72.0,0.0
+71555,2025-02-22 10:27:00,2160,Giza,Chat,Medium,Delivery,NADA,PENDING,573.0,,3.0,0,,48.0,
+71226,2025-01-14 04:03:00,2003,  Mansoura ,  chat ,Medium,Complaint,ali,Resolved,86.0,106.0,4.0,0,2025-01-18 14:03:00,48.0,0.0
+70083,2024-11-20 16:06:00,2564,Zagazig,Portal,Medium,Complaint,Farah,Resolved,249.0,53.0,,0,2024-11-22 21:06:00,48.0,0.0
+70373,2025-01-12 02:45:00,2061,Suez,chat,  Low ,  Delivery ,Youssef,Closed,54.0,131.0,4.0,0,2025-01-17 13:45:00,72.0,0.0
+70159,2025-01-07 13:44:00,2217,Mansoura,Phone,  High ,Technical,Youssef,Pending,15.0,,1.0,0,,24.0,
+70086,2024-12-04 21:16:00,2189,cairo,Email,  Low ,  Technical ,Heba,Closed,624.0,93.0,5.0,0,2024-12-08 18:16:00,72.0,0.0
+70154,2024-11-13 03:53:00,2498,Tanta,Phone,Low,COMPLAINT,Nada,resolved,99.0,136.0,1.0,0,2024-11-18 19:53:00,72.0,0.0
+71179,2025-02-16 07:57:00,2251,Suez,email,Medium,Refund,Sara,Resolved,375.0,9.0,,0,2025-02-16 16:57:00,48.0,1.0
+70885,2024-10-02 07:07:00,2082,Tanta,CHAT,low,Account,Sara,Closed,250.0,135.0,4.0,0,2024-10-07 22:07:00,72.0,0.0
+70634,2024-10-07 03:59:00,2319,Giza,Chat,Low,Refund,Sara,Resolved,605.0,164.0,4.0,1,2024-10-13 23:59:00,72.0,0.0
+70126,2024-10-27 20:59:00,2406,cairo,Portal,High,DELIVERY,Nada,  Closed ,668.0,55.0,3.0,0,2024-10-30 03:59:00,24.0,0.0
+70523,2024-09-02 00:48:00,2529,Cairo,  Email ,Medium,Delivery,Youssef,Open,680.0,,5.0,0,,48.0,
+71406,2024-12-18 12:01:00,2032,GIZA,Phone,Medium,Complaint,Nada,resolved,586.0,70.0,5.0,0,2024-12-21 10:01:00,48.0,0.0
+70824,2024-12-29 14:18:00,2416,Tanta,PHONE,high,  Account ,youssef,closed,395.0,103.0,4.0,0,2025-01-02 21:18:00,24.0,0.0
+71328,2025-01-04 09:05:00,2428,Tanta,  Phone ,Low,Refund,Heba,Open,314.0,,2.0,0,,72.0,
+71142,2024-12-25 02:25:00,2286,Cairo,chat,Low,Delivery,  Heba ,Resolved,91.0,50.0,5.0,0,2024-12-27 04:25:00,72.0,1.0
+70620,2024-12-20 15:59:00,2537,Suez,Email,Low,  Technical ,Heba,Resolved,659.0,37.0,4.0,0,2024-12-22 04:59:00,72.0,1.0
+70976,2024-11-15 09:01:00,2325,Giza,Portal,low,technical,Nada,Open,238.0,153.0,4.0,0,,72.0,0.0
+71008,2024-11-14 09:27:00,2161,Alexandria,Portal,  Medium ,Billing,Ali,closed,298.0,135.0,5.0,0,2024-11-20 00:27:00,48.0,0.0
+70711,2025-01-09 18:00:00,2556,  Zagazig ,Phone,Medium,account,  Sara ,Resolved,528.0,163.0,5.0,0,2025-01-16 13:00:00,48.0,0.0
+70949,2024-11-23 13:16:00,2490,Giza,email,Medium,  Complaint ,Youssef,OPEN,351.0,,1.0,0,,48.0,
+70739,2024-11-21 11:55:00,2500,  Alexandria ,Phone,Medium,technical,Farah,Pending,611.0,,,0,,48.0,
+70354,2024-11-16 01:37:00,2081,Suez,email,Low,billing,Youssef,Resolved,83.0,147.0,3.0,0,2024-11-22 04:37:00,72.0,0.0
+71054,2025-02-28 02:50:00,2236,SUEZ,Chat,Medium,Account,nada,Pending,77.0,,2.0,0,,48.0,
+70848,2024-10-06 18:56:00,2005,Suez,email,  High ,  account ,Omar,Resolved,662.0,140.0,5.0,0,2024-10-12 14:56:00,24.0,0.0
+70967,2024-12-12 05:53:00,2314,  Giza ,Email,Medium,BILLING,  sara ,resolved,127.0,38.0,4.0,0,2024-12-13 19:53:00,48.0,1.0
+70524,2025-02-05 08:08:00,2515,ZAGAZIG,Email,CRITICAL,Refund,  Heba ,Open,485.0,44.0,2.0,0,,8.0,0.0
+71167,2025-02-11 11:51:00,2201,cairo,Phone,  MEDIUM ,Billing,Mina,Open,531.0,,5.0,0,,48.0,
+70907,2024-09-16 08:27:00,2244,Zagazig,Email,  Medium ,Delivery,ali,  RESOLVED ,543.0,104.0,3.0,0,2024-09-20 16:27:00,48.0,0.0
+71527,2024-10-22 18:07:00,2143,,Email,Medium,complaint,  Youssef ,Closed,6.0,114.0,5.0,0,2024-10-27 12:07:00,48.0,0.0
+70286,2024-11-13 03:53:00,2259,Mansoura,  Chat ,High,TECHNICAL,,Open,315.0,,5.0,0,,24.0,
+70738,2025-01-26 07:36:00,2116,Mansoura,Chat,High,Delivery,Youssef,Resolved,515.0,21.0,1.0,0,2025-01-27 04:36:00,24.0,1.0
+71092,2024-09-18 05:06:00,2509,Cairo,Email,Medium,REFUND,Youssef,Pending,373.0,,,0,,48.0,
+70779,2024-09-24 21:42:00,2015,Zagazig,portal,MEDIUM,DELIVERY,Ali,Closed,299.0,1.0,1.0,0,2024-09-24 22:42:00,48.0,1.0
+70484,2025-02-23 03:00:00,2486,Mansoura,Email,LOW,Refund,Ali,  Pending ,148.0,,3.0,0,,72.0,
+71363,2024-11-04 08:07:00,2203,Giza,  Email ,LOW,Refund,ALI,Resolved,317.0,70.0,4.0,0,2024-11-07 06:07:00,72.0,1.0
+70837,2025-01-14 13:34:00,2440,ALEXANDRIA,Email,Medium,Billing,Nada,Open,250.0,75.0,4.0,0,,48.0,0.0
+70964,2025-01-02 06:20:00,2289,cairo,Phone,Medium,Delivery,Omar,Resolved,713.0,65.0,5.0,0,2025-01-04 23:20:00,48.0,0.0
+70376,2024-09-20 21:42:00,2095,  Suez ,Chat,  Low ,Refund,Omar,Resolved,67.0,8.0,5.0,0,2024-09-21 05:42:00,72.0,1.0
+70842,2024-11-21 08:33:00,2571,Suez,Phone,medium,TECHNICAL,Mina,Open,485.0,,3.0,0,,48.0,
+70299,2024-09-15 21:27:00,2297,  Suez ,Portal,High,Technical,Ali,Open,345.0,,4.0,0,,24.0,
+70827,2025-02-28 05:30:00,2255,,Chat,Medium,  BILLING ,Ali,Open,147.0,103.0,4.0,1,,48.0,0.0
+71273,2024-09-19 03:03:00,2277,Zagazig,Email,Medium,Billing,MINA,  Open ,401.0,73.0,5.0,0,,48.0,0.0
+71330,2024-12-30 15:11:00,2569,Zagazig,Email,low,BILLING,Nada,  Resolved ,462.0,94.0,4.0,0,2025-01-03 13:11:00,72.0,0.0
+71288,2024-11-26 02:09:00,2491,CAIRO,Email,High,Billing,  Sara ,  resolved ,520.0,114.0,,1,2024-11-30 20:09:00,24.0,0.0
+70946,2024-11-11 01:46:00,2524,,Portal,Medium,technical,sara,Resolved,368.0,75.0,,0,2024-11-14 04:46:00,48.0,0.0
+70899,2024-11-05 11:09:00,2165,  Ismailia ,  Email ,Critical,technical,Sara,Closed,665.0,68.0,,1,2024-11-08 07:09:00,8.0,0.0
+70306,2025-02-26 10:45:00,2449,zagazig,  Chat ,  Medium ,  Complaint ,Farah,Resolved,21.0,139.0,3.0,0,2025-03-04 05:45:00,48.0,0.0
+71503,2025-01-31 12:31:00,2134,  Cairo ,Chat,Medium,technical,Mina,Resolved,670.0,160.0,,0,2025-02-07 04:31:00,48.0,0.0
+71044,2024-12-30 06:30:00,2212,Alexandria,Portal,  Medium ,  Account ,Omar,Resolved,132.0,143.0,5.0,0,2025-01-05 05:30:00,48.0,0.0
+70044,2024-11-11 10:01:00,2095,Mansoura,Chat,Low,Refund,Youssef,open,326.0,,5.0,0,,72.0,
+70122,2024-10-10 18:32:00,2345,Ismailia,Chat,  MEDIUM ,delivery,omar,Pending,366.0,,5.0,1,,48.0,
+71161,2024-12-09 07:16:00,2125,ISMAILIA,  Email ,low,Delivery,Ali,RESOLVED,627.0,24.0,5.0,0,2024-12-10 07:16:00,72.0,1.0
+71068,2024-10-05 14:06:00,2321,Mansoura,PORTAL,Low,  Billing ,Sara,Resolved,81.0,98.0,3.0,0,2024-10-09 16:06:00,72.0,0.0
+70715,2024-09-23 21:38:00,2087,Cairo,email,Medium,Billing,omar,  resolved ,389.0,118.0,4.0,0,2024-09-28 19:38:00,48.0,0.0
+71299,2024-10-30 09:23:00,2116,giza,Email,Low,delivery,Sara,  resolved ,643.0,68.0,5.0,0,2024-11-02 05:23:00,72.0,1.0
+70697,2024-10-27 17:12:00,2247,TANTA,Chat,Medium,  refund ,Mina,Closed,212.0,17.0,2.0,0,2024-10-28 10:12:00,48.0,1.0
+71567,2024-09-19 23:14:00,2182,Giza,Chat,CRITICAL,  Account ,Sara,Resolved,702.0,140.0,3.0,0,2024-09-25 19:14:00,8.0,0.0
+71467,2025-01-05 12:27:00,2332,Zagazig,portal,Medium,Complaint,Ali,  resolved ,389.0,165.0,5.0,0,2025-01-12 09:27:00,48.0,0.0
+70574,2024-09-12 02:32:00,2097,Mansoura,Portal,Low,Account,mina,Resolved,22.0,123.0,4.0,0,2024-09-17 05:32:00,72.0,0.0
+71504,2025-02-12 14:12:00,2492,  Zagazig ,Chat,High,Delivery,Nada,closed,148.0,34.0,,0,2025-02-14 00:12:00,24.0,0.0
+71251,2025-01-10 18:04:00,2310,  Alexandria ,CHAT,medium,Complaint,Youssef,Resolved,350.0,107.0,,1,2025-01-15 05:04:00,48.0,0.0
+70471,2024-10-25 04:10:00,2187,Giza,Email,High,Technical,Mina,resolved,178.0,126.0,,0,2024-10-30 10:10:00,24.0,0.0
+70292,2024-09-05 03:07:00,2170,Mansoura,Email,medium,Account,  Farah ,Closed,522.0,147.0,3.0,0,2024-09-11 06:07:00,48.0,0.0
+70699,2024-10-14 12:40:00,2270,Ismailia,Email,Medium,Account,Farah,RESOLVED,507.0,25.0,4.0,1,2024-10-15 13:40:00,48.0,1.0
+70624,2024-12-29 04:47:00,2304,Mansoura,  Phone ,Medium,Delivery,youssef,Closed,569.0,20.0,5.0,1,2024-12-30 00:47:00,48.0,1.0
+70034,2024-11-24 20:07:00,2342,CAIRO,  Chat ,LOW,ACCOUNT,Omar,Resolved,248.0,80.0,,0,2024-11-28 04:07:00,72.0,0.0
+70686,2024-11-18 07:36:00,2038,Zagazig,PORTAL,  LOW ,Billing,Farah,Closed,460.0,163.0,4.0,0,2024-11-25 02:36:00,72.0,0.0
+70001,2024-09-03 16:35:00,2129,Suez,PHONE,  LOW ,  Refund ,  HEBA ,  RESOLVED ,543.0,104.0,5.0,1,2024-09-08 00:35:00,72.0,0.0
+70939,2024-11-28 05:47:00,2585,Zagazig,Portal,  Medium ,Technical,Mina,Pending,259.0,49.0,,0,,48.0,0.0
+71160,2024-11-01 17:24:00,2487,Zagazig,Portal,Medium,  Complaint ,youssef,Resolved,480.0,106.0,,0,2024-11-06 03:24:00,48.0,0.0
+71383,2024-09-18 21:15:00,2395,Giza,  Portal ,Low,Billing,Heba,  Resolved ,82.0,-2.0,5.0,0,2024-09-20 00:15:00,72.0,1.0
+71596,2025-02-05 03:47:00,2092,Ismailia,Portal,Medium,  Technical ,Heba,Resolved,134.0,69.0,,1,2025-02-08 00:47:00,48.0,0.0
+70226,2025-02-18 04:47:00,2208,Giza,Phone,medium,  BILLING ,Mina,  OPEN ,216.0,163.0,5.0,0,,48.0,0.0
+71351,2025-01-12 22:48:00,2019,Suez,Chat,High,Complaint,Sara,  Open ,278.0,,4.0,0,,24.0,
+71215,2024-12-21 06:51:00,2513,Tanta,Chat,medium,  ACCOUNT ,youssef,  Open ,64.0,61.0,4.0,0,,48.0,0.0
+71494,2024-09-21 03:38:00,2216,Suez,Phone,  High ,Complaint,Mina,Closed,598.0,67.0,4.0,0,2024-09-23 22:38:00,24.0,0.0
+70244,2025-01-08 08:04:00,2515,Suez,Chat,Medium,Refund,OMAR,Pending,191.0,,3.0,0,,48.0,
+70267,2025-01-08 16:21:00,2341,Suez,Phone,medium,Refund,Ali,Closed,345.0,162.0,,0,2025-01-15 10:21:00,48.0,0.0
+70886,2024-10-14 00:48:00,2197,Zagazig,Email,Low,Technical,  Omar ,Resolved,380.0,121.0,5.0,0,2024-10-19 01:48:00,72.0,0.0
+70787,2024-09-20 05:46:00,2285,Tanta,portal,Medium,Account,  Mina ,Resolved,630.0,49.0,4.0,0,2024-09-22 06:46:00,48.0,0.0
+71506,2024-10-30 22:50:00,2093,CAIRO,  Portal ,Medium,Delivery,  Nada ,open,596.0,,,0,,48.0,
+70945,2025-02-08 17:52:00,2040,Cairo,Portal,LOW,Delivery,Sara,Closed,250.0,159.0,4.0,0,2025-02-15 08:52:00,72.0,0.0
+71073,2024-11-01 08:59:00,2472,  Giza ,Phone,Medium,Delivery,Nada,  Open ,106.0,,3.0,1,,48.0,
+71229,2024-10-02 14:30:00,2368,Mansoura,Email,Low,Account,Ali,Resolved,536.0,136.0,,0,2024-10-08 06:30:00,72.0,0.0
+71127,2025-01-21 09:53:00,2330,Tanta,Phone,Critical,Technical,Ali,closed,719.0,127.0,3.0,1,2025-01-26 16:53:00,8.0,0.0
+71091,2025-02-03 23:49:00,2321,Tanta,  Chat ,Medium,Billing,HEBA,Open,154.0,4.0,3.0,0,,48.0,0.0
+70810,2024-10-11 11:00:00,2438,Cairo,  PHONE ,  Medium ,Delivery,Youssef,Resolved,415.0,164.0,,0,2024-10-18 07:00:00,48.0,0.0
+70023,2024-10-05 20:12:00,2253,Ismailia,Phone,Low,Refund,FARAH,Pending,14.0,,5.0,0,,72.0,
+71420,2025-01-18 06:02:00,2340,giza,  Email ,High,  Complaint ,Heba,Open,284.0,24.0,1.0,0,,24.0,0.0
+70464,2025-01-15 09:24:00,2133,  Cairo ,Chat,Medium,Refund,OMAR,Pending,239.0,,3.0,1,,48.0,
+71357,2024-12-02 03:21:00,2196,tanta,Chat,MEDIUM,Complaint,Sara,resolved,15.0,161.0,,1,2024-12-08 20:21:00,48.0,0.0
+71375,2025-01-13 17:34:00,2565,Tanta,Portal,High,ACCOUNT,Youssef,Closed,711.0,51.0,3.0,0,2025-01-15 20:34:00,24.0,0.0
+70753,2024-12-12 04:56:00,2336,Zagazig,Email,High,Refund,Ali,OPEN,393.0,,2.0,0,,24.0,
+71278,2024-11-26 17:25:00,2453,Cairo,chat,  High ,Delivery,youssef,  Closed ,277.0,136.0,5.0,0,2024-12-02 09:25:00,24.0,0.0
+70728,2024-12-01 13:35:00,2537,Ismailia,Chat,  Medium ,Refund,FARAH,Closed,178.0,78.0,,1,2024-12-04 19:35:00,48.0,0.0
+71492,2025-01-12 21:49:00,2437,Alexandria,  PORTAL ,Medium,Account,Sara,Resolved,90.0,4.0,5.0,0,2025-01-13 01:49:00,48.0,1.0
+70854,2024-11-22 09:06:00,2465,Giza,Phone,Low,REFUND,omar,Resolved,439.0,15.0,5.0,0,2024-11-23 00:06:00,72.0,1.0
+70657,2025-02-25 18:51:00,2525,Ismailia,Email,High,delivery,Youssef,resolved,446.0,75.0,4.0,0,2025-02-28 21:51:00,24.0,0.0
+70865,2025-01-16 02:42:00,2566,cairo,Chat,Medium,Technical,  Nada ,Resolved,412.0,30.0,4.0,0,2025-01-17 08:42:00,48.0,1.0
+70470,2024-12-24 00:14:00,2427,Giza,chat,LOW,Complaint,  Omar ,Resolved,468.0,109.0,3.0,0,2024-12-28 13:14:00,72.0,0.0
+70983,2024-09-29 16:16:00,2216,Suez,Phone,  Low ,  Account ,Mina,Closed,514.0,115.0,,0,2024-10-04 11:16:00,72.0,0.0
+70162,2025-02-25 11:01:00,2178,Cairo,  chat ,HIGH,COMPLAINT,ali,CLOSED,26.0,146.0,3.0,0,2025-03-03 13:01:00,24.0,0.0
+71399,2024-11-02 23:57:00,2005,ALEXANDRIA,Chat,High,TECHNICAL,  Omar ,  Resolved ,627.0,73.0,5.0,0,2024-11-06 00:57:00,24.0,0.0
+70877,2024-09-18 15:40:00,2456,Alexandria,portal,Medium,Billing,Farah,CLOSED,151.0,150.0,3.0,0,2024-09-24 21:40:00,48.0,0.0
+70898,2025-01-21 07:13:00,2142,giza,  Phone ,Medium,  DELIVERY ,Sara,RESOLVED,165.0,4.0,,0,2025-01-21 11:13:00,48.0,1.0
+71089,2024-10-17 19:48:00,2212,Cairo,  EMAIL ,LOW,Billing,sara,resolved,319.0,102.0,5.0,0,2024-10-22 01:48:00,72.0,0.0
+70988,2025-01-01 10:50:00,2545,Cairo,Chat,Low,Billing,Ali,Open,393.0,13.0,5.0,0,,72.0,0.0
+71445,2024-12-02 15:52:00,2411,GIZA,  Email ,Low,Technical,  Nada ,Resolved,38.0,66.0,,0,2024-12-05 09:52:00,72.0,1.0
+70929,2025-02-16 00:08:00,2308,Zagazig,chat,Medium,Delivery,nada,resolved,579.0,52.0,4.0,0,2025-02-18 04:08:00,48.0,0.0
+70860,2025-01-20 23:29:00,2276,Alexandria,Phone,Low,Billing,NADA,Open,490.0,57.0,5.0,0,,72.0,0.0
+70968,2024-12-22 12:58:00,2072,Giza,  Portal ,Low,Refund,Omar,Resolved,11.0,100.0,5.0,0,2024-12-26 16:58:00,72.0,0.0
+71228,2024-09-20 05:03:00,2070,CAIRO,PHONE,Medium,Complaint,Sara,Pending,363.0,,5.0,0,,48.0,
+70527,2025-01-21 11:30:00,2378,  Ismailia ,Chat,MEDIUM,BILLING,  Nada ,Resolved,113.0,25.0,4.0,0,2025-01-22 12:30:00,48.0,1.0
+70997,2025-01-23 13:54:00,2405,Mansoura,Email,  high ,Delivery,HEBA,resolved,286.0,102.0,,0,2025-01-27 19:54:00,24.0,0.0
+71558,2024-12-16 12:32:00,2258,CAIRO,Phone,Low,COMPLAINT,OMAR,Resolved,531.0,151.0,4.0,0,2024-12-22 19:32:00,72.0,0.0
+71548,2024-11-20 08:48:00,2207,alexandria,Chat,High,Technical,Nada,Open,467.0,,4.0,0,,24.0,
+71249,2025-02-19 19:31:00,2350,Zagazig,  Chat ,Low,  Account ,Mina,Resolved,593.0,137.0,3.0,0,2025-02-25 12:31:00,72.0,0.0
+71234,2024-11-23 10:41:00,2570,  Mansoura ,  Phone ,Medium,Account,  sara ,Resolved,458.0,89.0,3.0,0,2024-11-27 03:41:00,48.0,0.0
+70689,2024-11-22 22:36:00,2109,Zagazig,PHONE,  HIGH ,Account,Farah,  Open ,83.0,,5.0,0,,24.0,
+71428,2025-02-08 16:50:00,2032,SUEZ,  EMAIL ,High,Billing,nada,Closed,417.0,154.0,4.0,0,2025-02-15 02:50:00,24.0,0.0
+71522,2025-02-28 13:15:00,2221,Tanta,  Portal ,Low,technical,MINA,Resolved,113.0,87.0,,0,2025-03-04 04:15:00,72.0,0.0
+70307,2024-10-19 02:49:00,2429,ismailia,  CHAT ,Critical,Complaint,Omar,OPEN,59.0,144.0,4.0,0,,8.0,0.0
+70683,2025-02-20 05:27:00,2026,ALEXANDRIA,portal,Low,  ACCOUNT ,Farah,  Closed ,370.0,147.0,4.0,0,2025-02-26 08:27:00,72.0,0.0
+70170,2025-01-28 16:32:00,2474,Zagazig,Email,Low,delivery,Ali,Resolved,702.0,29.0,5.0,0,2025-01-29 21:32:00,72.0,1.0
+71391,2024-11-07 15:00:00,2518,Giza,Email,  Medium ,Complaint,Youssef,Resolved,252.0,141.0,,0,2024-11-13 12:00:00,48.0,0.0
+70355,2024-11-24 17:06:00,2271,alexandria,Email,  Low ,Refund,Ali,resolved,538.0,28.0,4.0,1,2024-11-25 21:06:00,72.0,1.0
+71568,2025-01-13 00:15:00,2231,  SUEZ ,Portal,Medium,  Technical ,youssef,Resolved,203.0,16.0,5.0,0,2025-01-13 16:15:00,48.0,1.0
+70414,2024-11-13 08:36:00,2210,Zagazig,phone,Low,billing,Sara,Closed,196.0,37.0,3.0,0,2024-11-14 21:36:00,72.0,1.0
+70963,2025-01-10 06:35:00,2458,  CAIRO ,Chat,medium,Refund,Heba,Resolved,384.0,115.0,4.0,0,2025-01-15 01:35:00,48.0,0.0
+70231,2025-02-23 04:56:00,2072,  Ismailia ,Chat,MEDIUM,Account,Farah,RESOLVED,580.0,108.0,3.0,0,2025-02-27 16:56:00,48.0,0.0
+71071,2024-11-23 22:06:00,2351,suez,phone,LOW,Account,mina,Resolved,717.0,167.0,4.0,0,2024-11-30 21:06:00,72.0,0.0
+71525,2025-01-09 12:27:00,2459,  Ismailia ,Email,medium,Complaint,  Youssef ,Resolved,250.0,108.0,5.0,0,2025-01-14 00:27:00,48.0,0.0
+70241,2024-09-11 10:00:00,2445,Alexandria,EMAIL,HIGH,Account,youssef,  Open ,92.0,,4.0,0,,24.0,
+70400,2024-10-01 00:12:00,2042,Giza,Email,medium,Account,Sara,Closed,630.0,116.0,3.0,0,2024-10-05 20:12:00,48.0,0.0
+71272,2025-02-13 00:45:00,2240,Alexandria,EMAIL,High,Technical,Sara,OPEN,594.0,41.0,5.0,0,,24.0,0.0
+71480,2025-02-01 01:47:00,2382,Alexandria,Chat,  medium ,Billing,Mina,Closed,188.0,126.0,2.0,0,2025-02-06 07:47:00,48.0,0.0
+70206,2025-01-20 03:09:00,2288,Alexandria,  Chat ,Medium,Technical,ALI,Open,664.0,,,0,,48.0,
+71396,2024-11-14 05:19:00,2315,Tanta,Chat,Critical,Account,Sara,open,298.0,,3.0,0,,8.0,
+71133,2025-01-31 08:22:00,2141,Suez,Phone,  Low ,Technical,Omar,  Resolved ,561.0,14.0,3.0,0,2025-01-31 22:22:00,72.0,1.0
+71244,2024-10-26 18:00:00,2514,zagazig,Phone,low,  Delivery ,HEBA,  Pending ,382.0,,4.0,0,,72.0,
+71006,2024-11-22 23:32:00,2002,Zagazig,Portal,  Medium ,Technical,Sara,Resolved,389.0,37.0,4.0,0,2024-11-24 12:32:00,48.0,1.0
+70291,2024-11-15 17:34:00,2583,  suez ,Chat,Critical,DELIVERY,youssef,RESOLVED,324.0,130.0,,0,2024-11-21 03:34:00,8.0,0.0
+70002,2024-09-10 21:13:00,2552,  Suez ,PORTAL,LOW,DELIVERY,Sara,open,51.0,,4.0,0,,72.0,
+70329,2025-02-12 02:48:00,2039,GIZA,  Email ,Low,Refund,YOUSSEF,  Resolved ,700.0,5.0,3.0,0,2025-02-12 07:48:00,72.0,1.0
+71532,2024-09-21 05:07:00,2048,Zagazig,CHAT,High,Delivery,Sara,Pending,538.0,80.0,3.0,0,,24.0,0.0
+71557,2024-09-07 01:05:00,2349,Suez,chat,Low,Technical,  Omar ,Closed,258.0,3.0,2.0,0,2024-09-07 04:05:00,72.0,1.0
+70927,2024-12-27 16:32:00,2573,Giza,Chat,Medium,Delivery,farah,RESOLVED,290.0,44.0,,0,2024-12-29 12:32:00,48.0,1.0
+70404,2025-01-05 01:02:00,2275,Giza,Email,High,  Account ,Sara,RESOLVED,719.0,146.0,3.0,0,2025-01-11 03:02:00,24.0,0.0
+71013,2024-10-15 09:57:00,2156,  cairo ,PORTAL,MEDIUM,Account,  mina ,Resolved,348.0,75.0,4.0,0,2024-10-18 12:57:00,48.0,0.0
+70262,2024-11-07 00:24:00,2261,Zagazig,Email,Critical,Account,Nada,pending,630.0,,5.0,0,,8.0,
+70389,2024-12-15 11:18:00,2413,Ismailia,portal,Critical,REFUND,Heba,Open,540.0,76.0,5.0,0,,8.0,0.0
+70145,2024-10-12 03:19:00,2557,MANSOURA,Portal,Medium,Complaint,Omar,Open,719.0,,,0,,48.0,
+70441,2025-02-27 00:38:00,2211,  Mansoura ,Chat,High,Billing,NADA,Closed,194.0,160.0,,0,2025-03-05 16:38:00,24.0,0.0
+70843,2024-12-22 22:36:00,2300,Zagazig,email,LOW,  complaint ,NADA,  Closed ,497.0,136.0,5.0,0,2024-12-28 14:36:00,72.0,0.0
+70641,2024-09-12 21:48:00,2176,Alexandria,  CHAT ,  Low ,Delivery,OMAR,Pending,420.0,,5.0,0,,72.0,
+70187,2024-11-17 10:15:00,2446,Suez,Phone,Low,Delivery,  Omar ,  Resolved ,404.0,133.0,4.0,0,2024-11-22 23:15:00,72.0,0.0
+71077,2024-10-11 22:27:00,2069,Giza,Phone,Low,Refund,OMAR,Resolved,99.0,67.0,5.0,0,2024-10-14 17:27:00,72.0,1.0
+70356,2024-11-17 18:13:00,2254,  Tanta ,Chat,high,  Complaint ,,RESOLVED,440.0,98.0,5.0,0,2024-11-21 20:13:00,24.0,0.0
+70246,2024-12-17 09:44:00,2457,Giza,Email,  Low ,Billing,Omar,Pending,484.0,,3.0,0,,72.0,
+70773,2024-09-21 02:16:00,2415,Mansoura,Portal,Medium,Complaint,FARAH,Resolved,22.0,140.0,,0,2024-09-26 22:16:00,48.0,0.0
+71530,2025-02-13 01:03:00,2433,Mansoura,Chat,  Medium ,Refund,Sara,CLOSED,116.0,138.0,2.0,0,2025-02-18 19:03:00,48.0,0.0
+70435,2024-11-02 14:24:00,2136,  Cairo ,  Email ,High,Technical,Heba,Resolved,-5.0,53.0,5.0,1,2024-11-04 19:24:00,24.0,0.0
+70791,2025-01-16 11:27:00,2188,,  Chat ,Low,  Billing ,  Omar ,Resolved,130.0,29.0,2.0,0,2025-01-17 16:27:00,72.0,1.0
+70183,2024-10-31 16:49:00,2009,Mansoura,Portal,Low,Account,Omar,  Resolved ,430.0,68.0,,0,2024-11-03 12:49:00,72.0,1.0
+71517,2024-11-01 13:38:00,2121,Ismailia,Phone,Medium,  TECHNICAL ,Youssef,Open,578.0,,5.0,0,,48.0,
+70481,2024-10-07 13:23:00,2506,Mansoura,chat,  Low ,  BILLING ,Heba,Open,70.0,60.0,,0,,72.0,0.0
+70940,2024-10-14 14:00:00,2033,MANSOURA,Email,  Low ,Account,Ali,Open,604.0,137.0,2.0,0,,72.0,0.0
+70059,2024-10-05 07:19:00,2542,Mansoura,  Chat ,MEDIUM,  billing ,Mina,closed,322.0,138.0,,0,2024-10-11 01:19:00,48.0,0.0
+70444,2025-01-20 02:42:00,2226,Ismailia,Chat,  High ,billing,Sara,Open,199.0,,3.0,0,,24.0,
+70361,2024-12-11 09:05:00,2335,Alexandria,Email,Low,Refund,OMAR,resolved,554.0,69.0,4.0,0,2024-12-14 06:05:00,72.0,1.0
+70960,2025-02-08 11:09:00,2539,Suez,portal,high,DELIVERY,Youssef,Closed,316.0,53.0,3.0,0,2025-02-10 16:09:00,24.0,0.0
+70050,2024-12-14 23:04:00,2290,ALEXANDRIA,Phone,High,Billing,Mina,Closed,352.0,31.0,4.0,0,2024-12-16 06:04:00,24.0,0.0
+71337,2024-12-06 11:37:00,2372,alexandria,  Email ,Low,Complaint,Omar,  RESOLVED ,478.0,25.0,,0,2024-12-07 12:37:00,72.0,1.0
+71162,2025-01-04 13:08:00,2290,Cairo,Email,Low,Technical,  OMAR ,  CLOSED ,244.0,86.0,,0,2025-01-08 03:08:00,72.0,0.0
+71511,2024-12-12 06:54:00,2437,Cairo,Phone,Low,Complaint,Omar,Resolved,463.0,39.0,4.0,1,2024-12-13 21:54:00,72.0,1.0
+71300,2024-12-22 21:32:00,2071,Ismailia,Chat,LOW,Account,  YOUSSEF ,  CLOSED ,292.0,17.0,5.0,0,2024-12-23 14:32:00,72.0,1.0
+70934,2024-10-24 14:52:00,2093,Zagazig,Chat,HIGH,Account,Omar,open,514.0,,,0,,24.0,
+70396,2024-09-18 02:13:00,2003,MANSOURA,PHONE,Low,Technical,,Closed,477.0,52.0,5.0,0,2024-09-20 06:13:00,72.0,1.0
+70740,2025-02-13 15:32:00,2395,Mansoura,Chat,High,  Technical ,Youssef,Resolved,252.0,70.0,3.0,0,2025-02-16 13:32:00,24.0,0.0
+70130,2025-02-03 04:28:00,2409,Ismailia,Email,Low,  Billing ,Farah,Open,636.0,,5.0,0,,72.0,
+70215,2024-09-06 02:49:00,2049,Giza,Phone,LOW,Billing,ALI,Resolved,564.0,16.0,5.0,0,2024-09-06 18:49:00,72.0,1.0
+70275,2025-01-15 12:38:00,2372,Cairo,Portal,Medium,Billing,  NADA ,RESOLVED,10.0,62.0,5.0,0,2025-01-18 02:38:00,48.0,0.0
+71037,2025-02-06 01:11:00,2351,Alexandria,Portal,Low,  Delivery ,Farah,Resolved,283.0,6.0,,0,2025-02-06 07:11:00,72.0,1.0
+70633,2025-02-25 19:38:00,2504,  TANTA ,Portal,Medium,Technical,Mina,Resolved,340.0,7.0,5.0,0,2025-02-26 02:38:00,48.0,1.0
+70893,2024-12-09 00:38:00,2281,Alexandria,portal,Medium,Billing,NADA,open,37.0,,4.0,0,,48.0,
+70235,2024-09-12 11:18:00,2057,  Ismailia ,Email,  Low ,  Complaint ,Ali,Open,508.0,,3.0,0,,72.0,
+70831,2024-11-30 12:51:00,2014,Tanta,  Portal ,Low,  REFUND ,MINA,resolved,177.0,149.0,4.0,0,2024-12-06 17:51:00,72.0,0.0
+71502,2024-11-27 11:02:00,2560,Suez,portal,Low,Technical,Heba,Pending,153.0,81.0,2.0,0,,72.0,0.0
+70953,2024-11-12 04:20:00,2530,ismailia,Email,High,technical,Mina,Resolved,372.0,73.0,5.0,0,2024-11-15 05:20:00,24.0,0.0
+70473,2024-12-03 08:19:00,2247,  suez ,Phone,Low,  ACCOUNT ,Sara,resolved,287.0,3.0,,0,2024-12-03 11:19:00,72.0,1.0
+71212,2024-12-04 00:28:00,2499,Giza,Chat,MEDIUM,Delivery,heba,Open,701.0,,4.0,0,,48.0,
+70239,2024-11-29 05:06:00,2394,Suez,chat,Low,DELIVERY,Omar,Resolved,216.0,80.0,,0,2024-12-02 13:06:00,72.0,0.0
+70957,2025-01-17 08:26:00,2307,Tanta,Email,medium,delivery,HEBA,Pending,106.0,92.0,3.0,0,,48.0,0.0
+70989,2024-11-21 16:49:00,2087,Ismailia,Chat,Low,Account,Sara,pending,305.0,,4.0,0,,72.0,
+70734,2024-10-07 02:01:00,2511,Cairo,  PORTAL ,Medium,Delivery,OMAR,  Resolved ,120.0,59.0,4.0,0,2024-10-09 13:01:00,48.0,0.0
+71442,2025-02-17 18:03:00,2031,  MANSOURA ,Chat,Medium,Technical,Heba,resolved,660.0,41.0,4.0,0,2025-02-19 11:03:00,48.0,1.0
+70348,2024-11-24 14:18:00,2060,ALEXANDRIA,Email,Medium,Technical,Sara,Pending,363.0,22.0,,0,,48.0,0.0
+70242,2024-11-02 02:04:00,2582,Suez,Chat,Low,Technical,heba,Resolved,112.0,-2.0,5.0,1,2024-11-09 00:04:00,72.0,0.0
+71321,2024-09-30 19:55:00,2313,Cairo,Email,LOW,Complaint,Farah,Resolved,367.0,73.0,4.0,1,2024-10-03 20:55:00,72.0,0.0
+70572,2025-02-20 07:33:00,2033,Ismailia,Email,Critical,Technical,Sara,resolved,178.0,38.0,5.0,0,2025-02-21 21:33:00,8.0,0.0
+70437,2024-11-18 02:49:00,2135,Suez,Chat,  Low ,Account,Youssef,Pending,275.0,155.0,4.0,0,,72.0,0.0
+71559,2025-02-24 13:51:00,2251,Cairo,Email,High,Delivery,  Ali ,Resolved,561.0,66.0,,0,2025-02-27 07:51:00,24.0,0.0
+70578,2024-11-10 03:51:00,2112,ISMAILIA,Email,Low,complaint,SARA,RESOLVED,475.0,3.0,4.0,0,2024-11-10 06:51:00,72.0,1.0
+71150,2024-10-03 19:00:00,2291,Tanta,chat,Low,Refund,Sara,resolved,101.0,65.0,5.0,0,2024-10-06 12:00:00,72.0,1.0
+70919,2025-02-14 17:41:00,2482,Zagazig,EMAIL,medium,refund,Omar,Open,341.0,9.0,,0,,48.0,0.0
+70057,2025-02-02 07:17:00,2371,,PHONE,Medium,Refund,Youssef,Open,504.0,,5.0,0,,48.0,
+70502,2025-02-13 23:05:00,2424,Mansoura,Email,  Low ,Delivery,Nada,Resolved,316.0,108.0,3.0,0,2025-02-18 11:05:00,72.0,0.0
+70639,2025-01-09 00:26:00,2344,Tanta,Chat,Medium,Refund,Omar,RESOLVED,216.0,101.0,4.0,0,2025-01-13 05:26:00,48.0,0.0
+70349,2024-12-25 11:50:00,2479,  Mansoura ,chat,MEDIUM,  Refund ,Nada,Closed,571.0,127.0,,0,2024-12-30 18:50:00,48.0,0.0
+70383,2024-10-12 13:25:00,2155,Tanta,Chat,High,  Refund ,Youssef,Resolved,67.0,49.0,5.0,0,2024-10-14 14:25:00,24.0,0.0
