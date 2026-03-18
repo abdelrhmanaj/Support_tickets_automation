@@ -124,24 +124,6 @@ Formats include:
 
 ---
 
-## How to Run the Project
-
-1. Install Python libraries:
-
-```
-pip install pandas openpyxl
-```
-
-2. Run the script:
-
-```
-python automation_support_report.py
-```
-
-3. The reports will automatically be generated in the output folder.
-
----
-
 ## Technologies Used
 
 * Python 🐍
